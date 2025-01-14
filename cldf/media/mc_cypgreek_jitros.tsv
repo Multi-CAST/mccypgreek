@@ -1,0 +1,1635 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+cypgreek	jitros	0001	#	#	##	##				
+cypgreek	jitros	0001	Mian	a_f	ln	ln				
+cypgreek	jitros	0001	foran	time	np:other	np		other		
+cypgreek	jitros	0001	ishen	had-3sg	predex	predex				
+cypgreek	jitros	0001	enan	a_m	ln	ln				
+cypgreek	jitros	0001	vasilean	king	np.h:s	np	h	s		
+cypgreek	jitros	0002	#	#	##	##				
+cypgreek	jitros	0002	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0002	Ishen	had-3sg	v:pred	v		pred		
+cypgreek	jitros	0002	enan	a_m	ln	ln				
+cypgreek	jitros	0002	yon	son	np.h:p	np	h	p		
+cypgreek	jitros	0003	#	#	##	##				
+cypgreek	jitros	0003	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0003	Ekamen	made-3sg	v:pred	v		pred		
+cypgreek	jitros	0003	=ton	=him	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0003	dheka	ten	ln	ln				
+cypgreek	jitros	0003	xronon	years	np:other	np		other		
+cypgreek	jitros	0003	#	#	#	#				
+cypgreek	jitros	0003	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0003	epiennen	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0003	skolion	to.school	np:g	np		g		
+cypgreek	jitros	0004	#	#	##	##				
+cypgreek	jitros	0004	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0004	Ekamen	made-3sg	v:pred	v		pred		
+cypgreek	jitros	0004	=ton	=him	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0004	dhekapende	fifteen	ln	ln				
+cypgreek	jitros	0004	xronon	years	np:other	np		other		
+cypgreek	jitros	0004	#	#	#	#				
+cypgreek	jitros	0004	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0004	epiennen	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0004	skolion	to.school	np:g	np		g		
+cypgreek	jitros	0005	#	#	##ac	##ac				
+cypgreek	jitros	0005	Molis	As.soon.as	other	other				
+cypgreek	jitros	0005	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0005	eyinin	became-3sg	cop	cop				
+cypgreek	jitros	0005	ikosi	twenty	ln	ln				
+cypgreek	jitros	0005	xronon	years	np:pred	np		pred		
+cypgreek	jitros	0005	#	#	#	#				
+cypgreek	jitros	0005	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0005	ekamnen	made-3sg	v:pred	v		pred		
+cypgreek	jitros	0005	peripaton	walk	np:p	np		p		
+cypgreek	jitros	0005	mes	in	adp	adp				
+cypgreek	jitros	0005	to	the	ln	ln				
+cypgreek	jitros	0005	palatin	palace	np:l	np		l		
+cypgreek	jitros	0005	tu	the	ln	ln				
+cypgreek	jitros	0005	patera	father	np:poss	np		poss		
+cypgreek	jitros	0005	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0006	#	#	##	##				
+cypgreek	jitros	0006	Mian	a_f	ln	ln				
+cypgreek	jitros	0006	imeran	day	np:other	np		other		
+cypgreek	jitros	0006	epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0006	i	the	ln	ln				
+cypgreek	jitros	0006	dhula	servant	np.h:s	np	h	s		
+cypgreek	jitros	0006	#	#	#	#				
+cypgreek	jitros	0006	je	and	other	other				
+cypgreek	jitros	0006	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0006	ivren	found-3sg	v:pred	v		pred		
+cypgreek	jitros	0006	=ton	=him	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0006	#	#	#	#				
+cypgreek	jitros	0006	je	and	other	other				
+cypgreek	jitros	0006	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0006	itun	was-3sg	cop	cop				
+cypgreek	jitros	0006	mes	in	adp	adp				
+cypgreek	jitros	0006	sto	to.the	ln	ln				
+cypgreek	jitros	0006	stroman	mattress	np:pred_l	np		pred_l		
+cypgreek	jitros	0006	#	#	#	#				
+cypgreek	jitros	0006	j	and	other	other				
+cypgreek	jitros	0006	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0006	eppeften	lied-3sg	v:pred	v		pred		
+cypgreek	jitros	0007	#	#	##ds	##ds				
+cypgreek	jitros	0007	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0007	Anu	get.up-2sg	imp_v:pred	imp_v		pred		
+cypgreek	jitros	0007	pedhin	child	np.h:voc	np	h	voc		
+cypgreek	jitros	0007	#	#	#ds	#ds				
+cypgreek	jitros	0007	j	and	other	other				
+cypgreek	jitros	0007	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0007	efera	brought-1sg	v:pred	v		pred		
+cypgreek	jitros	0007	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	jitros	0007	to	the	ln	ln				
+cypgreek	jitros	0007	mbukkoman	breakfast	np:p	np		p		
+cypgreek	jitros	0008	#	#	##neg	##neg				
+cypgreek	jitros	0008	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0008	En	not	other	other				
+cypgreek	jitros	0008	epoloithin	answered-3sg	v:pred	v		pred		
+cypgreek	jitros	0009	#	#	##	##				
+cypgreek	jitros	0009	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0009	Evalen	put-3sg	v:pred	v		pred		
+cypgreek	jitros	0009	to	the	ln	ln				
+cypgreek	jitros	0009	ghalan	milk	np:p	np		p		
+cypgreek	jitros	0009	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0009	jame	there	other:g	other		g		
+cypgreek	jitros	0009	to	the	ln	ln				
+cypgreek	jitros	0009	mbukkoman	breakfast	rn_np	rn_np				
+cypgreek	jitros	0009	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0009	#	#	#	#				
+cypgreek	jitros	0009	0	she_0	0.h:s	0	h	s		
+cypgreek	jitros	0009	epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0010	#	#	##	##				
+cypgreek	jitros	0010	To	the	ln	ln				
+cypgreek	jitros	0010	mesomerin	noon	np:other	np		other		
+cypgreek	jitros	0010	irten	came-3sg	v:pred	v		pred		
+cypgreek	jitros	0010	i	the	ln	ln				
+cypgreek	jitros	0010	dhula	servant	np.h:s	np	h	s		
+cypgreek	jitros	0010	#	#	#	#				
+cypgreek	jitros	0010	e	ah	other	other				
+cypgreek	jitros	0010	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0010	xori	sees-3sg	v:pred	v		pred		
+cypgreek	jitros	0010	to	the	ln	ln				
+cypgreek	jitros	0010	mboukkoman	breakfast	np:p	np		p		
+cypgreek	jitros	0010	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0010	jaxame	there	other:l	other		l		
+cypgreek	jitros	0010	#	#	#	#				
+cypgreek	jitros	0010	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0010	eferen	brought-3sg	v:pred	v		pred		
+cypgreek	jitros	0010	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	jitros	0010	je	and	other	other				
+cypgreek	jitros	0010	to	the	ln	ln				
+cypgreek	jitros	0010	mesomerkatikon	lunch	np:p	np		p		
+cypgreek	jitros	0011	#	#	##neg	##neg				
+cypgreek	jitros	0011	Pale	Again	other	other				
+cypgreek	jitros	0011	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0011	en	not	other	other				
+cypgreek	jitros	0011	0	it_0	0:p	0		p		
+cypgreek	jitros	0011	efaen	ate-3sg	v:pred	v		pred		
+cypgreek	jitros	0011	ute	nor	other	other				
+cypgreek	jitros	0011	to	the	ln	ln				
+cypgreek	jitros	0011	mesomerin	noon	np:other	np		other		
+cypgreek	jitros	0012	#	#	##	##				
+cypgreek	jitros	0012	Tin	the	ln	ln				
+cypgreek	jitros	0012	nixtan	night	np:other	np		other		
+cypgreek	jitros	0012	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0012	perni	takes-3sg	v:pred	v		pred		
+cypgreek	jitros	0012	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	jitros	0012	ton	the	ln	ln				
+cypgreek	jitros	0012	dhipnon	dinner	np:p	np		p		
+cypgreek	jitros	0012	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0012	#	#	#ac	#ac				
+cypgreek	jitros	0012	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0012	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0012	fai	eats-3sg	v:pred	v		pred		
+cypgreek	jitros	0012	#	#	#	#				
+cypgreek	jitros	0012	pale	again	other	other				
+cypgreek	jitros	0012	jaxame	there	other:l	other		l		
+cypgreek	jitros	0012	je	and	other	other				
+cypgreek	jitros	0012	to	the	ln	ln				
+cypgreek	jitros	0012	mbukkoman	breakfast	np:pred	np		pred		
+cypgreek	jitros	0012	je	and	other	other				
+cypgreek	jitros	0012	to	the	ln	ln				
+cypgreek	jitros	0012	mesomerkatikon	lunch	rn_np	rn_np				
+cypgreek	jitros	0013	#	#	##	##				
+cypgreek	jitros	0013	Je	and	other	other				
+cypgreek	jitros	0013	o	the	ln	ln				
+cypgreek	jitros	0013	dhipnos	dinner	np:p	np		p		
+cypgreek	jitros	0013	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0013	#	#	#rc	#rc				
+cypgreek	jitros	0013	po	that	other	other				
+cypgreek	jitros	0013	piren	took-3sg	v:pred	v		pred		
+cypgreek	jitros	0013	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0013	#	#	#neg	#neg				
+cypgreek	jitros	0013	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0013	en	not	other	other				
+cypgreek	jitros	0013	efaen	ate-3sg	v:pred	v		pred		
+cypgreek	jitros	0014	#	#	##ds	##ds				
+cypgreek	jitros	0014	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0014	Akuse	listen-2sg (?)	imp_v:pred (?)	imp_v		pred (?)		
+cypgreek	jitros	0014	jira	lady	np.h:voc	np	h	voc		
+cypgreek	jitros	0014	vasilissa	queen	np.h:voc	np	h	voc		
+cypgreek	jitros	0014	#	#	#ds	#ds				
+cypgreek	jitros	0014	o	the	ln	ln				
+cypgreek	jitros	0014	yos	son	np.h:s	np	h	s		
+cypgreek	jitros	0014	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	jitros	0014	#	#	#ds_ec	#ds_ec				
+cypgreek	jitros	0014	0	I_0	0.1:s	0	1	s		
+cypgreek	jitros	0014	nomizo	think-1sg	v:pred	v		pred		
+cypgreek	jitros	0014	%ds	%ds	%ds	%ds				
+cypgreek	jitros	0014	en	is-3sg	cop	cop				
+cypgreek	jitros	0014	arostos	sick	other:pred	other		pred		
+cypgreek	jitros	0015	#	#	##ds	##ds				
+cypgreek	jitros	0015	potte	no.way	other	other				
+cypgreek	jitros	0015	kori	girl	np.h:voc	np	h	voc		
+cypgreek	jitros	0016	#	#	##ds_neg	##ds_neg				
+cypgreek	jitros	0016	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0016	En	not	other	other				
+cypgreek	jitros	0016	efaen	ate-3sg	v:pred	v		pred		
+cypgreek	jitros	0016	me	neither	other	other				
+cypgreek	jitros	0016	bukkoman	breakfast	np:p	np		p		
+cypgreek	jitros	0016	me	nor	other	other				
+cypgreek	jitros	0016	mesomerin	lunch	np:other	np		other		
+cypgreek	jitros	0016	me	nor	other	other				
+cypgreek	jitros	0016	dhipnon	dinner	np:other	np		other		
+cypgreek	jitros	0016	#	#	#ds_neg_nc	#ds_neg_nc				
+cypgreek	jitros	0016	je	and	other	other				
+cypgreek	jitros	0016	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	jitros	0016	en	not	other	other				
+cypgreek	jitros	0016	=mu	=to.me	=pro.1:g	=pro	1	g		
+cypgreek	jitros	0016	emilisen	said(?)	v:pred	v		pred		
+cypgreek	jitros	0016	#	#	#ds	#ds				
+cypgreek	jitros	0016	an	if	other	other				
+cypgreek	jitros	0016	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0016	en	is-3sg	cop	cop				
+cypgreek	jitros	0016	arostos	sick	other:pred	other		pred		
+cypgreek	jitros	0016	#	#	#ds	#ds				
+cypgreek	jitros	0016	ya	or	other	other				
+cypgreek	jitros	0016	an	if	other	other				
+cypgreek	jitros	0016	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0016	poni	has.pain.in-3sg	v:pred	v		pred		
+cypgreek	jitros	0016	kati	something	other:p	other		p		
+cypgreek	jitros	0017	#	#	##ds	##ds				
+cypgreek	jitros	0017	E	Ah	other	other				
+cypgreek	jitros	0017	0	I_0	0.1:s	0	1	s		
+cypgreek	jitros	0017	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0017	pao	go-1sg	v:pred	v		pred		
+cypgreek	jitros	0017	kori	girl	np.h:voc	np	h	voc		
+cypgreek	jitros	0017	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0017	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0017	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0017	dho	see-1sg	v:pred	v		pred		
+cypgreek	jitros	0017	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0017	to	the	ln	ln				
+cypgreek	jitros	0017	pedhin	child	np.h:p	np	h	p		
+cypgreek	jitros	0017	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0018	#	#	#	#				
+cypgreek	jitros	0018	Epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0018	i	the	ln	ln				
+cypgreek	jitros	0018	vasilissa	queen	np.h:s	np	h	s		
+cypgreek	jitros	0019	#	#	##ds	##ds				
+cypgreek	jitros	0019	Ti	what	other:p	other		p		
+cypgreek	jitros	0019	eshis	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0019	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0019	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0019	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0019	#	#	#ds_neg	#ds_neg				
+cypgreek	jitros	0019	j	and	other	other				
+cypgreek	jitros	0019	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0019	en	not	other	other				
+cypgreek	jitros	0019	=mas	=to.us	=pro.1:p	=pro	1	p		
+cypgreek	jitros	0019	milas	talk-2sg	v:pred	v		pred		
+cypgreek	jitros	0020	#	#	##ds_ac	##ds_ac				
+cypgreek	jitros	0020	An	if	other	other				
+cypgreek	jitros	0020	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0020	ise	are-2sg	cop	cop				
+cypgreek	jitros	0020	arostos	sick	other:pred	other		pred		
+cypgreek	jitros	0020	#	#	#ds	#ds				
+cypgreek	jitros	0020	0	we_0	0.1:a	0	1	a		
+cypgreek	jitros	0020	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0020	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	jitros	0020	ferumen	bring-1pl	v:pred	v		pred		
+cypgreek	jitros	0020	yatron	doctor	np.h:p	np	h	p		
+cypgreek	jitros	0021	#	#	##ds_neg	##ds_neg				
+cypgreek	jitros	0021	Oxi	no	other	other				
+cypgreek	jitros	0021	mamma	mother	np.h:voc	np	h	voc		
+cypgreek	jitros	0021	0	I_0	0.1:s	0	1	s		
+cypgreek	jitros	0021	en	not	other	other				
+cypgreek	jitros	0021	ime	am-1sg	cop	cop				
+cypgreek	jitros	0021	arostos	sick	other:pred	other		pred		
+cypgreek	jitros	0022	#	#	##ds	##ds				
+cypgreek	jitros	0022	Kalo	what.then	other	other				
+cypgreek	jitros	0023	#	#	##ds	##ds				
+cypgreek	jitros	0023	Ti	What	other:p	other		p		
+cypgreek	jitros	0023	eshis	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0023	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0024	#	#	##ds_neg	##ds_neg				
+cypgreek	jitros	0024	Tipote	nothing	other	other				
+cypgreek	jitros	0025	#	#	##ds	##ds				
+cypgreek	jitros	0025	E	Hey	other	other				
+cypgreek	jitros	0025	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0025	anu	get.up-2sg	imp_v:pred	imp_v		pred		
+cypgreek	jitros	0025	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0025	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0025	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0025	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0025	0	we_0	0.1:s	0	1	s		
+cypgreek	jitros	0025	pamen	go-1pl	v:pred	v		pred		
+cypgreek	jitros	0025	kato	down	other:g	other		g		
+cypgreek	jitros	0025	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0025	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0025	=se	=you	=pro.2:p	=pro	2	p		
+cypgreek	jitros	0025	dhi	see-2sg	v:pred	v		pred		
+cypgreek	jitros	0025	o	the	ln	ln				
+cypgreek	jitros	0025	pateras	father	np.h:a	np	h	a		
+cypgreek	jitros	0025	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	jitros	0025	#	#	#ds	#ds				
+cypgreek	jitros	0025	je	and	other	other				
+cypgreek	jitros	0025	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0025	marazefki	is.sad-3sg	cop	cop				
+cypgreek	jitros	0026	#	#	##ds	##ds				
+cypgreek	jitros	0026	as	lets-3sg	aux_l	aux_l				
+cypgreek	jitros	0026	erti	come-3sg	v:pred	v		pred		
+cypgreek	jitros	0026	jinos	that.one_m	dem_pro:s	dem_pro		s		
+cypgreek	jitros	0027	#	#	##ds	##ds				
+cypgreek	jitros	0027	Potte	no.way	other:s	other		s		
+cypgreek	jitros	0027	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0027	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0027	en	is-3sg	cop	cop				
+cypgreek	jitros	0027	dhinaton	possible	other:pred	other		pred		
+cypgreek	jitros	0027	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0027	o	the	ln	ln				
+cypgreek	jitros	0027	vasileas	king	np.h:s	np	h	s		
+cypgreek	jitros	0027	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0027	'rti	comes-3sg	v:pred	v		pred		
+cypgreek	jitros	0027	sto	to.the	ln	ln				
+cypgreek	jitros	0027	poin	foot	np:g	np		g		
+cypgreek	jitros	0027	tu	the	ln	ln				
+cypgreek	jitros	0027	pedhk'u	child	np:poss	np		poss		
+cypgreek	jitros	0027	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0028	#	#	##ds	##ds				
+cypgreek	jitros	0028	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0028	Anu	get.up-2sg	imp_v:pred	imp_v		pred		
+cypgreek	jitros	0028	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0028	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0028	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0028	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0028	pais	go-2sg	v:pred	v		pred		
+cypgreek	jitros	0028	esu	you	pro.2:s	pro	2	s		
+cypgreek	jitros	0029	#	#	##ds_neg	##ds_neg				
+cypgreek	jitros	0029	oxi	no	other	other				
+cypgreek	jitros	0029	eo	I	pro.1:s	pro	1	s		
+cypgreek	jitros	0029	en	not	other	other				
+cypgreek	jitros	0029	paenno	go-1sg	v:pred	v		pred		
+cypgreek	jitros	0030	#	#	##	##				
+cypgreek	jitros	0030	Epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0030	i	the	ln	ln				
+cypgreek	jitros	0030	vasilissa	queen	np.h:s	np	h	s		
+cypgreek	jitros	0031	#	#	##ds	##ds				
+cypgreek	jitros	0031	Ti	What	other:p	other		p		
+cypgreek	jitros	0031	eshi	has-3sg	v:pred	v		pred		
+cypgreek	jitros	0031	jira	lady	ln	ln				
+cypgreek	jitros	0031	vasilissa	queen	np.h:voc	np	h	voc		
+cypgreek	jitros	0031	o	the	ln	ln				
+cypgreek	jitros	0031	yos	son	np.h:a	np	h	a		
+cypgreek	jitros	0031	mas	our	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0032	#	#	##	##				
+cypgreek	jitros	0032	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	jitros	0032	Mila	says-3sg	v:pred	v		pred		
+cypgreek	jitros	0032	#	#	#ds	#ds				
+cypgreek	jitros	0032	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0032	pais	go-2sg	v:pred	v		pred		
+cypgreek	jitros	0032	esu	you	pro.2:s	pro	2	s		
+cypgreek	jitros	0033	#	#	##ds	##ds				
+cypgreek	jitros	0033	Eo	I	pro.1:s_ds	pro	1	s_ds		
+cypgreek	jitros	0033	milo	tell-1sg	v:pred	v		pred		
+cypgreek	jitros	0033	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	jitros	0033	#	#	#ds	#ds				
+cypgreek	jitros	0033	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0033	pai	goes-3sg	v:pred	v		pred		
+cypgreek	jitros	0033	jinos	that.one_m	dem_pro.h:s	dem_pro	h	s		
+cypgreek	jitros	0033	#	#	#ds_neg	#ds_neg				
+cypgreek	jitros	0033	je	and	other	other				
+cypgreek	jitros	0033	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0033	dhen	not	other	other				
+cypgreek	jitros	0033	pai	goes-3sg	v:pred	v		pred		
+cypgreek	jitros	0034	#	#	##	##				
+cypgreek	jitros	0034	O	the	ln	ln				
+cypgreek	jitros	0034	vasileas	king	np.h:a	np	h	a		
+cypgreek	jitros	0034	pale	again	other	other				
+cypgreek	jitros	0034	#	#	#ac	#ac				
+cypgreek	jitros	0034	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0034	poni	has.pain.in-3sg	v:pred	v		pred		
+cypgreek	jitros	0034	tin	the	ln	ln				
+cypgreek	jitros	0034	kark'an	heart	np:obl	np		obl		
+cypgreek	jitros	0034	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0034	#	#	#	#				
+cypgreek	jitros	0034	epk'axen	took-3sg	v:pred	v		pred		
+cypgreek	jitros	0034	tin	the	ln	ln				
+cypgreek	jitros	0034	skalan	staircase	np:p	np		p		
+cypgreek	jitros	0034	#	#	#	#				
+cypgreek	jitros	0034	j	and	other	other				
+cypgreek	jitros	0034	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0034	epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0034	konda	near	adp	adp				
+cypgreek	jitros	0034	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	jitros	0035	#	#	##ds	##ds				
+cypgreek	jitros	0035	Ti	What	other:p	other		p		
+cypgreek	jitros	0035	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0035	eshis	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0035	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0035	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0035	#	#	#ds_neg	#ds_neg				
+cypgreek	jitros	0035	je	and	other	other				
+cypgreek	jitros	0035	0	you_0	0.2:s_ds	0	2	s_ds		
+cypgreek	jitros	0035	en	not	other	other				
+cypgreek	jitros	0035	=mu	=to.me	=pro.1:g	=pro	1	g		
+cypgreek	jitros	0035	milas	talk-2sg	v:pred	v		pred		
+cypgreek	jitros	0036	#	#	##ds	##ds				
+cypgreek	jitros	0036	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0036	Ise	are-2sg	cop	cop				
+cypgreek	jitros	0036	arostos	sick	other:pred	other		pred		
+cypgreek	jitros	0036	#	#	#ds	#ds				
+cypgreek	jitros	0036	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0036	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0036	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	jitros	0036	fero	bring-1sg	v:pred	v		pred		
+cypgreek	jitros	0036	yatron	doctor	np.h:p	np	h	p		
+cypgreek	jitros	0036	#	#	#ds	#ds				
+cypgreek	jitros	0036	j	and	other	other				
+cypgreek	jitros	0036	eminan	stayed-3pl	v:pred	v		pred		
+cypgreek	jitros	0036	ta	the	ln	ln				
+cypgreek	jitros	0036	faya	food	np:s	np		s		
+cypgreek	jitros	0036	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	jitros	0036	jame	there	other:l	other		l		
+cypgreek	jitros	0036	#	#	#ds	#ds				
+cypgreek	jitros	0036	je	and	other	other				
+cypgreek	jitros	0036	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0036	xoris	look-2sg	v:pred	v		pred		
+cypgreek	jitros	0036	=ta	=to.them	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0036	#	#	#ds_neg	#ds_neg				
+cypgreek	jitros	0036	j	and	other	other				
+cypgreek	jitros	0036	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0036	en	not	other	other				
+cypgreek	jitros	0036	0	them_0	0:p	0		p		
+cypgreek	jitros	0036	trois	eat-2sg	v:pred	v		pred		
+cypgreek	jitros	0037	#	#	##ds	##ds				
+cypgreek	jitros	0037	Ti	What	other:p	other		p		
+cypgreek	jitros	0037	eshis	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0037	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0037	#	#	#ds	#ds				
+cypgreek	jitros	0037	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0037	ise	are-2sg	cop	cop				
+cypgreek	jitros	0037	kakofanizmenos	insulted	other:pred	other		pred		
+cypgreek	jitros	0037	mazi	with	adp	adp				
+cypgreek	jitros	0037	mu	to.me	=pro.1:obl	=pro	1	obl		
+cypgreek	jitros	0037	tipotes	possibly	other	other				
+cypgreek	jitros	0038	#	#	##ds	##ds				
+cypgreek	jitros	0038	Malista!	Yes.indeed	other	other				
+cypgreek	jitros	0039	#	#	##ds	##ds				
+cypgreek	jitros	0039	Je	And	other	other				
+cypgreek	jitros	0039	ti	what	other:p	other		p		
+cypgreek	jitros	0039	eshis?	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0039	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0040	#	#	##ds	##ds				
+cypgreek	jitros	0040	O	the	ln	ln				
+cypgreek	jitros	0040	yos	son	np.h:dt_obl	np	h	dt_obl		
+cypgreek	jitros	0040	tu	the	ln	ln				
+cypgreek	jitros	0040	vasilea	king	np.h:poss	np	h	poss		
+cypgreek	jitros	0040	tu	the	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0040	allu	other	rn	rn				
+cypgreek	jitros	0040	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0040	ekamen	made-3sg	v:pred	v		pred		
+cypgreek	jitros	0040	=tu	=to.him	=pro.h:obl	=pro	h	obl		
+cypgreek	jitros	0040	palatin	palace	np:p	np		p		
+cypgreek	jitros	0040	me	with	adp	adp				
+cypgreek	jitros	0040	to	the	ln	ln				
+cypgreek	jitros	0040	parkonin	balcony	np:obl	np		obl		
+cypgreek	jitros	0040	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0040	me	with	adp	adp				
+cypgreek	jitros	0040	tin	the	ln	ln				
+cypgreek	jitros	0040	taratsan	terrace	np:obl	np		obl		
+cypgreek	jitros	0040	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0040	me	with	adp	adp				
+cypgreek	jitros	0040	to	the	ln	ln				
+cypgreek	jitros	0040	milon	apple	np:obl	np		obl		
+cypgreek	jitros	0040	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0040	to	the	rn	rn				
+cypgreek	jitros	0040	ghrison	golden	rn	rn				
+cypgreek	jitros	0040	me	with	adp	adp				
+cypgreek	jitros	0040	to	the	ln	ln				
+cypgreek	jitros	0040	spathin	sword	np:obl	np		obl		
+cypgreek	jitros	0040	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0040	je	and	other	other				
+cypgreek	jitros	0040	me	with	adp	adp				
+cypgreek	jitros	0040	to	the	ln	ln				
+cypgreek	jitros	0040	evagelion	bible	np:obl	np		obl		
+cypgreek	jitros	0040	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0040	#	#	#ds	#ds				
+cypgreek	jitros	0040	j	and	other	other				
+cypgreek	jitros	0040	esu	you	pro.2:a	pro	2	a		
+cypgreek	jitros	0040	eshis	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0040	=me	=to.me	=pro.1:p	=pro	1	p		
+cypgreek	jitros	0040	koma	still	other	other				
+cypgreek	jitros	0040	etsi	so	other	other				
+cypgreek	jitros	0040	aplon	simple	other	other				
+cypgreek	jitros	0041	#	#	##ds	##ds				
+cypgreek	jitros	0041	E	Hey	other	other				
+cypgreek	jitros	0041	je	and	other	other				
+cypgreek	jitros	0041	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0041	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0041	=su	=to.you	=pro.2:obl	=pro	2	obl		
+cypgreek	jitros	0041	0	it_0	0:p	0		p		
+cypgreek	jitros	0041	kamo	make-1sg	v:pred	v		pred		
+cypgreek	jitros	0041	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0041	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0042	#	#	##	##				
+cypgreek	jitros	0042	Avrion	tomorrow	other	other				
+cypgreek	jitros	0042	osus	what	ln	ln				
+cypgreek	jitros	0042	arkates	workers	np.h:p	np	h	p		
+cypgreek	jitros	0042	0	it_0	0:a	0		a		
+cypgreek	jitros	0042	eshi	has-3sg	v:pred	v		pred		
+cypgreek	jitros	0042	#	#	#	#				
+cypgreek	jitros	0042	osus	what	ln	ln				
+cypgreek	jitros	0042	xtistaes	builders	np.h:p	np	h	p		
+cypgreek	jitros	0042	0	it_0	0:a	0		a		
+cypgreek	jitros	0042	eshi	has-3sg	v:pred	v		pred		
+cypgreek	jitros	0042	#	#	#	#				
+cypgreek	jitros	0042	etelofonisen	called-3sg	v:pred	v		pred		
+cypgreek	jitros	0042	o	the	ln	ln				
+cypgreek	jitros	0042	vasileas	king	np.h:s	np	h	s		
+cypgreek	jitros	0042	#	#	#	#				
+cypgreek	jitros	0042	0	they_0	0.h:s	0	h	s		
+cypgreek	jitros	0042	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0042	'rtun	come-3pl	v:pred	v		pred		
+cypgreek	jitros	0042	is	to	adp	adp				
+cypgreek	jitros	0042	to	the	ln	ln				
+cypgreek	jitros	0042	vasilion	kingdom	np:g	np		g		
+cypgreek	jitros	0042	#	#	#	#				
+cypgreek	jitros	0042	0	they_0	0.h:a	0	h	a		
+cypgreek	jitros	0042	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0042	pk'axun	take-3pl	v:pred	v		pred		
+cypgreek	jitros	0042	ghoul'an	work	np:p	np		p		
+cypgreek	jitros	0042	#	#	#	#				
+cypgreek	jitros	0042	0	they_0	0.h:a	0	h	a		
+cypgreek	jitros	0042	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0042	kamun	make-3pl	v:pred	v		pred		
+cypgreek	jitros	0042	tu	the	ln	ln				
+cypgreek	jitros	0042	yu	son	np.h:obl	np	h	obl		
+cypgreek	jitros	0042	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0042	palatin	palace	np:p	np		p		
+cypgreek	jitros	0043	#	#	##	##				
+cypgreek	jitros	0043	Mes	In	adp	adp				
+cypgreek	jitros	0043	se	to	ln	ln				
+cypgreek	jitros	0043	dhekapende	fifteen	ln	ln				
+cypgreek	jitros	0043	meres	days	np:other	np		other		
+cypgreek	jitros	0043	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0043	ekurtisen	wound-3sg	v:pred	v		pred		
+cypgreek	jitros	0043	to	the	ln	ln				
+cypgreek	jitros	0043	palatin	palace	np:p	np		p		
+cypgreek	jitros	0043	tu	the	ln	ln				
+cypgreek	jitros	0043	yu	son	np.h:poss	np	h	poss		
+cypgreek	jitros	0043	tu	the	ln	ln				
+cypgreek	jitros	0043	vasilea	king	np.h:poss	np	h	poss		
+cypgreek	jitros	0043	me	with	adp	adp				
+cypgreek	jitros	0043	ta	the	ln	ln				
+cypgreek	jitros	0043	parkonia	balconies	np:obl	np		obl		
+cypgreek	jitros	0043	me	with	adp	adp				
+cypgreek	jitros	0043	tes	the	ln	ln				
+cypgreek	jitros	0043	taratses	terraces	np:obl	np		obl		
+cypgreek	jitros	0043	me	with	adp	adp				
+cypgreek	jitros	0043	ola	everything	other:obl	other		obl		
+cypgreek	jitros	0043	e	ah	other	other				
+cypgreek	jitros	0043	milon	apple	np:other	np		other		
+cypgreek	jitros	0043	xrison	golden	rn	rn				
+cypgreek	jitros	0043	evagelion	cane	np:other	np		other		
+cypgreek	jitros	0043	ghruson	golden	rn	rn				
+cypgreek	jitros	0043	pastunin	cane	np:other	np		other		
+cypgreek	jitros	0043	ghrison	golden	rn	rn				
+cypgreek	jitros	0043	#	#	#	#				
+cypgreek	jitros	0043	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0043	ekamnen	made-3sg	v:pred	v		pred		
+cypgreek	jitros	0043	peripato	walk	np:p	np		p		
+cypgreek	jitros	0043	kathimera	everyday	other	other				
+cypgreek	jitros	0043	pa	on	adp	adp				
+cypgreek	jitros	0043	s	to	ln	ln				
+cypgreek	jitros	0043	jindin	that.the	ln	ln				
+cypgreek	jitros	0043	taratsan	terrace	np:l	np		l		
+cypgreek	jitros	0043	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0044	#	#	##	##				
+cypgreek	jitros	0044	Mian	a_f	ln	ln				
+cypgreek	jitros	0044	imeran	day	np:other	np		other		
+cypgreek	jitros	0044	tsa	(after)	nc	nc				
+cypgreek	jitros	0044	to	the	ln	ln				
+cypgreek	jitros	0044	broeman	breakfast	np:other	np		other		
+cypgreek	jitros	0044	ishen	had-3sg	predex	predex				
+cypgreek	jitros	0044	mian	a_f	ln	ln				
+cypgreek	jitros	0044	kojakarin	old.woman	np.h:s	np	h	s		
+cypgreek	jitros	0044	san	like	other	other				
+cypgreek	jitros	0044	j	and	other	other				
+cypgreek	jitros	0044	emena	I	pro.1:other	pro	1	other		
+cypgreek	jitros	0044	#	#	#	#				
+cypgreek	jitros	0044	j	and	other	other				
+cypgreek	jitros	0044	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0044	epk'aen	took-3sg	v:pred	v		pred		
+cypgreek	jitros	0044	to	the	ln	ln				
+cypgreek	jitros	0044	kuzin	pot	np:p	np		p		
+cypgreek	jitros	0044	tis	her	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0044	#	#	#ac	#ac				
+cypgreek	jitros	0044	0	she_0	0.h:s	0	h	s		
+cypgreek	jitros	0044	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0044	pai	goes-3sg	v:pred	v		pred		
+cypgreek	jitros	0044	stin	to.the	ln	ln				
+cypgreek	jitros	0044	fundanan	fountain	np:g	np		g		
+cypgreek	jitros	0044	#	#	#ac	#ac				
+cypgreek	jitros	0044	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0044	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0044	=to	=it	=pro:p	=pro		p		
+cypgreek	jitros	0044	yemosi	fills-3sg	v:pred	v		pred		
+cypgreek	jitros	0045	#	#	##	##				
+cypgreek	jitros	0045	Eppesen	fell-3sg	v:pred	v		pred		
+cypgreek	jitros	0045	to	the	ln	ln				
+cypgreek	jitros	0045	milon	apple	np:s	np		s		
+cypgreek	jitros	0045	tu	the	ln	ln				
+cypgreek	jitros	0045	yu	son	np.h:poss	np	h	poss		
+cypgreek	jitros	0045	tu	the	ln	ln				
+cypgreek	jitros	0045	vasilea	king	np.h:poss	np	h	poss		
+cypgreek	jitros	0045	#	#	#	#				
+cypgreek	jitros	0045	j	and	other	other				
+cypgreek	jitros	0045	0	it_0	0:a	0		a		
+cypgreek	jitros	0045	etripisen	drilled-3sg	v:pred	v		pred		
+cypgreek	jitros	0045	=tis	=to.her	=pro.h:obl	=pro	h	obl		
+cypgreek	jitros	0045	to	the	ln	ln				
+cypgreek	jitros	0045	kuzin	pot	np:p	np		p		
+cypgreek	jitros	0045	tis	her	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0046	#	#	##ds	##ds				
+cypgreek	jitros	0046	O	Oh	other	other				
+cypgreek	jitros	0046	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0046	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0046	vasilopullin	prince	np.h:voc	np	h	voc		
+cypgreek	jitros	0046	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0046	pu	that	other	other				
+cypgreek	jitros	0046	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0046	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0046	shis	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0046	tes	the	ln	ln				
+cypgreek	jitros	0046	efjes	wishes	np:p	np		p		
+cypgreek	jitros	0046	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0046	#	#	#ds	#ds				
+cypgreek	jitros	0046	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0046	etripises	drilled-3sg	v:pred	v		pred		
+cypgreek	jitros	0046	=mu	=to.me	=pro.1:obl	=pro	1	obl		
+cypgreek	jitros	0046	to	the	ln	ln				
+cypgreek	jitros	0046	kuzin	pot	np:p	np		p		
+cypgreek	jitros	0046	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0046	#	#	#ds	#ds				
+cypgreek	jitros	0046	j	and	other	other				
+cypgreek	jitros	0046	indalois	how	other	other				
+cypgreek	jitros	0046	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0046	enna	will	aux_l	aux_l				
+cypgreek	jitros	0046	0	it_0	0:p	0		p		
+cypgreek	jitros	0046	yemoso	fill-1sg	v:pred	v		pred		
+cypgreek	jitros	0046	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0046	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0046	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0046	paro	take-1sg	v:pred	v		pred		
+cypgreek	jitros	0046	neron	water	np:p	np		p		
+cypgreek	jitros	0046	esso	to.home	np:g	np		g		
+cypgreek	jitros	0046	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0047	#	#	##ds	##ds				
+cypgreek	jitros	0047	Pu	That	other	other				
+cypgreek	jitros	0047	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0047	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0047	shis	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0047	tes	the	ln	ln				
+cypgreek	jitros	0047	efjes	wishes	np:p	np		p		
+cypgreek	jitros	0047	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0047	#	#	#ds	#ds				
+cypgreek	jitros	0047	je	and	other	other				
+cypgreek	jitros	0047	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0047	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0047	paris	take-2sg	v:pred	v		pred		
+cypgreek	jitros	0047	tin	the	ln	ln				
+cypgreek	jitros	0047	korin	daughter	np.h:p	np	h	p		
+cypgreek	jitros	0047	tu	the	ln	ln				
+cypgreek	jitros	0047	Jitru	Jitros	np:poss	np		poss		
+cypgreek	jitros	0047	tu	the	ln	ln				
+cypgreek	jitros	0047	Jitromilu	Jitromilos	np:poss	np		poss		
+cypgreek	jitros	0048	#	#	##	##				
+cypgreek	jitros	0048	A	Ah	other	other				
+cypgreek	jitros	0048	amesos	immediately	other	other				
+cypgreek	jitros	0048	to	the	ln	ln				
+cypgreek	jitros	0048	kopellin	young.man	np.h:a	np	h	a		
+cypgreek	jitros	0048	exelen	wanted-3sg	v:pred	v		pred		
+cypgreek	jitros	0048	tin	the	ln	ln				
+cypgreek	jitros	0048	kopellan	girl	np.h:p	np	h	p		
+cypgreek	jitros	0048	jinin	that	rn	rn				
+cypgreek	jitros	0048	tu	the	ln	ln				
+cypgreek	jitros	0048	Jitrou	Jitros	np:poss	np		poss		
+cypgreek	jitros	0048	tu	the	ln	ln				
+cypgreek	jitros	0048	Jitromilou	Jitromilos	np:poss	np		poss		
+cypgreek	jitros	0049	#	#	##	##				
+cypgreek	jitros	0049	Erkete	comes-3sg	v:pred	v		pred		
+cypgreek	jitros	0049	i	the	ln	ln				
+cypgreek	jitros	0049	dhula	servant	np.h:s	np	h	s		
+cypgreek	jitros	0049	#	#	#	#				
+cypgreek	jitros	0049	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0049	ferni	brings-3sg	v:pred	v		pred		
+cypgreek	jitros	0049	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	jitros	0049	to	the	ln	ln				
+cypgreek	jitros	0049	mbukkoman	breakfast	np:p	np		p		
+cypgreek	jitros	0049	#	#	#neg	#neg				
+cypgreek	jitros	0049	e	ah	other	other				
+cypgreek	jitros	0049	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0049	en	not	other	other				
+cypgreek	jitros	0049	0	it_0	0:p	0		p		
+cypgreek	jitros	0049	troi	eats-3sg	v:pred	v		pred		
+cypgreek	jitros	0049	#	#	#	#				
+cypgreek	jitros	0049	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0049	ferni	brings-3sg	v:pred	v		pred		
+cypgreek	jitros	0049	to	the	ln	ln				
+cypgreek	jitros	0049	mesomerin	lunch	np:p	np		p		
+cypgreek	jitros	0049	#	#	#neg	#neg				
+cypgreek	jitros	0049	pale	again	other	other				
+cypgreek	jitros	0049	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0049	en	not	other	other				
+cypgreek	jitros	0049	0	it_0	0:p	0		p		
+cypgreek	jitros	0049	troi	eats-3sg	v:pred	v		pred		
+cypgreek	jitros	0049	#	#	#	#				
+cypgreek	jitros	0049	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0049	ferni	brings-3sg	v:pred	v		pred		
+cypgreek	jitros	0049	ton	the	ln	ln				
+cypgreek	jitros	0049	dhipnon	dinner	np:p	np		p		
+cypgreek	jitros	0049	#	#	#neg	#neg				
+cypgreek	jitros	0049	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0049	en	not	other	other				
+cypgreek	jitros	0049	0	it_0	0:p	0		p		
+cypgreek	jitros	0049	troi	eats-3sg	v:pred	v		pred		
+cypgreek	jitros	0050	#	#	##ds_neg	##ds_neg				
+cypgreek	jitros	0050	A	Oh	other	other				
+cypgreek	jitros	0050	jira	Lady	ln	ln				
+cypgreek	jitros	0050	Vasilissa	Queen	np.h:voc	np	h	voc		
+cypgreek	jitros	0050	pale	again	other	other				
+cypgreek	jitros	0050	o	the	ln	ln				
+cypgreek	jitros	0050	yos	son	np.h:a	np	h	a		
+cypgreek	jitros	0050	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	jitros	0050	en	not	other	other				
+cypgreek	jitros	0050	troi	eats-3sg	v:pred	v		pred		
+cypgreek	jitros	0050	me	neither	other	other				
+cypgreek	jitros	0050	bukkoman	breakfast	np:p	np		p		
+cypgreek	jitros	0050	me	nor	other	other				
+cypgreek	jitros	0050	mesomerin	lunch	rn_np	rn_np				
+cypgreek	jitros	0050	me	nor	other	other				
+cypgreek	jitros	0050	dhipnon	dinner	rn_np	rn_np				
+cypgreek	jitros	0051	#	#	##ds	##ds				
+cypgreek	jitros	0051	Ti	What	other:p	other		p		
+cypgreek	jitros	0051	eshi	has-3sg	v:pred	v		pred		
+cypgreek	jitros	0051	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0051	ajepa	question-particle	other	other				
+cypgreek	jitros	0051	#	#	#ds	#ds				
+cypgreek	jitros	0051	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0051	en	is-3sg	cop	cop				
+cypgreek	jitros	0051	arostos	sick	other:pred	other		pred		
+cypgreek	jitros	0052	#	#	##ds	##ds				
+cypgreek	jitros	0052	A	Oh	other	other				
+cypgreek	jitros	0052	0	I_0	0.1:s	0	1	s		
+cypgreek	jitros	0052	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0052	pao	go-1sg	v:pred	v		pred		
+cypgreek	jitros	0052	#	#	#ds	#ds				
+cypgreek	jitros	0052	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0052	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0052	=ton	=to.him	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0052	dho	see-1sg	v:pred	v		pred		
+cypgreek	jitros	0053	#	#	##	##				
+cypgreek	jitros	0053	0	she_0	0.h:s	0	h	s		
+cypgreek	jitros	0053	Epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0054	#	#	##ds	##ds				
+cypgreek	jitros	0054	Inda	What	other:p	other		p		
+cypgreek	jitros	0054	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0054	'shis	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0054	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0054	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0054	#	#	#ds	#ds				
+cypgreek	jitros	0054	je	and	other	other				
+cypgreek	jitros	0054	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0054	ppeftis	lie-2sg	v:pred	v		pred		
+cypgreek	jitros	0054	#	#	#ds_neg	#ds_neg				
+cypgreek	jitros	0054	je	and	other	other				
+cypgreek	jitros	0054	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0054	en	not	other	other				
+cypgreek	jitros	0054	erkese	come-2sg	v:pred	v		pred		
+cypgreek	jitros	0054	kato	down	other:g	other		g		
+cypgreek	jitros	0054	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0054	0	we_0	0.1:a	0	1	a		
+cypgreek	jitros	0054	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0054	=se	=you	=pro.2:p	=pro	2	p		
+cypgreek	jitros	0054	dhumen	see-1pl	v:pred	v		pred		
+cypgreek	jitros	0054	#	#	#ds	#ds				
+cypgreek	jitros	0054	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0054	ise	are-2sg	cop	cop				
+cypgreek	jitros	0054	arostos	sick	other:pred	other		pred		
+cypgreek	jitros	0054	#	#	#ds	#ds				
+cypgreek	jitros	0054	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0054	eshis	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0054	jefaloponon	headache	np:p	np		p		
+cypgreek	jitros	0054	#	#	#ds	#ds				
+cypgreek	jitros	0054	0	we_0	0.1:a	0	1	a		
+cypgreek	jitros	0054	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0054	=se	=to.you	=pro.2:p	=pro	2	p		
+cypgreek	jitros	0054	parumen	take-1pl	v:pred	v		pred		
+cypgreek	jitros	0054	is	to	adp	adp				
+cypgreek	jitros	0054	ton	the	ln	ln				
+cypgreek	jitros	0054	yatron	doctor	np.h:g	np	h	g		
+cypgreek	jitros	0055	#	#	##ds_neg	##ds_neg				
+cypgreek	jitros	0055	Oi	No	other	other				
+cypgreek	jitros	0055	0	I_0	0.1:s	0	1	s		
+cypgreek	jitros	0055	en	not	other	other				
+cypgreek	jitros	0055	ime	am-1sg	cop	cop				
+cypgreek	jitros	0055	arostos	sick	other:pred	other		pred		
+cypgreek	jitros	0056	#	#	##ds	##ds				
+cypgreek	jitros	0056	Kalo	What.then	other	other				
+cypgreek	jitros	0057	#	#	##ds	##ds				
+cypgreek	jitros	0057	Kati	Something	other	other				
+cypgreek	jitros	0058	#	#	##ds	##ds				
+cypgreek	jitros	0058	E	Hey	other	other				
+cypgreek	jitros	0058	0	we_0	0.1:s	0	1	s		
+cypgreek	jitros	0058	pamen	go-1pl	v:pred	v		pred		
+cypgreek	jitros	0058	kato	down	other:g	other		g		
+cypgreek	jitros	0058	#	#	#ds	#ds				
+cypgreek	jitros	0058	je	and	other	other				
+cypgreek	jitros	0058	xeli	wants-3sg	v:pred	v		pred		
+cypgreek	jitros	0058	=se	=you	=pro.2:p	=pro	2	p		
+cypgreek	jitros	0058	o	the	ln	ln				
+cypgreek	jitros	0058	pateras	father	np.h:a	np	h	a		
+cypgreek	jitros	0058	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	jitros	0059	#	#	##ds	##ds				
+cypgreek	jitros	0059	Oi	No	other	other				
+cypgreek	jitros	0059	as	lets-3sg	aux_l	aux_l				
+cypgreek	jitros	0059	erti	comes-3sg	v:pred	v		pred		
+cypgreek	jitros	0059	jinos	that.one_m	dem_pro.h:s	dem_pro	h	s		
+cypgreek	jitros	0060	#	#	##ds_neg_nc	##ds_neg_nc				
+cypgreek	jitros	0060	E	ah	other	other				
+cypgreek	jitros	0060	je	and	other	other				
+cypgreek	jitros	0060	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0060	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0060	dhen	nc	nc	nc				
+cypgreek	jitros	0060	0	it_0	0:s	0		s		
+cypgreek	jitros	0060	en	not	other	other				
+cypgreek	jitros	0060	andropi	shame	np:pred	np		pred		
+cypgreek	jitros	0060	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0060	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0060	rti	comes-3sg	v:pred	v		pred		
+cypgreek	jitros	0060	o	the	ln	ln				
+cypgreek	jitros	0060	jiris	father	np.h:s	np	h	s		
+cypgreek	jitros	0060	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	jitros	0060	sta	to.the	ln	ln				
+cypgreek	jitros	0060	podk'a	feet	np:g	np		g		
+cypgreek	jitros	0060	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	jitros	0060	#	#	#ds	#ds				
+cypgreek	jitros	0060	vasileas	king	np:other	np		other		
+cypgreek	jitros	0060	#	#	#ds_rc	#ds_rc				
+cypgreek	jitros	0060	pu	that	other	other				
+cypgreek	jitros	0060	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0060	vrexete	is.found-3sg	cop	cop				
+cypgreek	jitros	0061	#	#	##ds_neg	##ds_neg				
+cypgreek	jitros	0061	E	Ok	other	other				
+cypgreek	jitros	0061	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0061	as	lets-3sg	aux_l	aux_l				
+cypgreek	jitros	0061	men	not	other	other				
+cypgreek	jitros	0061	erti	come	v:pred	v		pred		
+cypgreek	jitros	0062	#	#	##	##				
+cypgreek	jitros	0062	Epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0062	i	the	ln	ln				
+cypgreek	jitros	0062	vasilissa	queen	np.h:s	np	h	s		
+cypgreek	jitros	0062	kato	down	other:g	other		g		
+cypgreek	jitros	0062	#	#	#	#				
+cypgreek	jitros	0062	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	jitros	0062	lali	tells-3sg	v:pred	v		pred		
+cypgreek	jitros	0062	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	jitros	0063	#	#	##ds_neg	##ds_neg				
+cypgreek	jitros	0063	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0063	En	not	other	other				
+cypgreek	jitros	0063	erkete	comes-3sg	v:pred	v		pred		
+cypgreek	jitros	0064	#	#	##ds	##ds				
+cypgreek	jitros	0064	Yati	why	other	other				
+cypgreek	jitros	0065	#	#	##ds	##ds				
+cypgreek	jitros	0065	Yati	why	other	other				
+cypgreek	jitros	0066	#	#	##ds_neg	##ds_neg				
+cypgreek	jitros	0066	E	So	other	other				
+cypgreek	jitros	0066	en	is-3sg	cop	cop				
+cypgreek	jitros	0066	xartomeni	fiancée	np.h:pred	np	h	pred		
+cypgreek	jitros	0066	0	it_0	0:s	0		s		
+cypgreek	jitros	0066	#	#	#ds_rc	#ds_rc				
+cypgreek	jitros	0066	pu	that	other	other				
+cypgreek	jitros	0066	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0066	xeli	wants-3sg	v:pred	v		pred		
+cypgreek	jitros	0066	sioura	for.sure	other	other				
+cypgreek	jitros	0066	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0066	ya	in.order	other	other				
+cypgreek	jitros	0066	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0066	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0066	angristi	gets.angry-3sg	v:pred	v		pred		
+cypgreek	jitros	0066	tora	now	other	other				
+cypgreek	jitros	0066	#	#	#ds_neg	#ds_neg				
+cypgreek	jitros	0066	j	and	other	other				
+cypgreek	jitros	0066	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0066	en	not	other	other				
+cypgreek	jitros	0066	en	is-3sg	cop	cop				
+cypgreek	jitros	0066	arostos	sick	other:pred	other		pred		
+cypgreek	jitros	0066	#	#	#ds	#ds				
+cypgreek	jitros	0066	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0066	theli	wants-3sg	v:pred	v		pred		
+cypgreek	jitros	0066	xartomeni	fiancée	np.h:p	np	h	p		
+cypgreek	jitros	0067	#	#	##	##				
+cypgreek	jitros	0067	E	So	other	other				
+cypgreek	jitros	0067	epk'aen	took-3sg	v:pred	v		pred		
+cypgreek	jitros	0067	tin	the	ln	ln				
+cypgreek	jitros	0067	skalan	staircase	np:p	np		p		
+cypgreek	jitros	0067	pale	again	other	other				
+cypgreek	jitros	0067	o	the	ln	ln				
+cypgreek	jitros	0067	vasileas	king	np.h:a	np	h	a		
+cypgreek	jitros	0067	#	#	#	#				
+cypgreek	jitros	0067	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0067	epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0067	pano	up	other:g	other		g		
+cypgreek	jitros	0068	#	#	##ds	##ds				
+cypgreek	jitros	0068	Ti	What	other:p	other		p		
+cypgreek	jitros	0068	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0068	eshis	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0068	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0068	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0068	#	#	#ds	#ds				
+cypgreek	jitros	0068	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0068	ise	are-2sg	cop	cop				
+cypgreek	jitros	0068	arostos	sick	other:pred	other		pred		
+cypgreek	jitros	0068	#	#	#ds	#ds				
+cypgreek	jitros	0068	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0068	ponis	have.pain.in-2sg	v:pred	v		pred		
+cypgreek	jitros	0068	to	the	ln	ln				
+cypgreek	jitros	0068	kefalin	head	np:obl	np		obl		
+cypgreek	jitros	0068	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	jitros	0069	#	#	##ds	##ds				
+cypgreek	jitros	0069	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0069	Na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0069	=mas	=to.us	=pro.1:g	=pro	1	g		
+cypgreek	jitros	0069	milisis	tell-2sg	v:pred	v		pred		
+cypgreek	jitros	0069	#	#	#ds_cc:p	#ds_cc		p		
+cypgreek	jitros	0069	inda	what	other:s	other		s		
+cypgreek	jitros	0069	n	is-3sg	cop	cop				
+cypgreek	jitros	0069	0	it_0	0:p	0		p		
+cypgreek	jitros	0069	#	#	#ds_rc	#ds_rc				
+cypgreek	jitros	0069	pu	that	other	other				
+cypgreek	jitros	0069	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0069	xelis	want-2sg	v:pred	v		pred		
+cypgreek	jitros	0070	#	#	##ds	##ds				
+cypgreek	jitros	0070	Nda	Ok (?)	other	other				
+cypgreek	jitros	0070	eyoni	I	pro.1:s	pro	1	s		
+cypgreek	jitros	0070	ime	am-1sg	cop	cop				
+cypgreek	jitros	0070	thapano	up.here	other:pred	other		pred		
+cypgreek	jitros	0070	tha	here	other:pred	other		pred		
+cypgreek	jitros	0070	#	#	#ds	#ds				
+cypgreek	jitros	0070	je	and	other	other				
+cypgreek	jitros	0070	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0070	esira	threw-1sg	v:pred	v		pred		
+cypgreek	jitros	0070	to	the	ln	ln				
+cypgreek	jitros	0070	milon	apple	np:p	np		p		
+cypgreek	jitros	0070	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0070	#	#	#ds	#ds				
+cypgreek	jitros	0070	je	and	other	other				
+cypgreek	jitros	0070	0	it_0	0:s	0		s		
+cypgreek	jitros	0070	eppesen	fell-3sg	v:pred	v		pred		
+cypgreek	jitros	0070	pa	on	adp	adp				
+cypgreek	jitros	0070	se	to	ln	ln				
+cypgreek	jitros	0070	mias	a_f	ln	ln				
+cypgreek	jitros	0070	kojakaris	old.woman	np.h:poss	np	h	poss		
+cypgreek	jitros	0070	to	the	ln	ln				
+cypgreek	jitros	0070	kuzin	pot	np:g	np		g		
+cypgreek	jitros	0070	tis	her	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0070	#	#	#ds	#ds				
+cypgreek	jitros	0070	j	and	other	other				
+cypgreek	jitros	0070	etripisen	drilled-3sg	v:pred	v		pred		
+cypgreek	jitros	0070	=to	=it	=pro:p	=pro		p		
+cypgreek	jitros	0070	to	the	ln	ln				
+cypgreek	jitros	0070	milon	apple	np:a	np		a		
+cypgreek	jitros	0070	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0070	#	#	#ds	#ds				
+cypgreek	jitros	0070	je	and	other	other				
+cypgreek	jitros	0070	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	jitros	0070	ipen	said-3sg	v:pred	v		pred		
+cypgreek	jitros	0070	#	#	#ds	#ds				
+cypgreek	jitros	0070	eshe	have-2sg	imp_v:pred	imp_v		pred		
+cypgreek	jitros	0070	tes	the	ln	ln				
+cypgreek	jitros	0070	efjes	wishes	np:p	np		p		
+cypgreek	jitros	0070	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0070	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0070	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0070	#	#	#ds	#ds				
+cypgreek	jitros	0070	pu	that	other	other				
+cypgreek	jitros	0070	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0070	mo	to.me	=pro.1:obl	=pro	1	obl		
+cypgreek	jitros	0070	tripises	drilled-2sg	v:pred	v		pred		
+cypgreek	jitros	0070	to	the	ln	ln				
+cypgreek	jitros	0070	kuzin	pot	np:p	np		p		
+cypgreek	jitros	0070	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0070	#	#	#ds	#ds				
+cypgreek	jitros	0070	je	and	other	other				
+cypgreek	jitros	0070	indalis	how	other	other				
+cypgreek	jitros	0070	enna	will	aux_l	aux_l				
+cypgreek	jitros	0070	ferno	bring-1sg	v:pred	v		pred		
+cypgreek	jitros	0070	yo	I	pro.1:a	pro	1	a		
+cypgreek	jitros	0070	neron	water	np:p	np		p		
+cypgreek	jitros	0070	#	#	#ds	#ds				
+cypgreek	jitros	0070	pu	that	other	other				
+cypgreek	jitros	0070	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0070	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0070	shis	have-2sg	v:pred	v		pred		
+cypgreek	jitros	0070	tin	the	ln	ln				
+cypgreek	jitros	0070	efjin	wish	np:p	np		p		
+cypgreek	jitros	0070	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0070	#	#	#ds	#ds				
+cypgreek	jitros	0070	je	and	other	other				
+cypgreek	jitros	0070	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0070	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0070	paris	take-2sg	v:pred	v		pred		
+cypgreek	jitros	0070	tin	the	ln	ln				
+cypgreek	jitros	0070	korin	daughter	np.h:p	np	h	p		
+cypgreek	jitros	0070	tu	of	ln	ln				
+cypgreek	jitros	0070	Jitru	Jitros	np.h:poss	np	h	poss		
+cypgreek	jitros	0070	tu	of	ln	ln				
+cypgreek	jitros	0070	Jitromilu	Jitromilos	np.h:poss	np	h	poss		
+cypgreek	jitros	0070	#	#	#ds	#ds				
+cypgreek	jitros	0070	je	and	other	other				
+cypgreek	jitros	0070	ejo	I	pro.1:a	pro	1	a		
+cypgreek	jitros	0070	xelo	want-1sg	v:pred	v		pred		
+cypgreek	jitros	0070	tin	the	ln	ln				
+cypgreek	jitros	0070	korin	daughter	np.h:p	np	h	p		
+cypgreek	jitros	0070	tu	of	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0070	Jitru	Jitros	rn	rn				
+cypgreek	jitros	0070	tu	of	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0070	Jitromilu	Jitromil	rn	rn				
+cypgreek	jitros	0071	#	#	##	##				
+cypgreek	jitros	0071	E	So	other	other				
+cypgreek	jitros	0071	je	and	other	other				
+cypgreek	jitros	0071	pu	from	other	other				
+cypgreek	jitros	0071	en	is-3sg	cop	cop				
+cypgreek	jitros	0071	tuti	this.one_f	ln	ln				
+cypgreek	jitros	0071	i	the	ln	ln				
+cypgreek	jitros	0071	kojakari	old.woman	np.h:s	np	h	s		
+cypgreek	jitros	0071	#	#	#	#				
+cypgreek	jitros	0071	0	we_0	0.1:a	0	1	a		
+cypgreek	jitros	0071	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0071	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0071	evrumen	find-1pl	v:pred	v		pred		
+cypgreek	jitros	0071	#	#	#	#				
+cypgreek	jitros	0071	0	she_0	0.h:a	0	h	a		
+cypgreek	jitros	0071	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0071	=mas	=to.us	=pro.1:p	=pro	1	p		
+cypgreek	jitros	0071	paranjili	instructs-3sg	v:pred	v		pred		
+cypgreek	jitros	0071	#	#	#	#				
+cypgreek	jitros	0071	pu	from	other	other				
+cypgreek	jitros	0071	en	is-3sg	cop	cop				
+cypgreek	jitros	0071	i	the	ln	ln				
+cypgreek	jitros	0071	kori	daughter	np.h:pred	np	h	pred		
+cypgreek	jitros	0071	tu	of	adp	adp				
+cypgreek	jitros	0071	Jitru	Jitros	np.h:poss	np	h	poss		
+cypgreek	jitros	0071	tu	of	adp	adp				
+cypgreek	jitros	0071	Jitromilu	Jitromilos	np.h:poss	np	h	poss		
+cypgreek	jitros	0072	#	#	##ds	##ds				
+cypgreek	jitros	0072	Inda	What	other:p	other		p		
+cypgreek	jitros	0072	ksero	know-1sg	v:pred	v		pred		
+cypgreek	jitros	0072	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0072	#	#	#ds	#ds				
+cypgreek	jitros	0072	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0072	n	mod_that	nonindic	nonindic				
+cypgreek	jitros	0072	arotisis	ask-2sg	v:pred	v		pred		
+cypgreek	jitros	0072	0	it_0	0:p	0		p		
+cypgreek	jitros	0073	#	#	##ds	##ds				
+cypgreek	jitros	0073	Ate	interjection	other	other				
+cypgreek	jitros	0073	xaparka	news	np:other	np		other		
+cypgreek	jitros	0073	minimata	messages	np:other	np		other		
+cypgreek	jitros	0073	opu	wherever	other	other				
+cypgreek	jitros	0073	tin	the	ln	ln				
+cypgreek	jitros	0073	kojakari	old.woman	np.h:other	np	h	other		
+cypgreek	jitros	0073	#	#	#ds	#ds				
+cypgreek	jitros	0073	0	she_0	0.h:s	0	h	s		
+cypgreek	jitros	0073	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0073	pai	goes-3sg	v:pred	v		pred		
+cypgreek	jitros	0073	ston	to.the	ln	ln				
+cypgreek	jitros	0073	vasilea	king	np.h:g	np	h	g		
+cypgreek	jitros	0073	#	#	#ds	#ds				
+cypgreek	jitros	0073	je	and	other	other				
+cypgreek	jitros	0073	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0073	xeli	wants-3sg	v:pred	v		pred		
+cypgreek	jitros	0073	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0073	ghliora	fast	other	other				
+cypgreek	jitros	0074	#	#	##	##				
+cypgreek	jitros	0074	Epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0074	i	the	ln	ln				
+cypgreek	jitros	0074	kojakari	old.woman	np.h:s	np	h	s		
+cypgreek	jitros	0075	#	#	##ds	##ds				
+cypgreek	jitros	0075	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0075	Ti	what	other:p	other		p		
+cypgreek	jitros	0075	xelis	want-2sg	v:pred	v		pred		
+cypgreek	jitros	0075	afendi	master	np.h:voc	np	h	voc		
+cypgreek	jitros	0075	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0075	vasilea	king	np.h:voc	np	h	voc		
+cypgreek	jitros	0075	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0076	#	#	##ds	##ds				
+cypgreek	jitros	0076	Eyo	I	pro.1:s	pro	1	s		
+cypgreek	jitros	0076	ime	am-1sg	cop	cop				
+cypgreek	jitros	0076	#	#	#rc:pred	#rc		pred		
+cypgreek	jitros	0076	pu	that	other	other				
+cypgreek	jitros	0076	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0076	=mu	=to.me	=pro.1:obl	=pro	1	obl		
+cypgreek	jitros	0076	tripisen	drilled-1sg	v:pred	v		pred		
+cypgreek	jitros	0076	to	the	ln	ln				
+cypgreek	jitros	0076	kuzin	pot	np:p	np		p		
+cypgreek	jitros	0076	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0077	#	#	##ds	##ds				
+cypgreek	jitros	0077	Esu	you	pro.2:s	pro	2	s		
+cypgreek	jitros	0077	ise	are-2sg	cop	cop				
+cypgreek	jitros	0078	#	#	##ds	##ds				
+cypgreek	jitros	0078	Malista	Yes	other	other				
+cypgreek	jitros	0079	#	#	##ds	##ds				
+cypgreek	jitros	0079	E	So	other	other				
+cypgreek	jitros	0079	pu	from	other	other				
+cypgreek	jitros	0079	en	is-3sg	cop	cop				
+cypgreek	jitros	0079	tuti	this.one_f	ln	ln				
+cypgreek	jitros	0079	i	the	ln	ln				
+cypgreek	jitros	0079	kori	daughter	np.h:pred	np	h	pred		
+cypgreek	jitros	0079	tu	the	ln	ln				
+cypgreek	jitros	0079	Jitru	Jitros	np.h:poss	np	h	poss		
+cypgreek	jitros	0079	tu	the	ln	ln				
+cypgreek	jitros	0079	Jitromilu	Jitromilos	np.h:poss	np	h	poss		
+cypgreek	jitros	0079	#	#	#ds	#ds				
+cypgreek	jitros	0079	0	I_0	0.1:s	0	1	s		
+cypgreek	jitros	0079	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0079	pao	go-1sg	v:pred	v		pred		
+cypgreek	jitros	0079	#	#	#ds	#ds				
+cypgreek	jitros	0079	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0079	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0079	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0079	evro	find-1sg	v:pred	v		pred		
+cypgreek	jitros	0079	#	#	#ds	#ds				
+cypgreek	jitros	0079	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0079	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0079	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0079	dhoko	give-1sg	v:pred	v		pred		
+cypgreek	jitros	0079	tu	the	ln	ln				
+cypgreek	jitros	0079	yu	son	np.h:obl	np	h	obl		
+cypgreek	jitros	0079	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0080	#	#	##ds_ac	##ds_ac				
+cypgreek	jitros	0080	Aman	When	other	other				
+cypgreek	jitros	0080	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0080	pais	go-2sg	v:pred	v		pred		
+cypgreek	jitros	0080	ekso	out	adp	adp				
+cypgreek	jitros	0080	pu	from	ln	ln				
+cypgreek	jitros	0080	to	the	ln	ln				
+cypgreek	jitros	0080	xorkon	village	np:l	np		l		
+cypgreek	jitros	0080	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0080	je	and	other	other				
+cypgreek	jitros	0080	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0080	pais	go-2sg	v:pred	v		pred		
+cypgreek	jitros	0080	thexia	right	other:g	other		g		
+cypgreek	jitros	0080	#	#	#ds	#ds				
+cypgreek	jitros	0080	0	it_0	0:a	0		a		
+cypgreek	jitros	0080	eshi	has-3sg	v:pred	v		pred		
+cypgreek	jitros	0080	mian	a_f	ln	ln				
+cypgreek	jitros	0080	doksamenin	reservoir	np:p	np		p		
+cypgreek	jitros	0080	#	#	#ds	#ds				
+cypgreek	jitros	0080	je	and	other	other				
+cypgreek	jitros	0080	konda	near	adp	adp				
+cypgreek	jitros	0080	s	to	ln	ln				
+cypgreek	jitros	0080	jindin	that.the	ln	ln				
+cypgreek	jitros	0080	thoksamenin	reservoir	np:l	np		l		
+cypgreek	jitros	0080	0	it_0	0:a	0		a		
+cypgreek	jitros	0080	eshi	has-3sg	v:pred	v		pred		
+cypgreek	jitros	0080	mian	a_f	ln	ln				
+cypgreek	jitros	0080	jitromilian	bitter.orange.tree	np:p	np		p		
+cypgreek	jitros	0080	#	#	#ds	#ds				
+cypgreek	jitros	0080	0	it_0	0:a	0		a		
+cypgreek	jitros	0080	eshi	has-3sg	v:pred	v		pred		
+cypgreek	jitros	0080	enan	a_m	ln	ln				
+cypgreek	jitros	0080	ghrakon	dragon	np:p	np		p		
+cypgreek	jitros	0080	#	#	#ds	#ds				
+cypgreek	jitros	0080	j	and	other	other				
+cypgreek	jitros	0080	0	they_0	0.h:s	0	h	s		
+cypgreek	jitros	0080	en	are-3pl	cop	cop				
+cypgreek	jitros	0080	parayirmenes	leaned	other:pred	other		pred		
+cypgreek	jitros	0080	panda	always	other	other				
+cypgreek	jitros	0080	pa	on	adp	adp				
+cypgreek	jitros	0080	s	to	ln	ln				
+cypgreek	jitros	0080	jindin	that.the	ln	ln				
+cypgreek	jitros	0080	jitromilian	bitter.orange.tree	np:g	np		g		
+cypgreek	jitros	0081	#	#	##ds_ac	##ds_ac				
+cypgreek	jitros	0081	An	if	other	other				
+cypgreek	jitros	0081	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0081	pai	goes-3sg	v:pred	v		pred		
+cypgreek	jitros	0081	me	with	adp	adp				
+cypgreek	jitros	0081	t	the	ln	ln				
+cypgreek	jitros	0081	apparin	horse	np:obl	np		obl		
+cypgreek	jitros	0081	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0081	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0081	je	and	other	other				
+cypgreek	jitros	0081	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0081	koma	still	other	other				
+cypgreek	jitros	0081	thi	sees-3sg	v:pred	v		pred		
+cypgreek	jitros	0081	ta	the	ln	ln				
+cypgreek	jitros	0081	ammadhk'a	eyes	np:p	np		p		
+cypgreek	jitros	0081	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0081	yal'a	glasses	np:other	np		other		
+cypgreek	jitros	0081	#	#	#ds	#ds				
+cypgreek	jitros	0081	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0081	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0081	pai	goes-3sg	v:pred	v		pred		
+cypgreek	jitros	0081	#	#	#ds	#ds				
+cypgreek	jitros	0081	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0081	n	mod_that	nonindic	nonindic				
+cypgreek	jitros	0081	arpaksi	grabs-3sg	v:pred	v		pred		
+cypgreek	jitros	0081	tria	three	num_np:p	num_np		p		
+cypgreek	jitros	0081	#	#	#ds	#ds				
+cypgreek	jitros	0081	je	and	other	other				
+cypgreek	jitros	0081	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0081	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0081	strafi	returns-3sg	v:pred	v		pred		
+cypgreek	jitros	0082	#	#	##ds_ac	##ds_ac				
+cypgreek	jitros	0082	An	if	other	other				
+cypgreek	jitros	0082	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0082	dhi	sees-3sg	v:pred	v		pred		
+cypgreek	jitros	0082	t	the	ln	ln				
+cypgreek	jitros	0082	ammathk'a	eyes	np:p	np		p		
+cypgreek	jitros	0082	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0082	vurnes	basins	np:other	np		other		
+cypgreek	jitros	0082	#	#	#ds	#ds				
+cypgreek	jitros	0082	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0082	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0082	fii	goes.away-3sg	v:pred	v		pred		
+cypgreek	jitros	0082	#	#	#ds	#ds				
+cypgreek	jitros	0082	j	and	other	other				
+cypgreek	jitros	0082	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0082	en	is-3sg	cop	cop				
+cypgreek	jitros	0082	zondanos	alive	other:pred	other		pred		
+cypgreek	jitros	0082	#	#	#ds	#ds				
+cypgreek	jitros	0082	je	and	other	other				
+cypgreek	jitros	0082	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0082	rufa	sucks.in-3sg	v:pred	v		pred		
+cypgreek	jitros	0082	=ton	=him	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0083	#	#	##ds	##ds				
+cypgreek	jitros	0083	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0083	Akuses	heard-3sg	v:pred	v		pred		
+cypgreek	jitros	0083	0	it_0	0:p	0		p		
+cypgreek	jitros	0083	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0083	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0083	me	with	adp	adp				
+cypgreek	jitros	0083	t	the	ln	ln				
+cypgreek	jitros	0083	afk'a	ears	np:obl	np		obl		
+cypgreek	jitros	0083	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	jitros	0084	#	#	##ds	##ds				
+cypgreek	jitros	0084	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0084	Akusa	heard-1sg	v:pred	v		pred		
+cypgreek	jitros	0085	#	#	##ds	##ds				
+cypgreek	jitros	0085	E	so	other	other				
+cypgreek	jitros	0085	0	you_0	0.2:s	0	2	s		
+cypgreek	jitros	0085	enna	will	aux_l	aux_l				
+cypgreek	jitros	0085	pais	go-2sg	v:pred	v		pred		
+cypgreek	jitros	0086	#	#	##ds	##ds				
+cypgreek	jitros	0086	0	I_0	0.1:s	0	1	s		
+cypgreek	jitros	0086	Enna	will	aux_l	aux_l				
+cypgreek	jitros	0086	pao	go-1sg	v:pred	v		pred		
+cypgreek	jitros	0087	#	#	##ds_ac	##ds_ac				
+cypgreek	jitros	0087	Aman	when	other	other				
+cypgreek	jitros	0087	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0087	kopsis	cut-2sg	v:pred	v		pred		
+cypgreek	jitros	0087	tria	three	num_np:p	num_np		p		
+cypgreek	jitros	0087	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0087	to	the	ln	ln				
+cypgreek	jitros	0087	enan	one	num_np:dt_p	num_np		dt_p		
+cypgreek	jitros	0087	aman	when	other	other				
+cypgreek	jitros	0087	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0087	=to	=it	=pro:p	=pro		p		
+cypgreek	jitros	0087	shisis	tear-2sg	v:pred	v		pred		
+cypgreek	jitros	0087	#	#	#ds	#ds				
+cypgreek	jitros	0087	enna	will	aux_l	aux_l				
+cypgreek	jitros	0087	petaxti	springs-3sg	v:pred	v		pred		
+cypgreek	jitros	0087	mia	a_f	ln	ln				
+cypgreek	jitros	0087	orea	beautiful	ln	ln				
+cypgreek	jitros	0087	kopela	girl	np.h:s	np	h	s		
+cypgreek	jitros	0087	#	#	#ds	#ds				
+cypgreek	jitros	0087	j	and	other	other				
+cypgreek	jitros	0087	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	jitros	0087	enna	will	aux_l	aux_l				
+cypgreek	jitros	0087	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	jitros	0087	pi	tells-3sg	v:pred	v		pred		
+cypgreek	jitros	0087	#	#	#ds_cc:p	#ds_cc		p		
+cypgreek	jitros	0087	a	ah	other	other				
+cypgreek	jitros	0087	neron	water	np:other	np		other		
+cypgreek	jitros	0088	#	#	##ds	##ds				
+cypgreek	jitros	0088	A	ah	other	other				
+cypgreek	jitros	0088	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0088	0	it_0	0:a	0		a		
+cypgreek	jitros	0088	shi	has-3sg	v:pred	v		pred		
+cypgreek	jitros	0088	neron	water	np:p	np		p		
+cypgreek	jitros	0088	#	#	#ds	#ds				
+cypgreek	jitros	0088	pino	drink-1sg	v:pred	v		pred		
+cypgreek	jitros	0088	0	it_0	0:p	0		p		
+cypgreek	jitros	0088	j	and	other	other				
+cypgreek	jitros	0088	eo	I	pro.1:a	pro	1	a		
+cypgreek	jitros	0088	#	#	#ds	#ds				
+cypgreek	jitros	0088	0	you_0	0.2:s_ds	0	2	s_ds		
+cypgreek	jitros	0088	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0088	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	jitros	0088	pis	say-2sg	v:pred	v		pred		
+cypgreek	jitros	0088	#	#	#ds	#ds				
+cypgreek	jitros	0088	amesos	immediately	other	other				
+cypgreek	jitros	0088	0	she_0	0.h:s	0	h	s		
+cypgreek	jitros	0088	enna	will	aux_l	aux_l				
+cypgreek	jitros	0088	pexani!	dies-3sg	v:pred	v		pred		
+cypgreek	jitros	0089	#	#	##ds	##ds				
+cypgreek	jitros	0089	Kala	ok	other	other				
+cypgreek	jitros	0090	#	#	##ds	##ds				
+cypgreek	jitros	0090	Je	and	other	other				
+cypgreek	jitros	0090	tis	the	ln	ln				
+cypgreek	jitros	0090	allis	other.one_f	dem_pro:p	dem_pro		p		
+cypgreek	jitros	0090	etsi	so	other	other				
+cypgreek	jitros	0091	#	#	##ds	##ds				
+cypgreek	jitros	0091	Je	and	other	other				
+cypgreek	jitros	0091	tis	the	ln	ln				
+cypgreek	jitros	0091	allis	other.one_f	dem_pro:p	dem_pro		p		
+cypgreek	jitros	0091	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0091	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0091	vris	find-2sg	v:pred	v		pred		
+cypgreek	jitros	0091	neron	water	np:p	np		p		
+cypgreek	jitros	0091	#	#	#ds	#ds				
+cypgreek	jitros	0091	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0091	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0091	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0091	valis	put-2sg	v:pred	v		pred		
+cypgreek	jitros	0091	mesa	in	adp	adp				
+cypgreek	jitros	0091	stin	the	ln	ln				
+cypgreek	jitros	0091	doksamenin	reservoir	np:g	np		g		
+cypgreek	jitros	0091	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0091	ya	so.that	other	other				
+cypgreek	jitros	0091	0	she_0	0.h:s	0	h	s		
+cypgreek	jitros	0091	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0091	mini	stays-3sg	cop	cop				
+cypgreek	jitros	0091	kopella	girl	np.h:pred	np	h	pred		
+cypgreek	jitros	0091	#	#	#ds	#ds				
+cypgreek	jitros	0091	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0091	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0091	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0091	pk'asis	get-2sg	v:pred	v		pred		
+cypgreek	jitros	0092	#	#	##	##				
+cypgreek	jitros	0092	Kavallijefki	mounts-3sg	v:pred	v		pred		
+cypgreek	jitros	0092	to	the	ln	ln				
+cypgreek	jitros	0092	kopellin	young.man	np.h:a	np	h	a		
+cypgreek	jitros	0092	t	the	ln	ln				
+cypgreek	jitros	0092	apparin	horse	np:p	np		p		
+cypgreek	jitros	0092	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0092	#	#	#	#				
+cypgreek	jitros	0092	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0092	pai	goes-3sg	v:pred	v		pred		
+cypgreek	jitros	0092	pomakra	away	other	other				
+cypgreek	jitros	0092	#	#	#	#				
+cypgreek	jitros	0092	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0092	xori	sees-3sg	v:pred	v		pred		
+cypgreek	jitros	0092	t	the	ln	ln				
+cypgreek	jitros	0092	ammakk'a	eyes	np:p	np		p		
+cypgreek	jitros	0092	tu	the	ln	ln				
+cypgreek	jitros	0092	ghraku	dragon	ln	ln				
+cypgreek	jitros	0092	yal'a	glasses	np:other	np		other		
+cypgreek	jitros	0092	#	#	#	#				
+cypgreek	jitros	0092	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0092	arpassi	grabs-3sg	v:pred	v		pred		
+cypgreek	jitros	0092	0	them_0	0:p	0		p		
+cypgreek	jitros	0092	#	#	#	#				
+cypgreek	jitros	0092	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0092	ekopsen	cuts-3sg	v:pred	v		pred		
+cypgreek	jitros	0092	tria	three	num_np:p	num_np		p		
+cypgreek	jitros	0092	#	#	#	#				
+cypgreek	jitros	0092	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0092	estrafin	returned-3sg	v:pred	v		pred		
+cypgreek	jitros	0092	piso	back	other:g	other		g		
+cypgreek	jitros	0093	#	#	##	##				
+cypgreek	jitros	0093	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0093	Epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0093	kamboson	much	ln	ln				
+cypgreek	jitros	0093	topon	way	np:p	np		p		
+cypgreek	jitros	0093	#	#	#	#				
+cypgreek	jitros	0093	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	jitros	0093	lali	says-3sg	v:pred	v		pred		
+cypgreek	jitros	0093	#	#	#ds	#ds				
+cypgreek	jitros	0093	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0093	n	mod_that	nonindic	nonindic				
+cypgreek	jitros	0093	anikso	open-1sg	v:pred	v		pred		
+cypgreek	jitros	0093	mian	a_f	num_np:p	num_np		p		
+cypgreek	jitros	0093	#	#	#ds_ac	#ds_ac				
+cypgreek	jitros	0093	0	we_0	0.1:a	0	1	a		
+cypgreek	jitros	0093	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0093	umen	see-1pl	v:pred	v		pred		
+cypgreek	jitros	0093	0	it_0	0:p	0		p		
+cypgreek	jitros	0094	#	#	##	##				
+cypgreek	jitros	0094	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0094	Shizi	tears-3sg	v:pred	v		pred		
+cypgreek	jitros	0094	mian	a_f	num_np:p	num_np		p		
+cypgreek	jitros	0094	#	#	#	#				
+cypgreek	jitros	0094	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0094	annii	opens-3sg	v:pred	v		pred		
+cypgreek	jitros	0094	0	it_0	0:p	0		p		
+cypgreek	jitros	0095	#	#	##ds	##ds				
+cypgreek	jitros	0095	Ax	ah	other	other				
+cypgreek	jitros	0095	neron	water	np:other	np		other		
+cypgreek	jitros	0095	#	#	#	#				
+cypgreek	jitros	0095	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	jitros	0095	lali	says-3sg	v:pred	v		pred		
+cypgreek	jitros	0096	#	#	##ds_ac	##ds_ac				
+cypgreek	jitros	0096	Ax	ah	other	other				
+cypgreek	jitros	0096	neron	water	np:p	np		p		
+cypgreek	jitros	0096	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0096	0	it_0	0:a	0		a		
+cypgreek	jitros	0096	shi	has-3sg	v:pred	v		pred		
+cypgreek	jitros	0096	#	#	#ds	#ds				
+cypgreek	jitros	0096	pinno	drink-1sg	v:pred	v		pred		
+cypgreek	jitros	0096	0	it_0	0:p	0		p		
+cypgreek	jitros	0096	j	and	other	other				
+cypgreek	jitros	0096	eyo	I	pro.1:a	pro	1	a		
+cypgreek	jitros	0097	#	#	##	##				
+cypgreek	jitros	0097	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0097	Pien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0097	#	#	#	#				
+cypgreek	jitros	0097	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0097	epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0097	kamboson	much	ln	ln				
+cypgreek	jitros	0097	topon	way	np:p	np		p		
+cypgreek	jitros	0097	#	#	#ds	#ds				
+cypgreek	jitros	0097	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0097	n	mod_that	nonindic	nonindic				
+cypgreek	jitros	0097	annikso	open	v:pred	v		pred		
+cypgreek	jitros	0097	alli	other	ln	ln				
+cypgreek	jitros	0097	mian	a_f	num_np:p	num_np		p		
+cypgreek	jitros	0097	#	#	#	#				
+cypgreek	jitros	0097	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	jitros	0097	lali	says-3sg	v:pred	v		pred		
+cypgreek	jitros	0097	#	#	#ds	#ds				
+cypgreek	jitros	0097	zattin	actually	other	other				
+cypgreek	jitros	0097	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0097	mian	a_f	num_np:p	num_np		p		
+cypgreek	jitros	0097	enna	will	aux_l	aux_l				
+cypgreek	jitros	0097	paro	take-1sg	v:pred	v		pred		
+cypgreek	jitros	0097	#	#	#ds_rc	#ds_rc				
+cypgreek	jitros	0097	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0097	enj	not.that	other	other				
+cypgreek	jitros	0097	enna	will	aux_l	aux_l				
+cypgreek	jitros	0097	paro	take-1sg	v:pred	v		pred		
+cypgreek	jitros	0097	dhk'o	two	num_np:p	num_np		p		
+cypgreek	jitros	0098	#	#	##	##				
+cypgreek	jitros	0098	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0098	Annii	opens-3sg	v:pred	v		pred		
+cypgreek	jitros	0098	je	and	other	other				
+cypgreek	jitros	0098	tin	the	ln	ln				
+cypgreek	jitros	0098	alli	other.one_f	num_np:p	num_np		p		
+cypgreek	jitros	0098	#	#	#ds	#ds				
+cypgreek	jitros	0098	ax	oh	other	other				
+cypgreek	jitros	0098	neron	water	np:other	np		other		
+cypgreek	jitros	0098	#	#	#	#				
+cypgreek	jitros	0098	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	jitros	0098	lali	says-3sg	v:pred	v		pred		
+cypgreek	jitros	0099	#	#	##ds_ac	##ds_ac				
+cypgreek	jitros	0099	E	Oh	other	other				
+cypgreek	jitros	0099	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0099	0	it_0	0:a	0		a		
+cypgreek	jitros	0099	shi	has-3sg	v:pred	v		pred		
+cypgreek	jitros	0099	neron	water	np:p	np		p		
+cypgreek	jitros	0099	#	#	#ds	#ds				
+cypgreek	jitros	0099	pinno	drink-1sg	v:pred	v		pred		
+cypgreek	jitros	0099	0	it_0	0:p	0		p		
+cypgreek	jitros	0099	j	and	other	other				
+cypgreek	jitros	0099	eyo.	I	pro.1:a	pro	1	a		
+cypgreek	jitros	0100	#	#	##	##				
+cypgreek	jitros	0100	Amesos	Immediately	other	other				
+cypgreek	jitros	0100	epexanen	died-3sg	v:pred	v		pred		
+cypgreek	jitros	0100	je	and	other	other				
+cypgreek	jitros	0100	jini	that.one_f	num_np:p	num_np		p		
+cypgreek	jitros	0101	#	#	##	##				
+cypgreek	jitros	0101	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0101	Epk'axen	took-3sg	v:pred	v		pred		
+cypgreek	jitros	0101	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0101	#	#	#	#				
+cypgreek	jitros	0101	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0101	epien	went-3sg	v:pred	v		pred		
+cypgreek	jitros	0101	#	#	#	#				
+cypgreek	jitros	0101	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0101	ivren	found-3sg	v:pred	v		pred		
+cypgreek	jitros	0101	mian	a_f	ln	ln				
+cypgreek	jitros	0101	dhoksamenin	reservoir	np:p	np		p		
+cypgreek	jitros	0101	#	#	#	#				
+cypgreek	jitros	0101	0	he_0	0.h:s	0	h	s		
+cypgreek	jitros	0101	estaxin	stood-3sg	v:pred	v		pred		
+cypgreek	jitros	0101	konda	near	adp	adp				
+cypgreek	jitros	0101	=tis	=to.her	=pro.h:l	=pro	h	l		
+cypgreek	jitros	0102	#	#	##	##				
+cypgreek	jitros	0102	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0102	Shizi	tears-3sg	v:pred	v		pred		
+cypgreek	jitros	0102	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0102	#	#	#ds	#ds				
+cypgreek	jitros	0102	ax	oh	other	other				
+cypgreek	jitros	0102	neron	water	np:other	np		other		
+cypgreek	jitros	0102	#	#	#	#				
+cypgreek	jitros	0102	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	jitros	0102	lali	says-3sg	v:pred	v		pred		
+cypgreek	jitros	0102	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	jitros	0103	#	#	##	##				
+cypgreek	jitros	0103	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0103	Evalen	put-3sg	v:pred	v		pred		
+cypgreek	jitros	0103	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0103	mes	in	adp	adp				
+cypgreek	jitros	0103	stin	to.the	ln	ln				
+cypgreek	jitros	0103	doksamenin	reservoir	np:g	np		g		
+cypgreek	jitros	0103	#	#	#	#				
+cypgreek	jitros	0103	evkin	came.out-3sg	v:pred	v		pred		
+cypgreek	jitros	0103	mia	a_f	ln	ln				
+cypgreek	jitros	0103	kopella	girl	np.h:s	np	h	s		
+cypgreek	jitros	0103	orea	beautiful	rn	rn				
+cypgreek	jitros	0103	#	#	#	#				
+cypgreek	jitros	0103	tun'a	dünya	nc	nc				
+cypgreek	jitros	0103	k'uzeli	güzeli	nc	nc				
+cypgreek	jitros	0103	#	#	#rc	#rc				
+cypgreek	jitros	0103	pu	that	other	other				
+cypgreek	jitros	0103	0	they_0	0.h:a	0	h	a		
+cypgreek	jitros	0103	lalusin	say-3pl	v:pred	v		pred		
+cypgreek	jitros	0104	#	#	##ds	##ds				
+cypgreek	jitros	0104	E	So	other	other				
+cypgreek	jitros	0104	xate	interjection	other	other				
+cypgreek	jitros	0104	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0104	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0104	kavallijepsis	mount-2sg	v:pred	v		pred		
+cypgreek	jitros	0104	pisokapulla	back.of.horse	np:p	np		p		
+cypgreek	jitros	0104	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0104	pa	on	adp	adp				
+cypgreek	jitros	0104	st	to.the	ln	ln				
+cypgreek	jitros	0104	apparin	horse	np:g	np		g		
+cypgreek	jitros	0104	#	#	#ds	#ds				
+cypgreek	jitros	0104	je	and	other	other				
+cypgreek	jitros	0104	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0104	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0104	=se	=you	=pro.2:p	=pro	2	p		
+cypgreek	jitros	0104	paro	take-1sg	v:pred	v		pred		
+cypgreek	jitros	0104	ston	to.the	ln	ln				
+cypgreek	jitros	0104	pateran	father	np.h:g	np	h	g		
+cypgreek	jitros	0104	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0105	#	#	##ds	##ds				
+cypgreek	jitros	0105	Malista	ok	other	other				
+cypgreek	jitros	0106	#	#	##	##				
+cypgreek	jitros	0106	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0106	Kavallijefki	mounts-3sg	v:pred	v		pred		
+cypgreek	jitros	0106	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0106	pisokapulla	back.of.horse	other	other				
+cypgreek	jitros	0106	pupa	on.top	adp	adp				
+cypgreek	jitros	0106	st	to.the	ln	ln				
+cypgreek	jitros	0106	apparin	horse	np:g	np		g		
+cypgreek	jitros	0106	#	#	#	#				
+cypgreek	jitros	0106	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0106	epiren	took-3sg	v:pred	v		pred		
+cypgreek	jitros	0106	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0106	is	to	adp	adp				
+cypgreek	jitros	0106	ton	the	ln	ln				
+cypgreek	jitros	0106	pateran	father	np.h:g	np	h	g		
+cypgreek	jitros	0106	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0107	#	#	##ds	##ds				
+cypgreek	jitros	0107	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0107	Ies	saw-2sg	v:pred	v		pred		
+cypgreek	jitros	0107	patera	father	np.h:voc	np	h	voc		
+cypgreek	jitros	0107	#	#	#ds_cc:p	#ds_cc		p		
+cypgreek	jitros	0107	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0107	inda	what	other	other				
+cypgreek	jitros	0107	orean	beautiful	ln	ln				
+cypgreek	jitros	0107	kopellan	girl	np.h:p	np	h	p		
+cypgreek	jitros	0107	efera	brought-3sg	v:pred	v		pred		
+cypgreek	jitros	0108	#	#	##ds	##ds				
+cypgreek	jitros	0108	Mbravo	bravo	other	other				
+cypgreek	jitros	0108	ye	son	np.h:voc	np	h	voc		
+cypgreek	jitros	0108	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0108	mbravo!	bravo	other	other				
+cypgreek	jitros	0109	#	#	##ds	##ds				
+cypgreek	jitros	0109	E	so	other	other				
+cypgreek	jitros	0109	tora	now	other	other				
+cypgreek	jitros	0110	#	#	##	##				
+cypgreek	jitros	0110	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0110	xelo	want-1sg	v:pred	v		pred		
+cypgreek	jitros	0110	#	#	#cc:p	#cc		p		
+cypgreek	jitros	0110	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0110	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0110	=tis	=to.her	=pro.h:obl	=pro	h	obl		
+cypgreek	jitros	0110	kamis	make-2sg	v:pred	v		pred		
+cypgreek	jitros	0110	prija	dowry	np:p	np		p		
+cypgreek	jitros	0110	tis	the	ln	ln				
+cypgreek	jitros	0110	xartomenis	fiancée	np.h:dt_obl	np	h	dt_obl		
+cypgreek	jitros	0110	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	jitros	0110	#	#	#cc:p	#cc		p		
+cypgreek	jitros	0110	0	you_0	0.2:a	0	2	a		
+cypgreek	jitros	0110	na	mod_that	nonindic	nonindic				
+cypgreek	jitros	0110	=tis	=to.her	=pro.h:obl	=pro	h	obl		
+cypgreek	jitros	0110	kamis	make-2sg	v:pred	v		pred		
+cypgreek	jitros	0110	orea	beautiful	ln	ln				
+cypgreek	jitros	0110	epipla	furniture	np:p	np		p		
+cypgreek	jitros	0110	#	#	#	#				
+cypgreek	jitros	0110	yati	because	other	other				
+cypgreek	jitros	0110	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0110	xelo	want-1sg	v:pred	v		pred		
+cypgreek	jitros	0110	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0110	#	#	#nc	#nc				
+cypgreek	jitros	0110	nan	to.be-3sg	nc	nc				
+cypgreek	jitros	0110	kallitteri	better	nc	nc				
+cypgreek	jitros	0110	tu	the	nc	nc				
+cypgreek	jitros	0110	allu	other	nc	nc				
+cypgreek	jitros	0110	yu	son	nc	nc				
+cypgreek	jitros	0110	tu	the	nc	nc				
+cypgreek	jitros	0110	vasilea	king	nc	nc				
+cypgreek	jitros	0110	i	the	nc	nc				
+cypgreek	jitros	0110	xartomeni	fiancée	nc	nc				
+cypgreek	jitros	0110	mu	my	nc	nc				
+cypgreek	jitros	0110	emenan	my	nc	nc				
+cypgreek	jitros	0111	#	#	##	##				
+cypgreek	jitros	0111	Amesos	Immediately	other	other				
+cypgreek	jitros	0111	0	he_0	0.h:a	0	h	a		
+cypgreek	jitros	0111	ekamen	made-3sg	v:pred	v		pred		
+cypgreek	jitros	0111	=tis	=to.her	=pro.h:obl	=pro	h	obl		
+cypgreek	jitros	0111	orea	nice	ln	ln				
+cypgreek	jitros	0111	prija	dowry	np:p	np		p		
+cypgreek	jitros	0111	orea	nice	ln	ln				
+cypgreek	jitros	0111	pramata	things	np:p	np		p		
+cypgreek	jitros	0112	#	#	##	##				
+cypgreek	jitros	0112	Saranda	forty	ln	ln				
+cypgreek	jitros	0112	meres	days	ln	ln				
+cypgreek	jitros	0112	ghamon	wedding	np:other	np		other		
+cypgreek	jitros	0112	saranda	forty	ln	ln				
+cypgreek	jitros	0112	nixtes	nights	ln	ln				
+cypgreek	jitros	0112	ghamon	wedding	np:other	np		other		
+cypgreek	jitros	0112	o	the	ln	ln				
+cypgreek	jitros	0112	vasileas	king	np.h:a	np	h	a		
+cypgreek	jitros	0112	armasen	supplied-3sg	v:pred	v		pred		
+cypgreek	jitros	0112	ton	the	ln	ln				
+cypgreek	jitros	0112	yon	son	np.h:p	np	h	p		
+cypgreek	jitros	0112	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	jitros	0112	me	with	adp	adp				
+cypgreek	jitros	0112	tin	the	ln	ln				
+cypgreek	jitros	0112	korin	daughter	np.h:obl	np	h	obl		
+cypgreek	jitros	0112	tu	the	ln	ln				
+cypgreek	jitros	0112	Jitru	Jitros	np.h:poss	np	h	poss		
+cypgreek	jitros	0112	tu	the	ln	ln				
+cypgreek	jitros	0112	Jitromilu	Jitromilos	np.h:poss	np	h	poss		
+cypgreek	jitros	0113	#	#	##	##				
+cypgreek	jitros	0113	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0113	Efika	left-1sg	v:pred	v		pred		
+cypgreek	jitros	0113	=tus	=them	=pro.h:p	=pro	h	p		
+cypgreek	jitros	0113	jinus	that.one_m	dem_pro:dt_p	dem_pro		dt_p		
+cypgreek	jitros	0113	ji	there	other:l	other		l		
+cypgreek	jitros	0113	kaka	badly	other	other				
+cypgreek	jitros	0113	#	#	#	#				
+cypgreek	jitros	0113	j	and	other	other				
+cypgreek	jitros	0113	0	I_0	0.1:s	0	1	s		
+cypgreek	jitros	0113	irta	came-1sg	v:pred	v		pred		
+cypgreek	jitros	0113	#	#	#	#				
+cypgreek	jitros	0113	j	and	other	other				
+cypgreek	jitros	0113	0	I_0	0.1:a	0	1	a		
+cypgreek	jitros	0113	ivra	found-3sg	v:pred	v		pred		
+cypgreek	jitros	0113	=sas	=you	=pro.2:p	=pro	2	p		
+cypgreek	jitros	0113	esas	you	pro.2:dt_p	pro	2	dt_p		
+cypgreek	jitros	0113	dha	here	other:l	other		l		
+cypgreek	jitros	0113	kala	well	other	other				

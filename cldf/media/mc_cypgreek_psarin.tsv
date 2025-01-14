@@ -1,0 +1,2452 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+cypgreek	psarin	0001	#	#	#nc	#nc				
+cypgreek	psarin	0001	O	the 	nc	nc				
+cypgreek	psarin	0001	yos	son	nc	nc				
+cypgreek	psarin	0001	tis	the	nc	nc				
+cypgreek	psarin	0001	kojakaris	old.woman	nc	nc				
+cypgreek	psarin	0001	pu	of	nc	nc				
+cypgreek	psarin	0001	to	the	nc	nc				
+cypgreek	psarin	0001	psarin	fish	nc	nc				
+cypgreek	psarin	0002	#	#	##	##				
+cypgreek	psarin	0002	Mian	a_f	ln	ln				
+cypgreek	psarin	0002	volan	time	np:other	np		other		
+cypgreek	psarin	0002	ishen	had-3sg	predex	predex				
+cypgreek	psarin	0002	mian	a_f	ln	ln				
+cypgreek	psarin	0002	kojakarin	old.woman	np.h:s	np	h	s		
+cypgreek	psarin	0002	#	#	#	#				
+cypgreek	psarin	0002	j	and	other	other				
+cypgreek	psarin	0002	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0002	ishen	had-3sg	v:pred	v		pred		
+cypgreek	psarin	0002	enan	a_m	ln	ln				
+cypgreek	psarin	0002	yon	son	np.h:p	np	h	p		
+cypgreek	psarin	0003	#	#	##	##				
+cypgreek	psarin	0003	Meran	Day	other	other				
+cypgreek	psarin	0003	nixtan	Night	other	other				
+cypgreek	psarin	0003	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0003	ethk'akonan	begged-3sg	v:pred	v		pred		
+cypgreek	psarin	0003	0	him_0	0.h:p	0	h	p		
+cypgreek	psarin	0003	#	#	#	#				
+cypgreek	psarin	0003	j	and	other	other				
+cypgreek	psarin	0003	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0003	etaizen	fed-3sg	v:pred	v		pred		
+cypgreek	psarin	0003	=ton	=him	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0004	#	#	##	##				
+cypgreek	psarin	0004	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0004	Einin	became-3sg	cop	cop				
+cypgreek	psarin	0004	dhekapende	fifteen	ln	ln				
+cypgreek	psarin	0004	ghronon	years	ln	ln				
+cypgreek	psarin	0004	pallikarin	young.man	np.h:pred	np	h	pred		
+cypgreek	psarin	0004	#	#	#	#				
+cypgreek	psarin	0004	koma	still	other	other				
+cypgreek	psarin	0004	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0004	ethk'akonan	begged-3sg	v:pred	v		pred		
+cypgreek	psarin	0004	0	him_0	0.h:p	0	h	p		
+cypgreek	psarin	0004	#	#	#	#				
+cypgreek	psarin	0004	j	and	other	other				
+cypgreek	psarin	0004	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0004	etaizen	fed-3sg	v:pred	v		pred		
+cypgreek	psarin	0004	=ton	=him	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0005	#	#	##ds	##ds				
+cypgreek	psarin	0005	Thk'a	aunt	np.h:voc	np	h	voc		
+cypgreek	psarin	0005	amma	but	other	other				
+cypgreek	psarin	0005	o	the	ln	ln				
+cypgreek	psarin	0005	yos	son	np.h:a	np	h	a		
+cypgreek	psarin	0005	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0005	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0005	oki	gives-3sg	v:pred	v		pred		
+cypgreek	psarin	0005	tu	the	ln	ln				
+cypgreek	psarin	0005	andros	man	np.h:g	np	h	g		
+cypgreek	psarin	0005	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0005	enan	a_m	ln	ln				
+cypgreek	psarin	0005	patson	slap	np:p	np		p		
+cypgreek	psarin	0005	#	#	#ds	#ds				
+cypgreek	psarin	0005	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0005	xeli	wants-3sg	v:pred	v		pred		
+cypgreek	psarin	0005	enan	a_m	ln	ln				
+cypgreek	psarin	0005	minan	month	np:p	np		p		
+cypgreek	psarin	0005	#	#	#ds	#ds				
+cypgreek	psarin	0005	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0005	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0005	fai	eats-3sg	v:pred	v		pred		
+cypgreek	psarin	0005	psumin	bread	np:p	np		p		
+cypgreek	psarin	0005	#	#	#ds	#ds				
+cypgreek	psarin	0005	je	and	other	other				
+cypgreek	psarin	0005	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0005	thk'akonas	beg-2sg	v:pred	v		pred		
+cypgreek	psarin	0005	0	him_0	0.h:p	0	h	p		
+cypgreek	psarin	0005	#	#	#ds	#ds				
+cypgreek	psarin	0005	je	and	other	other				
+cypgreek	psarin	0005	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0005	taizis	feed-2sg	v:pred	v		pred		
+cypgreek	psarin	0005	=ton	=him	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0006	#	#	##ds_neg	##ds_neg				
+cypgreek	psarin	0006	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0006	Enna	will 	l_aux	l_aux				
+cypgreek	psarin	0006	men	not	other	other				
+cypgreek	psarin	0006	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	psarin	0006	dhiumen	give-1pl	v:pred	v		pred		
+cypgreek	psarin	0006	0	it_0	0:p	0		p		
+cypgreek	psarin	0007	#	#	##	##				
+cypgreek	psarin	0007	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0007	Epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0007	esso	to.home	np:g	np		g		
+cypgreek	psarin	0007	#	#	#	#				
+cypgreek	psarin	0007	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0007	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0007	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0008	#	#	##ds	##ds				
+cypgreek	psarin	0008	Ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0008	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0008	ya	for	adp	adp				
+cypgreek	psarin	0008	onoman	name	np:obl	np		obl		
+cypgreek	psarin	0008	tu	of.the	ln	ln				
+cypgreek	psarin	0008	Theu	God	np.h:poss	np	h	poss		
+cypgreek	psarin	0008	#	#	#ds	#ds				
+cypgreek	psarin	0008	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0008	fere	bring-2sg	v:pred	v		pred		
+cypgreek	psarin	0008	nun	brain	np:p	np		p		
+cypgreek	psarin	0008	stin	to.the	ln	ln				
+cypgreek	psarin	0008	jefalin	head	np:g	np		g		
+cypgreek	psarin	0008	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0009	#	#	##ds_neg	##ds_neg				
+cypgreek	psarin	0009	0	They_0	0.h:a	0	h	a		
+cypgreek	psarin	0009	En	not	other	other				
+cypgreek	psarin	0009	=mu	=to.me	=pro.1:g	=pro	1	g		
+cypgreek	psarin	0009	dhiun	give-3pl	v:pred	v		pred		
+cypgreek	psarin	0009	0	it_0	0:p	0		p		
+cypgreek	psarin	0009	pk'on	anymore	other	other				
+cypgreek	psarin	0010	#	#	##ds	##ds				
+cypgreek	psarin	0010	Na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0010	pais	go-2sg	v:pred	v		pred		
+cypgreek	psarin	0010	j	also	other	other				
+cypgreek	psarin	0010	esu	you	pro.2:s	pro	2	s		
+cypgreek	psarin	0010	#	#	#ds	#ds				
+cypgreek	psarin	0010	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0010	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0010	ghulepsis	work-2sg	v:pred	v		pred		
+cypgreek	psarin	0011	#	#	##	##				
+cypgreek	psarin	0011	Mana	Mother	np.h:voc	np	h	voc		
+cypgreek	psarin	0011	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0011	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0011	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0011	#	#	#ds	#ds				
+cypgreek	psarin	0011	amma	but	other	other				
+cypgreek	psarin	0011	o	the	ln	ln				
+cypgreek	psarin	0011	jiris	father	np.h:a	np	h	a		
+cypgreek	psarin	0011	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0011	inda	what	ln	ln				
+cypgreek	psarin	0011	ghul'an	work	np:p	np		p		
+cypgreek	psarin	0011	ekamnen	did-3sg	v:pred	v		pred		
+cypgreek	psarin	0012	#	#	##ds	##ds				
+cypgreek	psarin	0012	O	the	ln	ln				
+cypgreek	psarin	0012	jiris	father	np.h:s	np	h	s		
+cypgreek	psarin	0012	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0012	itan	was-3sg	cop	cop				
+cypgreek	psarin	0012	psaras	fisherman	np.h:pred	np	h	pred		
+cypgreek	psarin	0012	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0012	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0013	#	#	##ds	##ds				
+cypgreek	psarin	0013	E	Ah	other	other				
+cypgreek	psarin	0013	eshi	has-3sg	v:pred	v		pred		
+cypgreek	psarin	0013	ta	the	ln	ln				
+cypgreek	psarin	0013	dhixtia	nets	np:p	np		p		
+cypgreek	psarin	0013	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	psarin	0013	o	the	ln	ln				
+cypgreek	psarin	0013	jiris	father	np.h:a	np	h	a		
+cypgreek	psarin	0013	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0014	#	#	##ds	##ds				
+cypgreek	psarin	0014	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0014	Eshi	has-3sg	v:pred	v		pred		
+cypgreek	psarin	0014	=ta	=them	=pro:p	=pro		p		
+cypgreek	psarin	0014	#	#	#ds	#ds				
+cypgreek	psarin	0014	0	they_0	0:s	0		s		
+cypgreek	psarin	0014	en	are-3pl	cop	cop				
+cypgreek	psarin	0014	mes	in	adp	adp				
+cypgreek	psarin	0014	tin	to.the	ln	ln				
+cypgreek	psarin	0014	arseran	skylight	np:pred_l	np		pred_l		
+cypgreek	psarin	0015	#	#	##ds	##ds				
+cypgreek	psarin	0015	E	ah	other	other				
+cypgreek	psarin	0015	kalan	ok	other	other				
+cypgreek	psarin	0016	#	#	##ds_ac	##ds_ac				
+cypgreek	psarin	0016	Aman	if	other	other				
+cypgreek	psarin	0016	0	they_0	0:s	0		s		
+cypgreek	psarin	0016	en	are-3pl	cop	cop				
+cypgreek	psarin	0016	mes	in	adp	adp				
+cypgreek	psarin	0016	stin	to.the	ln	ln				
+cypgreek	psarin	0016	arseran	skylight	np:pred_l	np		pred_l		
+cypgreek	psarin	0016	#	#	#ds	#ds				
+cypgreek	psarin	0016	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0016	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0016	=ta	=them	=pro:p	=pro		p		
+cypgreek	psarin	0016	katevaso	bring.down-1sg	v:pred	v		pred		
+cypgreek	psarin	0016	#	#	#ds	#ds				
+cypgreek	psarin	0016	je	and	other	other				
+cypgreek	psarin	0016	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0016	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0016	=mu	=to.me	=pro.1:g	=pro	1	g		
+cypgreek	psarin	0016	dhiksis	show-2sg	v:pred	v		pred		
+cypgreek	psarin	0016	#	#	#ds_cc:p	#ds_cc		p		
+cypgreek	psarin	0016	inda	what	ln	ln				
+cypgreek	psarin	0016	lois	way	np:obl	np		obl		
+cypgreek	psarin	0016	ekamnen	did-3sg	v:pred	v		pred		
+cypgreek	psarin	0016	0	it_0	0:p	0		p		
+cypgreek	psarin	0016	o	the	ln	ln				
+cypgreek	psarin	0016	jiris	father	np.h:a	np	h	a		
+cypgreek	psarin	0016	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0016	#	#	#ds	#ds				
+cypgreek	psarin	0016	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0016	pao	go-1sg	v:pred	v		pred		
+cypgreek	psarin	0016	j	also	other	other				
+cypgreek	psarin	0016	eo	I	pro.1:s	pro	1	s		
+cypgreek	psarin	0016	sto	to.the	ln	ln				
+cypgreek	psarin	0016	psarin	fish	np:g	np		g		
+cypgreek	psarin	0016	avrion	tomorrow	other	other				
+cypgreek	psarin	0016	mana	mother	np.h:voc	np	h	voc		
+cypgreek	psarin	0017	#	#	##ds	##ds				
+cypgreek	psarin	0017	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0017	Na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0017	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	psarin	0017	=ta	=them	=pro:p	=pro		p		
+cypgreek	psarin	0017	dhikso	show-1sg	v:pred	v		pred		
+cypgreek	psarin	0017	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0017	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0018	#	#	##	##				
+cypgreek	psarin	0018	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0018	Ekatevasan	brought.down-3pl	v:pred	v		pred		
+cypgreek	psarin	0018	=ta	=them	=pro:p	=pro		p		
+cypgreek	psarin	0018	pu	from	adp	adp				
+cypgreek	psarin	0018	tin	the	ln	ln				
+cypgreek	psarin	0018	arseran	skylight	np:other	np		other		
+cypgreek	psarin	0018	#	#	#	#				
+cypgreek	psarin	0018	j	and	other	other				
+cypgreek	psarin	0018	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0018	andinaksan	shook-3pl	v:pred	v		pred		
+cypgreek	psarin	0018	=ta	=them	=pro:p	=pro		p		
+cypgreek	psarin	0018	#	#	#	#				
+cypgreek	psarin	0018	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0018	eplinnan	washed-3pl	v:pred	v		pred		
+cypgreek	psarin	0018	=ta	=them	=pro:p	=pro		p		
+cypgreek	psarin	0019	#	#	##ds	##ds				
+cypgreek	psarin	0019	Eto	Voila	other	other				
+cypgreek	psarin	0019	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0019	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0019	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0019	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0019	kratis	hold-2sg	v:pred	v		pred		
+cypgreek	psarin	0019	0	them_0	0:p	0		p		
+cypgreek	psarin	0019	etsi	so	other	other				
+cypgreek	psarin	0019	#	#	#ds	#ds				
+cypgreek	psarin	0019	je	and	other	other				
+cypgreek	psarin	0019	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0019	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0019	0	them_0	0:p	0		p		
+cypgreek	psarin	0019	sirnis	throw-2sg	v:pred	v		pred		
+cypgreek	psarin	0019	mes	in	adp	adp				
+cypgreek	psarin	0019	stin	to.the	ln	ln				
+cypgreek	psarin	0019	thalassa	sea	np:g	np		g		
+cypgreek	psarin	0019	#	#	#ds	#ds				
+cypgreek	psarin	0019	je	and	other	other				
+cypgreek	psarin	0019	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0019	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0019	=ta	=them	=pro:p	=pro		p		
+cypgreek	psarin	0019	travas	pull-2sg	v:pred	v		pred		
+cypgreek	psarin	0019	#	#	#ds	#ds				
+cypgreek	psarin	0019	je	and	other	other				
+cypgreek	psarin	0019	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0019	na	mod_that 	nonindic	nonindic				
+cypgreek	psarin	0019	fkalli	take-2sg	v:pred	v		pred		
+cypgreek	psarin	0019	ekso	out	other	other				
+cypgreek	psarin	0019	psarka	fish	np:p	np		p		
+cypgreek	psarin	0019	#	#	#ds	#ds				
+cypgreek	psarin	0019	je	and	other	other				
+cypgreek	psarin	0019	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0019	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0019	pk'ais	take-2sg	v:pred	v		pred		
+cypgreek	psarin	0019	psarin	fish	np:p	np		p		
+cypgreek	psarin	0019	#	#	#ds	#ds				
+cypgreek	psarin	0019	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0019	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0019	0	it_0	0:p	0		p		
+cypgreek	psarin	0019	pulis	sell-2sg	v:pred	v		pred		
+cypgreek	psarin	0019	#	#	#ds	#ds				
+cypgreek	psarin	0019	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0019	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0019	xerumen	bring-1pl	v:pred	v		pred		
+cypgreek	psarin	0019	psumn'a	bread	np:p	np		p		
+cypgreek	psarin	0019	#	#	#ds	#ds				
+cypgreek	psarin	0019	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0019	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0019	0	them_0	0:p	0		p		
+cypgreek	psarin	0019	tromen	eat-1pl	v:pred	v		pred		
+cypgreek	psarin	0019	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0019	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0020	#	#	##ds	##ds				
+cypgreek	psarin	0020	Ei	Ok	other	other				
+cypgreek	psarin	0020	mana	mother	np.h:voc	np	h	voc		
+cypgreek	psarin	0021	#	#	##ds	##ds				
+cypgreek	psarin	0021	Avrion	Tomorrow	other	other				
+cypgreek	psarin	0021	0	I_0	0.1:s	0	1	s		
+cypgreek	psarin	0021	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0021	pao	go-1sg	v:pred	v		pred		
+cypgreek	psarin	0022	#	#	##	##				
+cypgreek	psarin	0022	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0022	Esikoxiken	got.up-3sg	v:pred	v		pred		
+cypgreek	psarin	0022	pu	from	adp	adp				
+cypgreek	psarin	0022	to	the	ln	ln				
+cypgreek	psarin	0022	pornon	morning	np:obl	np		obl		
+cypgreek	psarin	0022	#	#	#	#				
+cypgreek	psarin	0022	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0022	epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0023	#	#	##ac	##ac				
+cypgreek	psarin	0023	Aman	once	other	other				
+cypgreek	psarin	0023	j	and	other	other				
+cypgreek	psarin	0023	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0023	epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0023	#	#	#	#				
+cypgreek	psarin	0023	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0023	aniksen	opened-3sg	v:pred	v		pred		
+cypgreek	psarin	0023	ta	the	ln	ln				
+cypgreek	psarin	0023	dhixtia	nets	np:p	np		p		
+cypgreek	psarin	0023	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	psarin	0023	#	#	#	#				
+cypgreek	psarin	0023	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0023	esiren	threw-3sg	v:pred	v		pred		
+cypgreek	psarin	0023	=ta	=them	=pro:p	=pro		p		
+cypgreek	psarin	0023	mes	in	adp	adp				
+cypgreek	psarin	0023	stin	to.the	ln	ln				
+cypgreek	psarin	0023	thalassa	sea	np:g	np		g		
+cypgreek	psarin	0023	#	#	#	#				
+cypgreek	psarin	0023	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0023	etavrisen	pulled-3sg	v:pred	v		pred		
+cypgreek	psarin	0023	mian	a_f	ln	ln				
+cypgreek	psarin	0023	volan	time	np:other	np		other		
+cypgreek	psarin	0023	#	#	#	#				
+cypgreek	psarin	0023	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0023	efkalen	took.out-3sg	v:pred	v		pred		
+cypgreek	psarin	0023	kamboson	many	other:p	other		p		
+cypgreek	psarin	0024	#	#	##	##				
+cypgreek	psarin	0024	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0024	Sire	throw-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0024	0	them_0	0:p	0		p		
+cypgreek	psarin	0024	#	#	#	#				
+cypgreek	psarin	0024	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0024	sire	throw-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0024	ta	the	ln	ln				
+cypgreek	psarin	0024	dhixtia	nets	np:p	np		p		
+cypgreek	psarin	0024	mes	in	adp	adp				
+cypgreek	psarin	0024	stin	to.the	ln	ln				
+cypgreek	psarin	0024	thalassa	sea	np:g	np		g		
+cypgreek	psarin	0024	#	#	#	#				
+cypgreek	psarin	0024	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0024	eyemosen	filled-3sg	v:pred	v		pred		
+cypgreek	psarin	0024	mian	a_f	ln	ln				
+cypgreek	psarin	0024	kofinan	big.basket	np:p	np		p		
+cypgreek	psarin	0024	psarin	fish	np:obl	np		obl		
+cypgreek	psarin	0025	#	#	##	##				
+cypgreek	psarin	0025	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0025	Pk'anni	takes-3sg	v:pred	v		pred		
+cypgreek	psarin	0025	tin	the	ln	ln				
+cypgreek	psarin	0025	kofinan	basket	np:p	np		p		
+cypgreek	psarin	0025	#	#	#	#				
+cypgreek	psarin	0025	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0025	pai	goes-3sg	v:pred	v		pred		
+cypgreek	psarin	0025	sto	to.the	ln	ln				
+cypgreek	psarin	0025	xorkon	village	np:g	np		g		
+cypgreek	psarin	0026	#	#	##	##				
+cypgreek	psarin	0026	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0026	Pai	goes-3sg	v:pred	v		pred		
+cypgreek	psarin	0026	jame	there	other:g	other		g		
+cypgreek	psarin	0026	ston	to.the	ln	ln				
+cypgreek	psarin	0026	kavenen	coffee.shop	np:g	np		g		
+cypgreek	psarin	0026	#	#	#	#				
+cypgreek	psarin	0026	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0026	epulisen	sold-3sg	v:pred	v		pred		
+cypgreek	psarin	0026	jindo	that_n	ln	ln				
+cypgreek	psarin	0026	psarin	fish	np:p	np		p		
+cypgreek	psarin	0026	#	#	#	#				
+cypgreek	psarin	0026	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0026	epk'axen	got-3sg	v:pred	v		pred		
+cypgreek	psarin	0026	dheka	ten	ln	ln				
+cypgreek	psarin	0026	rial'a	coins	np:p	np		p		
+cypgreek	psarin	0027	#	#	##	##				
+cypgreek	psarin	0027	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0027	Afiken	left-3sg	v:pred	v		pred		
+cypgreek	psarin	0027	je	also	other	other				
+cypgreek	psarin	0027	kamboson	many	other:p	other		p		
+cypgreek	psarin	0027	#	#	#ac	#ac				
+cypgreek	psarin	0027	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0027	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0027	pari	take-3sg	v:pred	v		pred		
+cypgreek	psarin	0027	#	#	#ac	#ac				
+cypgreek	psarin	0027	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0027	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0027	fai	eats-3sg	v:pred	v		pred		
+cypgreek	psarin	0027	#	#	#ac	#ac				
+cypgreek	psarin	0027	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0027	mairepsi	cook-3sg	v:pred	v		pred		
+cypgreek	psarin	0027	j	also	other	other				
+cypgreek	psarin	0027	i	the	ln	ln				
+cypgreek	psarin	0027	mana	mother	np.h:s	np	h	s		
+cypgreek	psarin	0027	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	psarin	0027	je	also	other	other				
+cypgreek	psarin	0027	jini	that.one_f	dem_pro:dt_s	dem_pro		dt_s		
+cypgreek	psarin	0028	#	#	##	##				
+cypgreek	psarin	0028	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0028	Epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0029	#	#	##ds	##ds				
+cypgreek	psarin	0029	E	Ah	other	other				
+cypgreek	psarin	0029	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0029	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0029	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0029	ekataferes	made.it-2sg	v:pred	v		pred		
+cypgreek	psarin	0029	=ta	=them	=pro:p	=pro		p		
+cypgreek	psarin	0030	#	#	##ds	##ds				
+cypgreek	psarin	0030	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0030	Ekatafera	made.it-1sg	v:pred	v		pred		
+cypgreek	psarin	0030	=ta	=them	=pro:p	=pro		p		
+cypgreek	psarin	0030	mana	mother	np.h:voc	np	h	voc		
+cypgreek	psarin	0031	#	#	##ds	##ds				
+cypgreek	psarin	0031	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0031	Epk'axa	got-1sg	v:pred	v		pred		
+cypgreek	psarin	0031	dheka	ten	ln	ln				
+cypgreek	psarin	0031	rial'a	coins	np:p	np		p		
+cypgreek	psarin	0032	#	#	##ds	##ds				
+cypgreek	psarin	0032	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0032	Eyemosa	filled-1sg	v:pred	v		pred		
+cypgreek	psarin	0032	tin	the	ln	ln				
+cypgreek	psarin	0032	kofinan	basket	np:p	np		p		
+cypgreek	psarin	0032	#	#	#ds	#ds				
+cypgreek	psarin	0032	j	and	other	other				
+cypgreek	psarin	0032	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0032	epk'axa	got-1sg	v:pred	v		pred		
+cypgreek	psarin	0032	dheka	ten	ln	ln				
+cypgreek	psarin	0032	rial'a	coins	np:p	np		p		
+cypgreek	psarin	0032	#	#	#ds	#ds				
+cypgreek	psarin	0032	j	and	other	other				
+cypgreek	psarin	0032	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0032	efera	brought-1sg	v:pred	v		pred		
+cypgreek	psarin	0032	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0032	je	also	other	other				
+cypgreek	psarin	0032	tuton	this	dem_pro:dt_p	dem_pro		dt_p		
+cypgreek	psarin	0032	#	#	#ds	#ds				
+cypgreek	psarin	0032	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0032	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0032	0	it_0	0:p	0		p		
+cypgreek	psarin	0032	mairepsis	cook-2sg	v:pred	v		pred		
+cypgreek	psarin	0032	#	#	#ds	#ds				
+cypgreek	psarin	0032	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0032	0	it_0	0:p	0		p		
+cypgreek	psarin	0032	famen	eat-1pl	v:pred	v		pred		
+cypgreek	psarin	0032	j	also	other	other				
+cypgreek	psarin	0032	emis	we	pro.1:a	pro	1	a		
+cypgreek	psarin	0033	#	#	##ds	##ds				
+cypgreek	psarin	0033	Xa	Ha	other	other				
+cypgreek	psarin	0033	tes	the	ln	ln				
+cypgreek	psarin	0033	efjes	wishes	np:p	np		p		
+cypgreek	psarin	0033	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0033	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0033	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0033	shis	have-2sg	v:pred	v		pred		
+cypgreek	psarin	0033	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0033	mu	my	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	psarin	0034	#	#	##ds	##ds				
+cypgreek	psarin	0034	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0034	Na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0034	fais	eat-2sg	v:pred	v		pred		
+cypgreek	psarin	0034	#	#	#ds	#ds				
+cypgreek	psarin	0034	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0034	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0034	pk'is	drink-2sg	v:pred	v		pred		
+cypgreek	psarin	0034	#	#	#ds_cc:p	#ds_cc		p		
+cypgreek	psarin	0034	oti	whatever	other:p	other		p		
+cypgreek	psarin	0034	xeli	wants-3sg	v:pred	v		pred		
+cypgreek	psarin	0034	i	the	ln	ln				
+cypgreek	psarin	0034	oreksi	appetite	np:a	np		a		
+cypgreek	psarin	0034	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0034	#	#	#ds	#ds				
+cypgreek	psarin	0034	je	and	other	other				
+cypgreek	psarin	0034	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0034	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0034	kratis	hold-2sg	v:pred	v		pred		
+cypgreek	psarin	0034	kala	good	ln	ln				
+cypgreek	psarin	0034	rial'a	money	np:p	np		p		
+cypgreek	psarin	0034	mes	in	adp	adp				
+cypgreek	psarin	0034	stin	to.the	ln	ln				
+cypgreek	psarin	0034	punga	pocket	np:l	np		l		
+cypgreek	psarin	0034	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0035	#	#	##	##				
+cypgreek	psarin	0035	0	they_0	0.h:s	0	h	s		
+cypgreek	psarin	0035	Ekatsan	sat-3pl	v:pred	v		pred		
+cypgreek	psarin	0035	#	#	#	#				
+cypgreek	psarin	0035	0	they_0	0.h:s	0	h	s		
+cypgreek	psarin	0035	efaan	ate-3pl	v:pred	v		pred		
+cypgreek	psarin	0035	#	#	#	#				
+cypgreek	psarin	0035	0	they_0	0.h:s	0	h	s		
+cypgreek	psarin	0035	ipk'asin	drank-3pl	v:pred	v		pred		
+cypgreek	psarin	0036	#	#	##ds	##ds				
+cypgreek	psarin	0036	Pu	From	adp	adp				
+cypgreek	psarin	0036	to	the	ln	ln				
+cypgreek	psarin	0036	pornon	morning	np:other	np		other		
+cypgreek	psarin	0036	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0036	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0036	=me	=me	=pro.1:p	=pro	1	p		
+cypgreek	psarin	0036	sikosis	raise-2sg	v:pred	v		pred		
+cypgreek	psarin	0036	nakkon	little	ln	ln				
+cypgreek	psarin	0036	pornon	morning	np:other	np		other		
+cypgreek	psarin	0036	mana	mother	np.h:voc	np	h	voc		
+cypgreek	psarin	0036	#	#	#ds	#ds				
+cypgreek	psarin	0036	j	and	other	other				
+cypgreek	psarin	0036	0	I_0	0.1:s	0	1	s		
+cypgreek	psarin	0036	enna	will	l_aux	l_aux				
+cypgreek	psarin	0036	pao	go-1sg	v:pred	v		pred		
+cypgreek	psarin	0037	#	#	##ds	##ds				
+cypgreek	psarin	0037	Ei	ok	other	other				
+cypgreek	psarin	0037	ye	son 	np.h:voc	np	h	voc		
+cypgreek	psarin	0037	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0037	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0037	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0037	=se	=you	=pro.2:p	=pro	2	p		
+cypgreek	psarin	0037	sikoso	raise-1sg	v:pred	v		pred		
+cypgreek	psarin	0038	#	#	##	##				
+cypgreek	psarin	0038	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0038	Epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0039	#	#	##ac	##ac				
+cypgreek	psarin	0039	Kata	when	other	other				
+cypgreek	psarin	0039	pu	that	other	other				
+cypgreek	psarin	0039	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0039	epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0039	mes	in	adp	adp				
+cypgreek	psarin	0039	stin	to.the	ln	ln				
+cypgreek	psarin	0039	akran	edge	np:g	np		g		
+cypgreek	psarin	0039	tu	the	ln	ln				
+cypgreek	psarin	0039	parathalassiou	seaside	np:poss	np		poss		
+cypgreek	psarin	0039	#	#	#	#				
+cypgreek	psarin	0039	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0039	evrexin	found-3sg	v:pred	v		pred		
+cypgreek	psarin	0039	ena	a_n	ln	ln				
+cypgreek	psarin	0039	psarin	fish	np:p	np		p		
+cypgreek	psarin	0039	isha	equal	other	other				
+cypgreek	psarin	0039	me	with	adp	adp				
+cypgreek	psarin	0039	to	the	ln	ln				
+cypgreek	psarin	0039	shillon	dog	np:other	np		other		
+cypgreek	psarin	0040	#	#	##	##				
+cypgreek	psarin	0040	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0040	Esirnen	threw-3sg	v:pred	v		pred		
+cypgreek	psarin	0040	ta	the	ln	ln				
+cypgreek	psarin	0040	dhixtia	nets	np:p	np		p		
+cypgreek	psarin	0040	#	#	#	#				
+cypgreek	psarin	0040	0	it_0	0.h:s	0	h	s		
+cypgreek	psarin	0040	en	not	other	other				
+cypgreek	psarin	0040	epk'annetun	was.catched-3sg	psv_v:pred	psv_v		pred		
+cypgreek	psarin	0041	#	#	##ds	##ds				
+cypgreek	psarin	0041	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0041	Pale	again	other	other				
+cypgreek	psarin	0041	sire	throw-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0041	#	#	#ds	#ds				
+cypgreek	psarin	0041	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0041	pale	again 	other	other				
+cypgreek	psarin	0041	sire	throw-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0041	#	#	#	#				
+cypgreek	psarin	0041	xa	ha	other	other				
+cypgreek	psarin	0041	xa	ha	other	other				
+cypgreek	psarin	0041	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0041	vuttisi	dives-3sg	v:pred	v		pred		
+cypgreek	psarin	0041	o	the	ln	ln				
+cypgreek	psarin	0041	nil'os	young.man	np.h:s	np	h	s		
+cypgreek	psarin	0041	#	#	#	#				
+cypgreek	psarin	0041	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0041	epk'axen	catched-3sg	v:pred	v		pred		
+cypgreek	psarin	0041	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0041	jindo	that	ln	ln				
+cypgreek	psarin	0041	psarin	fish	np:dt_p	np		dt_p		
+cypgreek	psarin	0042	#	#	##ds	##ds				
+cypgreek	psarin	0042	Xa	Ha	other	other				
+cypgreek	psarin	0042	#	#	#	#				
+cypgreek	psarin	0042	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0042	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0042	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0042	#	#	#ds_neg	#ds_neg				
+cypgreek	psarin	0042	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0042	enje	not.and	other	other				
+cypgreek	psarin	0042	pulo	sell-1sg	v:pred	v		pred		
+cypgreek	psarin	0042	=se	=you	=pro.2:p	=pro	2	p		
+cypgreek	psarin	0043	#	#	##ds	##ds				
+cypgreek	psarin	0043	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0043	Enna	will	l_aux	l_aux				
+cypgreek	psarin	0043	=se	=you	=pro.2:p	=pro	2	p		
+cypgreek	psarin	0043	sfakso	slaughter-1sg	v:pred	v		pred		
+cypgreek	psarin	0043	#	#	#ds	#ds				
+cypgreek	psarin	0043	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0043	=se	=you	=pro.2:p	=pro	2	p		
+cypgreek	psarin	0043	fao	eat-1sg	v:pred	v		pred		
+cypgreek	psarin	0043	yoni	I 	pro.1:a	pro	1	a		
+cypgreek	psarin	0043	popse	tonight	other	other				
+cypgreek	psarin	0044	#	#	##	##				
+cypgreek	psarin	0044	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0044	Sfazi	slaughters-3sg	v:pred	v		pred		
+cypgreek	psarin	0044	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0044	#	#	#	#				
+cypgreek	psarin	0044	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0044	shizi	tears-3sg	v:pred	v		pred		
+cypgreek	psarin	0044	tin	the	ln	ln				
+cypgreek	psarin	0044	kark'an	heart	np:p	np		p		
+cypgreek	psarin	0044	tu	its	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	psarin	0044	#	#	#	#				
+cypgreek	psarin	0044	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0044	ivren	found-3sg	v:pred	v		pred		
+cypgreek	psarin	0044	enan	a_n	ln	ln				
+cypgreek	psarin	0044	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0044	ghruson	gold	rn	rn				
+cypgreek	psarin	0044	mesa	inside	other:l	other		l		
+cypgreek	psarin	0045	#	#	##	##				
+cypgreek	psarin	0045	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0045	Pk'anni	takes-3sg	v:pred	v		pred		
+cypgreek	psarin	0045	0	it_0	0:p	0		p		
+cypgreek	psarin	0045	#	#	#	#				
+cypgreek	psarin	0045	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0045	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0045	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0045	plinni	washes-3sg	v:pred	v		pred		
+cypgreek	psarin	0045	me	with	adp	adp				
+cypgreek	psarin	0045	to	the	ln	ln				
+cypgreek	psarin	0045	neron	water	np:obl	np		obl		
+cypgreek	psarin	0045	tis	the	ln	ln				
+cypgreek	psarin	0045	thalassas	sea	np:obl	np		obl		
+cypgreek	psarin	0045	#	#	#	#				
+cypgreek	psarin	0045	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0045	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0045	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0045	plinni	washes-3sg	v:pred	v		pred		
+cypgreek	psarin	0045	#	#	#ac	#ac				
+cypgreek	psarin	0045	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0045	pan	go-3pl	v:pred	v		pred		
+cypgreek	psarin	0045	jinda	those	ln	ln				
+cypgreek	psarin	0045	yemata	blood	np:s	np		s		
+cypgreek	psarin	0045	#	#	#	#				
+cypgreek	psarin	0045	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0045	shononni	pours-3sg	v:pred	v		pred		
+cypgreek	psarin	0045	to	the	ln	ln				
+cypgreek	psarin	0045	neron	water	np:p	np		p		
+cypgreek	psarin	0045	xame	on.the.ground	other:g	other		g		
+cypgreek	psarin	0045	#	#	#	#				
+cypgreek	psarin	0045	eyinin	became-3sg	cop	cop				
+cypgreek	psarin	0045	o	the	ln	ln				
+cypgreek	psarin	0045	topos	place	np:s	np		s		
+cypgreek	psarin	0045	ullon	all	ln	ln				
+cypgreek	psarin	0045	lires	pounds	np:pred	np		pred		
+cypgreek	psarin	0046	#	#	##ds	##ds				
+cypgreek	psarin	0046	Xa	Ha	other	other				
+cypgreek	psarin	0046	#	#	#	#				
+cypgreek	psarin	0046	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0046	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0046	#	#	#ds	#ds				
+cypgreek	psarin	0046	en	is-3sg	other:predex	other		predex		
+cypgreek	psarin	0046	i	the	ln	ln				
+cypgreek	psarin	0046	zisi	living	np:s	np		s		
+cypgreek	psarin	0046	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0046	tuti	this	other	other				
+cypgreek	psarin	0047	#	#	##	##				
+cypgreek	psarin	0047	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0047	Pk'anni	takes-3sg	v:pred	v		pred		
+cypgreek	psarin	0047	tes	the	ln	ln				
+cypgreek	psarin	0047	lires	pounds	np:p	np		p		
+cypgreek	psarin	0047	#	#	#	#				
+cypgreek	psarin	0047	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0047	epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0047	oloisha	straight	other	other				
+cypgreek	psarin	0047	esso	to.home	np:g	np		g		
+cypgreek	psarin	0048	#	#	##ds	##ds				
+cypgreek	psarin	0048	E	Ah	other	other				
+cypgreek	psarin	0048	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0048	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0048	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0048	epulises	sold-3sg	v:pred	v		pred		
+cypgreek	psarin	0048	0	it_0	0:p	0		p		
+cypgreek	psarin	0049	#	#	##ds	##ds				
+cypgreek	psarin	0049	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0049	Epulisa	sold-1sg	v:pred	v		pred		
+cypgreek	psarin	0049	0	it_0	0:p	0		p		
+cypgreek	psarin	0049	mana	mother	np.h:voc	np	h	voc		
+cypgreek	psarin	0049	#	#	#ds	#ds				
+cypgreek	psarin	0049	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0049	epulisa	sold-1sg	v:pred	v		pred		
+cypgreek	psarin	0049	0	it_0	0:p	0		p		
+cypgreek	psarin	0050	#	#	##ds	##ds				
+cypgreek	psarin	0050	Na	Voila	other	other				
+cypgreek	psarin	0050	tin	the	ln	ln				
+cypgreek	psarin	0050	liran	pound	np:other	np		other		
+cypgreek	psarin	0050	#	#	#ds	#ds				
+cypgreek	psarin	0050	je	and	other	other				
+cypgreek	psarin	0050	to	the	ln	ln				
+cypgreek	psarin	0050	psarin	fish	np:p	np		p		
+cypgreek	psarin	0050	tuton	this	rn	rn				
+cypgreek	psarin	0050	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0050	=to	=it	=pro:dt_p	=pro		dt_p		
+cypgreek	psarin	0050	famen	eat-1pl	v:pred	v		pred		
+cypgreek	psarin	0050	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0051	#	#	##ds	##ds				
+cypgreek	psarin	0051	Mbravo	bravo	other	other				
+cypgreek	psarin	0051	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0051	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0052	#	#	##ds	##ds				
+cypgreek	psarin	0052	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0052	Eshe	have-2sg	v:pred	v		pred		
+cypgreek	psarin	0052	tes	the	ln	ln				
+cypgreek	psarin	0052	efjes	wishes	np:p	np		p		
+cypgreek	psarin	0052	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0053	#	#	##ds	##ds				
+cypgreek	psarin	0053	Nna	Here (interjection) 	other	other				
+cypgreek	psarin	0053	mana	mother	np.h:voc	np	h	voc		
+cypgreek	psarin	0053	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0053	vura	run-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0053	#	#	#ds	#ds				
+cypgreek	psarin	0053	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0053	fere	bring-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0053	je	also	other	other				
+cypgreek	psarin	0053	mian	a_f	ln	ln				
+cypgreek	psarin	0053	potsan	bottle	ln	ln				
+cypgreek	psarin	0053	krasin	wine	np:p	np		p		
+cypgreek	psarin	0054	#	#	##ds	##ds				
+cypgreek	psarin	0054	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0054	Na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0054	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	psarin	0054	0	it_0	0:p	0		p		
+cypgreek	psarin	0054	fero	bring-1sg	v:pred	v		pred		
+cypgreek	psarin	0054	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0054	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0054	#	#	#ds_neg	#ds_neg				
+cypgreek	psarin	0054	yati	why	other	other				
+cypgreek	psarin	0054	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0054	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0054	men	not	other	other				
+cypgreek	psarin	0054	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	psarin	0054	0	it_0	np:p	np		p		
+cypgreek	psarin	0054	fero	bring-1sg	v:pred	v		pred		
+cypgreek	psarin	0055	#	#	##	##				
+cypgreek	psarin	0055	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0055	Eferen	brought-3sg	v:pred	v		pred		
+cypgreek	psarin	0055	=tu	=to.him	=pro:g	=pro		g		
+cypgreek	psarin	0055	krasin	wine	np:p	np		p		
+cypgreek	psarin	0056	#	#	##	##				
+cypgreek	psarin	0056	0	they_0	0.h:s	0	h	s		
+cypgreek	psarin	0056	Ekatsan	sat-3pl	v:pred	v		pred		
+cypgreek	psarin	0056	#	#	#	#				
+cypgreek	psarin	0056	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0056	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0056	fasin	eat-3pl	v:pred	v		pred		
+cypgreek	psarin	0056	0	it_0	0:p	0		p		
+cypgreek	psarin	0056	#	#	#	#				
+cypgreek	psarin	0056	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0056	exelen	wanted-3sg	v:pred	v		pred		
+cypgreek	psarin	0056	kandilan	glass	np:p	np		p		
+cypgreek	psarin	0057	#	#	##ds_neg	##ds_neg				
+cypgreek	psarin	0057	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0057	En	not	other	other				
+cypgreek	psarin	0057	xelumen	want-1pl	v:pred	v		pred		
+cypgreek	psarin	0057	kandilan	glass	np:p	np		p		
+cypgreek	psarin	0057	mana	mother	np.h:voc	np	h	voc		
+cypgreek	psarin	0058	#	#	##ds	##ds				
+cypgreek	psarin	0058	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0058	Krato	hold-1sg	v:pred	v		pred		
+cypgreek	psarin	0058	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0059	#	#	##ds	##ds				
+cypgreek	psarin	0059	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0059	Pu	from	other	other				
+cypgreek	psarin	0059	to	it	=pro:p	=pro		p		
+cypgreek	psarin	0059	ivres	find-2sg	v:pred	v		pred		
+cypgreek	psarin	0059	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0059	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0060	#	#	##ds	##ds				
+cypgreek	psarin	0060	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0060	Ivra	found-1sg	v:pred	v		pred		
+cypgreek	psarin	0060	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0060	mes	in	adp	adp				
+cypgreek	psarin	0060	stin	to.the	ln	ln				
+cypgreek	psarin	0060	kark'an	heart	np:l	np		l		
+cypgreek	psarin	0060	tu	the	ln	ln				
+cypgreek	psarin	0060	psarku	fish	np:poss	np		poss		
+cypgreek	psarin	0060	mana	mother	np.h:voc	np	h	voc		
+cypgreek	psarin	0061	#	#	##	##				
+cypgreek	psarin	0061	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0061	Yirni	pours-3sg	v:pred	v		pred		
+cypgreek	psarin	0061	to	the	ln	ln				
+cypgreek	psarin	0061	krasin	wine	np:p	np		p		
+cypgreek	psarin	0061	#	#	#	#				
+cypgreek	psarin	0061	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0061	yirni	pours-3sg	v:pred	v		pred		
+cypgreek	psarin	0061	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0061	pa	on	adp	adp				
+cypgreek	psarin	0061	sto	to.the	ln	ln				
+cypgreek	psarin	0061	tavlin	table	np:g	np		g		
+cypgreek	psarin	0062	#	#	##ds	##ds				
+cypgreek	psarin	0062	Oi	No	other	other				
+cypgreek	psarin	0062	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0062	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0062	j	and	other	other				
+cypgreek	psarin	0062	enna	will	l_aux	l_aux				
+cypgreek	psarin	0062	yini	become-3sg	cop	cop				
+cypgreek	psarin	0062	ullon	all	ln	ln				
+cypgreek	psarin	0062	krasha	full.of.wine	other:pred	other		pred		
+cypgreek	psarin	0062	to	the	ln	ln				
+cypgreek	psarin	0062	mandalotavlon	tablecloth	np:s	np		s		
+cypgreek	psarin	0063	#	#	##ds_neg	##ds_neg				
+cypgreek	psarin	0063	0	they_0	0:s	0		s		
+cypgreek	psarin	0063	En	not	other	other				
+cypgreek	psarin	0063	nen	are-3pl	cop	cop				
+cypgreek	psarin	0063	krasha	full.of.wine	other:pred	other		pred		
+cypgreek	psarin	0063	mana	mother	np.h:voc	np	h	voc		
+cypgreek	psarin	0064	#	#	##	##				
+cypgreek	psarin	0064	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0064	Paratira	looks-3sg	v:pred	v		pred		
+cypgreek	psarin	0064	#	#	#	#				
+cypgreek	psarin	0064	0	it_0	0.h:s	0	h	s		
+cypgreek	psarin	0064	itan	was-3sg	cop	cop				
+cypgreek	psarin	0064	ullon	all	ln	ln				
+cypgreek	psarin	0064	lires	pounds	np:pred	np		pred		
+cypgreek	psarin	0065	#	#	##ds	##ds				
+cypgreek	psarin	0065	A	Ah	other	other				
+cypgreek	psarin	0065	0	it_0	0:s	0		s		
+cypgreek	psarin	0065	en	is-3sg	cop	cop				
+cypgreek	psarin	0065	polla	very	other	other				
+cypgreek	psarin	0065	kala	good	other	other				
+cypgreek	psarin	0065	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0065	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0066	#	#	##ds	##ds				
+cypgreek	psarin	0066	0	it_0	0:s	0		s		
+cypgreek	psarin	0066	En	is-3sg	cop	cop				
+cypgreek	psarin	0066	i	the	ln	ln				
+cypgreek	psarin	0066	zisi	living	np:pred	np		pred		
+cypgreek	psarin	0066	mas	our	rn	rn				
+cypgreek	psarin	0067	#	#	##ds	##ds				
+cypgreek	psarin	0067	0	You_0	0.2:a	0	2	a		
+cypgreek	psarin	0067	Yire	pour-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0067	neron	water	np:p	np		p		
+cypgreek	psarin	0067	#	#	#ds	#ds				
+cypgreek	psarin	0067	je	and	other	other				
+cypgreek	psarin	0067	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0067	plinne	wash-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0067	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0067	#	#	#ds	#ds				
+cypgreek	psarin	0067	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0067	yire	pour-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0067	0	it_0	0:p	0		p		
+cypgreek	psarin	0067	#	#	#	#				
+cypgreek	psarin	0067	eyemosen	filled-3sg	v:pred	v		pred		
+cypgreek	psarin	0067	tin	the	ln	ln				
+cypgreek	psarin	0067	mian	a_f	ln	ln				
+cypgreek	psarin	0067	ghon'an	corner	np:p	np		p		
+cypgreek	psarin	0067	tu	the	ln	ln				
+cypgreek	psarin	0067	spithk'u	house	np:poss	np		poss		
+cypgreek	psarin	0067	tis	the	ln	ln				
+cypgreek	psarin	0067	kojakaris	old.woman	np.h:poss	np	h	poss		
+cypgreek	psarin	0067	ullon	all	ln	ln				
+cypgreek	psarin	0067	lires	pounds	np:obl	np		obl		
+cypgreek	psarin	0067	o	the	ln	ln				
+cypgreek	psarin	0067	yos	son	np.h:a	np	h	a		
+cypgreek	psarin	0067	tis	her	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	psarin	0068	#	#	##ds	##ds				
+cypgreek	psarin	0068	Ei	Ok	other	other				
+cypgreek	psarin	0068	mana	mother	np.h:voc	np	h	voc		
+cypgreek	psarin	0068	#	#	#	#				
+cypgreek	psarin	0068	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0068	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0068	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0068	#	#	#ds	#ds				
+cypgreek	psarin	0068	eyioni	I	pro.1:a	pro	1	a		
+cypgreek	psarin	0068	enna	will	l_aux	l_aux				
+cypgreek	psarin	0068	pk'ao	take-1sg	v:pred	v		pred		
+cypgreek	psarin	0068	to	the	ln	ln				
+cypgreek	psarin	0068	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0068	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0068	#	#	#ds	#ds				
+cypgreek	psarin	0068	je	and	other	other				
+cypgreek	psarin	0068	0	I_0	0.1:s	0	1	s		
+cypgreek	psarin	0068	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0068	pao	go-1sg	v:pred	v		pred		
+cypgreek	psarin	0068	peripaton	walk	np:obl	np		obl		
+cypgreek	psarin	0069	#	#	##ds	##ds				
+cypgreek	psarin	0069	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0069	Na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0069	dho	see-1sg	v:pred	v		pred		
+cypgreek	psarin	0069	kosmon	people	np.h:p	np	h	p		
+cypgreek	psarin	0069	#	#	#ds_ac	#ds_ac				
+cypgreek	psarin	0069	tora	now	other	other				
+cypgreek	psarin	0069	pu	that	other	other				
+cypgreek	psarin	0069	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0069	krato	hold-1sg	v:pred	v		pred		
+cypgreek	psarin	0069	rial'a	money	np:p	np		p		
+cypgreek	psarin	0070	#	#	##ds	##ds				
+cypgreek	psarin	0070	E	Ah	other	other				
+cypgreek	psarin	0070	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0070	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0070	pais	go-2sg	v:pred	v		pred		
+cypgreek	psarin	0070	ye	son	np.h:voc	np	h	voc		
+cypgreek	psarin	0070	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0071	#	#	##ds_neg	##ds_neg				
+cypgreek	psarin	0071	Yiati	Why	other	other				
+cypgreek	psarin	0071	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0071	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0071	men	not	other	other				
+cypgreek	psarin	0071	pais	go-2sg	v:pred	v		pred		
+cypgreek	psarin	0072	#	#	##	##				
+cypgreek	psarin	0072	0	He_0	0.h:s	0	h	s		
+cypgreek	psarin	0072	Epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0073	#	#	##	##				
+cypgreek	psarin	0073	0	He_0	0.h:s	0	h	s		
+cypgreek	psarin	0073	Pai	goes-3sg	v:pred	v		pred		
+cypgreek	psarin	0073	enan	to.one	ln	ln				
+cypgreek	psarin	0073	xorkon	village	np:g	np		g		
+cypgreek	psarin	0073	#	#	#	#				
+cypgreek	psarin	0073	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0073	pai	goes-3sg	v:pred	v		pred		
+cypgreek	psarin	0073	allon	to.other	ln	ln				
+cypgreek	psarin	0073	xorkon	village	np:g	np		g		
+cypgreek	psarin	0073	#	#	#	#				
+cypgreek	psarin	0073	0	He_0	0.h:a	0	h	a		
+cypgreek	psarin	0073	epk'aen	took-3sg	v:pred	v		pred		
+cypgreek	psarin	0073	mian	a_f	ln	ln				
+cypgreek	psarin	0073	stratan	road	np:p	np		p		
+cypgreek	psarin	0074	#	#	##ac	##ac				
+cypgreek	psarin	0074	San	as	other	other				
+cypgreek	psarin	0074	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0074	epiennen	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0074	mes	in	adp	adp				
+cypgreek	psarin	0074	ston	to.the	ln	ln				
+cypgreek	psarin	0074	kambon	field	np:l	np		l		
+cypgreek	psarin	0074	ton	the	ln	ln				
+cypgreek	psarin	0074	akliron	barren	np:poss	np		poss		
+cypgreek	psarin	0074	#	#	#	#				
+cypgreek	psarin	0074	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0074	ivren	found-3sg	v:pred	v		pred		
+cypgreek	psarin	0074	enan	a_n	ln	ln				
+cypgreek	psarin	0074	palatin	palace	np:p	np		p		
+cypgreek	psarin	0074	vasilikon	royal	rn	rn				
+cypgreek	psarin	0075	#	#	##	##				
+cypgreek	psarin	0075	Itun	was-3sg	cop	cop				
+cypgreek	psarin	0075	i	the	ln	ln				
+cypgreek	psarin	0075	kori	daughter	np.h:s	np	h	s		
+cypgreek	psarin	0075	tu	the 	ln	ln				
+cypgreek	psarin	0075	vasilia	king	np:poss	np		poss		
+cypgreek	psarin	0075	mes	in	adp	adp				
+cypgreek	psarin	0075	sto	to.the	ln	ln				
+cypgreek	psarin	0075	yallokluvin	glass.cage	np:l	np		l		
+cypgreek	psarin	0075	me	with	adp	adp				
+cypgreek	psarin	0075	thk'o	two	ln	ln				
+cypgreek	psarin	0075	dhules	servants	np:obl	np		obl		
+cypgreek	psarin	0075	#	#	#	#				
+cypgreek	psarin	0075	j	and	other	other				
+cypgreek	psarin	0075	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0075	eghlepan	watched-3pl	v:pred	v		pred		
+cypgreek	psarin	0075	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0076	#	#	##	##				
+cypgreek	psarin	0076	Epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0076	je	too	other	other				
+cypgreek	psarin	0076	jinos	that.one_m	dem_pro.h:s	dem_pro	h	s		
+cypgreek	psarin	0077	#	#	##ac	##ac				
+cypgreek	psarin	0077	Tora	now	other	other				
+cypgreek	psarin	0077	pu	that	other	other				
+cypgreek	psarin	0077	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0077	irten	came-3sg	v:pred	v		pred		
+cypgreek	psarin	0077	konda	near	other	other				
+cypgreek	psarin	0077	stin	to.the	ln	ln				
+cypgreek	psarin	0077	fundanan	fountain	np:l	np		l		
+cypgreek	psarin	0077	#	#	#	#				
+cypgreek	psarin	0077	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0077	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0077	#	#	#ds	#ds				
+cypgreek	psarin	0077	0	I_0	0.1:s	0	1	s		
+cypgreek	psarin	0077	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0077	katso	sit-1sg	v:pred	v		pred		
+cypgreek	psarin	0077	#	#	#ds	#ds				
+cypgreek	psarin	0077	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0077	pk'o	drink-1sg	v:pred	v		pred		
+cypgreek	psarin	0077	j	too	other	other				
+cypgreek	psarin	0077	eo	I	pro.1:a	pro	1	a		
+cypgreek	psarin	0077	nakkon	little	ln	ln				
+cypgreek	psarin	0077	neron	water	np:p	np		p		
+cypgreek	psarin	0078	#	#	##	##				
+cypgreek	psarin	0078	Epian	went-3pl	v:pred	v		pred		
+cypgreek	psarin	0078	i	the	ln	ln				
+cypgreek	psarin	0078	dhules	servants	np.h:s	np	h	s		
+cypgreek	psarin	0078	#	#	#	#				
+cypgreek	psarin	0078	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0078	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0078	yemosun	fill-3pl	v:pred	v		pred		
+cypgreek	psarin	0078	tes	the	ln	ln				
+cypgreek	psarin	0078	kuzes	clay.pots	np:p	np		p		
+cypgreek	psarin	0078	tis	the	ln	ln				
+cypgreek	psarin	0078	koris	girl	np.h:poss	np	h	poss		
+cypgreek	psarin	0078	tu	the	ln	ln				
+cypgreek	psarin	0078	vasilea	king	np.h:poss	np	h	poss		
+cypgreek	psarin	0079	#	#	##ds	##ds				
+cypgreek	psarin	0079	Nna	Voila	other	other				
+cypgreek	psarin	0079	kori	girl	np.h:voc	np	h	voc		
+cypgreek	psarin	0079	kopella	girl	np.h:voc	np	h	voc		
+cypgreek	psarin	0079	#	#	#	#				
+cypgreek	psarin	0079	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0079	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0079	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0079	#	#	#ds	#ds				
+cypgreek	psarin	0079	tundo	this.the	ln	ln				
+cypgreek	psarin	0079	xanappin	vessel	np:other	np		other		
+cypgreek	psarin	0079	#	#	#ds	#ds				
+cypgreek	psarin	0079	je	and	other	other				
+cypgreek	psarin	0079	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0079	yire	pour-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0079	=mu	=to.me	=pro.1:obl	=pro	1	obl		
+cypgreek	psarin	0079	nakkon	little	ln	ln				
+cypgreek	psarin	0079	neron	water	np:p	np		p		
+cypgreek	psarin	0079	#	#	#ds	#ds				
+cypgreek	psarin	0079	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0079	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0079	0	it_0	0:p	0		p		
+cypgreek	psarin	0079	pk'o	drink-1sg	v:pred	v		pred		
+cypgreek	psarin	0080	#	#	##	##				
+cypgreek	psarin	0080	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0080	Eyemosen	filled-3sg	v:pred	v		pred		
+cypgreek	psarin	0080	=tu	=to.him	=pro.h:obl	=pro	h	obl		
+cypgreek	psarin	0080	to	the	ln	ln				
+cypgreek	psarin	0080	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0080	#	#	#	#				
+cypgreek	psarin	0080	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0080	shononni	pours-3sg	v:pred	v		pred		
+cypgreek	psarin	0080	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0080	xame	to.ground	other:g	other		g		
+cypgreek	psarin	0081	#	#	##ds	##ds				
+cypgreek	psarin	0081	0	you_0 	0.2:a	0	2	a		
+cypgreek	psarin	0081	Pk'as	take-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0081	=tes	=them	=pro:p	=pro		p		
+cypgreek	psarin	0081	kori	girl	np.h:voc	np	h	voc		
+cypgreek	psarin	0081	tes	the	ln	ln				
+cypgreek	psarin	0081	lires	pounds	np:dt_p	np		dt_p		
+cypgreek	psarin	0082	#	#	##ds	##ds				
+cypgreek	psarin	0082	Panayia	Mother.of.God	other	other				
+cypgreek	psarin	0082	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0082	#	#	#	#				
+cypgreek	psarin	0082	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0082	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0083	#	#	##	##				
+cypgreek	psarin	0083	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0083	Ksanayemonni	refills-3sg	v:pred	v		pred		
+cypgreek	psarin	0083	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0083	#	#	#	#				
+cypgreek	psarin	0083	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0083	eshonosen	poured-3sg	v:pred	v		pred		
+cypgreek	psarin	0083	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0084	#	#	##ds	##ds				
+cypgreek	psarin	0084	Pk'as	take-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0084	=tes	=them	=pro:p	=pro		p		
+cypgreek	psarin	0084	esu	you	pro.2:a	pro	2	a		
+cypgreek	psarin	0084	kori	girl	np.h:voc	np	h	voc		
+cypgreek	psarin	0084	jines	that.one_f_pl	dem_pro:dt_p	dem_pro		dt_p		
+cypgreek	psarin	0085	#	#	##ds	##ds				
+cypgreek	psarin	0085	Panayia	mother.of.god	other	other				
+cypgreek	psarin	0085	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0086	#	#	##	##				
+cypgreek	psarin	0086	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0086	Pai	goes-3sg	v:pred	v		pred		
+cypgreek	psarin	0086	esso	to.home	np:g	np		g		
+cypgreek	psarin	0087	#	#	##ds	##ds				
+cypgreek	psarin	0087	A	Ah	other	other				
+cypgreek	psarin	0087	jira	lady	ln	ln				
+cypgreek	psarin	0087	vasilissa	queen	np.h:voc	np	h	voc		
+cypgreek	psarin	0087	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0087	ela	come-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0087	dhaxame	here	other:g	other		g		
+cypgreek	psarin	0087	sto	to.the	ln	ln				
+cypgreek	psarin	0087	palatin	palace	np:g	np		g		
+cypgreek	psarin	0087	#	#	#ds	#ds				
+cypgreek	psarin	0087	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0087	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0087	is	see-2sg	v:pred	v		pred		
+cypgreek	psarin	0087	jinon	that	ln	ln				
+cypgreek	psarin	0087	ton	the	ln	ln				
+cypgreek	psarin	0087	athropon	man	np.h:p	np	h	p		
+cypgreek	psarin	0087	#	#	#ds_rc	#ds_rc				
+cypgreek	psarin	0087	pu	that	other	other				
+cypgreek	psarin	0087	kaxete	sits-3sg	v:pred	v		pred		
+cypgreek	psarin	0087	jame	there	other:g	other		g		
+cypgreek	psarin	0087	stin	to.the	ln	ln				
+cypgreek	psarin	0087	fundanan	fountain	np:g	np		g		
+cypgreek	psarin	0087	#	#	#ds	#ds				
+cypgreek	psarin	0087	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0087	eshi	has-3sg	v:pred	v		pred		
+cypgreek	psarin	0087	enan	a_n	ln	ln				
+cypgreek	psarin	0087	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0087	#	#	#ds	#ds				
+cypgreek	psarin	0087	je	and	other	other				
+cypgreek	psarin	0087	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0087	jemonni	fills-3sg	v:pred	v		pred		
+cypgreek	psarin	0087	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0087	#	#	#ds	#ds				
+cypgreek	psarin	0087	je	and	other	other				
+cypgreek	psarin	0087	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0087	shononni	pours-3sg	v:pred	v		pred		
+cypgreek	psarin	0087	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0087	#	#	#ds	#ds				
+cypgreek	psarin	0087	je	and	other	other				
+cypgreek	psarin	0087	yemonni	fills-3sg	v:pred	v		pred		
+cypgreek	psarin	0087	o	the	ln	ln				
+cypgreek	psarin	0087	topos	place	np:p	np		p		
+cypgreek	psarin	0087	lires	pounds	np:obl	np		obl		
+cypgreek	psarin	0088	#	#	##ds	##ds				
+cypgreek	psarin	0088	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0088	Xore	see-2sg	v:pred	v		pred		
+cypgreek	psarin	0088	lires	pounds	np:p	np		p		
+cypgreek	psarin	0088	#	#	#ds_rc	#ds_rc				
+cypgreek	psarin	0088	pu	that	other	other				
+cypgreek	psarin	0088	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0088	=mas	=to.us	=pro.1:p	=pro	1	p		
+cypgreek	psarin	0088	eoken	gave-3sg	v:pred	v		pred		
+cypgreek	psarin	0089	#	#	##ds	##ds				
+cypgreek	psarin	0089	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0089	Vura	run-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0089	#	#	#ds	#ds				
+cypgreek	psarin	0089	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0089	pe	say-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0089	=tu	=to.him	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0089	ra	you_f 	pro.2:voc	pro	2	voc		
+cypgreek	psarin	0089	#	#	#	#				
+cypgreek	psarin	0089	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0089	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0089	=tis	=to.her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0089	#	#	#ds	#ds				
+cypgreek	psarin	0089	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0089	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0089	rti	comes-3sg	v:pred	v		pred		
+cypgreek	psarin	0089	pano	upstairs	other:g	other		g		
+cypgreek	psarin	0089	#	#	#ds	#ds				
+cypgreek	psarin	0089	0	I_0	0.1:s_ds	0	1	s_ds		
+cypgreek	psarin	0089	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0089	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0089	po	say-1sg	v:pred	v		pred		
+cypgreek	psarin	0089	#	#	#ds	#ds				
+cypgreek	psarin	0089	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0089	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0089	umen	see-1pl	v:pred	v		pred		
+cypgreek	psarin	0089	#	#	#ds_cc:p	#ds_cc		p		
+cypgreek	psarin	0089	an	if	other	other				
+cypgreek	psarin	0089	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0089	=mas	=to.us	=pro.1:g	=pro	1	g		
+cypgreek	psarin	0089	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0089	puli	sells-3sg	v:pred	v		pred		
+cypgreek	psarin	0090	#	#	##	##				
+cypgreek	psarin	0090	0	s/he_0	0.h:s	0	h	s		
+cypgreek	psarin	0090	Epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0091	#	#	##	##				
+cypgreek	psarin	0091	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0091	Lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0091	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0092	#	#	##ds	##ds				
+cypgreek	psarin	0092	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0092	Pulis	sell-2sg	v:pred	v		pred		
+cypgreek	psarin	0092	=mas	=to.us	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0092	tundo	this.the	ln	ln				
+cypgreek	psarin	0092	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0093	#	#	##ds	##ds				
+cypgreek	psarin	0093	A	Ah	other	other				
+cypgreek	psarin	0093	#	#	#	#				
+cypgreek	psarin	0093	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0093	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0093	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0093	#	#	#ds	#ds				
+cypgreek	psarin	0093	nda	what	other:s	other		s		
+cypgreek	psarin	0093	potte	ever	other	other				
+cypgreek	psarin	0093	ine	is-3sg	cop	cop				
+cypgreek	psarin	0093	dhinaton	possible	other:pred	other		pred		
+cypgreek	psarin	0093	#	#	#ds_ac?	#ds_ac?				
+cypgreek	psarin	0093	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0093	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0093	puliso	sell-1sg	v:pred	v		pred		
+cypgreek	psarin	0093	to	the	ln	ln				
+cypgreek	psarin	0093	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0093	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0093	#	#	#ds_rc	#ds_rc				
+cypgreek	psarin	0093	pu	that	other	other				
+cypgreek	psarin	0093	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0093	pk'anno	get-1sg	v:pred	v		pred		
+cypgreek	psarin	0093	tosin	such	ln	ln				
+cypgreek	psarin	0093	liran	pound	np:p	np		p		
+cypgreek	psarin	0094	#	#	##ds_neg	##ds_neg				
+cypgreek	psarin	0094	Enj	not.and	other	other				
+cypgreek	psarin	0094	eshi	have-3sg	v:pred	v		pred		
+cypgreek	psarin	0094	pokopin	value	np:p	np		p		
+cypgreek	psarin	0094	to	the	ln	ln				
+cypgreek	psarin	0094	xanappin	vessel	np:a	np		a		
+cypgreek	psarin	0094	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0095	#	#	##ds_ac	##ds_ac				
+cypgreek	psarin	0095	An	If	other	other				
+cypgreek	psarin	0095	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0095	kailisis	give.in-2sg	v:pred	v		pred		
+cypgreek	psarin	0095	#	#	#ds_ac	#ds_ac				
+cypgreek	psarin	0095	je	and	other	other				
+cypgreek	psarin	0095	0	I_0	0.1:s	0	1	s		
+cypgreek	psarin	0095	ppeso	lie-1sg	v:pred	v		pred		
+cypgreek	psarin	0095	tris	three	ln	ln				
+cypgreek	psarin	0095	nixtes	nights	np:other	np		other		
+cypgreek	psarin	0095	mita	with	adp	adp				
+cypgreek	psarin	0095	=su	=to.you	=pro.2:obl	=pro	2	obl		
+cypgreek	psarin	0095	#	#	#ds	#ds				
+cypgreek	psarin	0095	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0095	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0095	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	psarin	0095	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0095	dhoko	give-1sg	v:pred	v		pred		
+cypgreek	psarin	0096	#	#	##ds	##ds				
+cypgreek	psarin	0096	E	Ah	other	other				
+cypgreek	psarin	0096	0	I_0	0.1:s	0	1	s		
+cypgreek	psarin	0096	kailizo	give.in-1sg	v:pred	v		pred		
+cypgreek	psarin	0096	#	#	#	#				
+cypgreek	psarin	0096	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0096	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0096	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0097	#	#	##	##				
+cypgreek	psarin	0097	Eppesen	lied-3sg	v:pred	v		pred		
+cypgreek	psarin	0097	tris	three	ln	ln				
+cypgreek	psarin	0097	nixtes	nights	np:other	np		other		
+cypgreek	psarin	0097	to	the	ln	ln				
+cypgreek	psarin	0097	kopellin	young.man	np.h:s	np	h	s		
+cypgreek	psarin	0097	me	with	adp	adp				
+cypgreek	psarin	0097	tin	the	ln	ln				
+cypgreek	psarin	0097	korin	girl	np.h:obl	np	h	obl		
+cypgreek	psarin	0097	tu	the	ln	ln				
+cypgreek	psarin	0097	vasilea	king	np.h:poss	np	h	poss		
+cypgreek	psarin	0097	#	#	#rc	#rc				
+cypgreek	psarin	0097	pu	that	other	other				
+cypgreek	psarin	0097	tun	was-3sg	cop	cop				
+cypgreek	psarin	0097	mes	in	adp	adp				
+cypgreek	psarin	0097	sto	to.the	ln	ln				
+cypgreek	psarin	0097	yallokluvin	glass.cage	np:g	np		g		
+cypgreek	psarin	0097	#	#	#	#				
+cypgreek	psarin	0097	j	and	other	other				
+cypgreek	psarin	0097	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0097	epk'aen	took-3sg	v:pred	v		pred		
+cypgreek	psarin	0097	to	the	ln	ln				
+cypgreek	psarin	0097	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0098	#	#	##ds	##ds				
+cypgreek	psarin	0098	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0098	Emba	enter-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0098	mera	day	other	other				
+cypgreek	psarin	0098	#	#	#ds	#ds				
+cypgreek	psarin	0098	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0098	efka	exit-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0098	mera	day	other	other				
+cypgreek	psarin	0098	#	#	#	#				
+cypgreek	psarin	0098	to	the	ln	ln				
+cypgreek	psarin	0098	kopellin	young.man	np.h:s	np	h	s		
+cypgreek	psarin	0098	yiru-triiru	round-around	other:pred	other		pred		
+cypgreek	psarin	0098	konda	near	adp	adp				
+cypgreek	psarin	0098	=tis	=to.her	=pro.h:pred	=pro	h	pred		
+cypgreek	psarin	0098	#	#	#	#				
+cypgreek	psarin	0098	j	and	other	other				
+cypgreek	psarin	0098	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0098	eghlepen	watched.over-3sg	v:pred	v		pred		
+cypgreek	psarin	0098	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0099	#	#	##	##				
+cypgreek	psarin	0099	E	Ah	other	other				
+cypgreek	psarin	0099	i	the	ln	ln				
+cypgreek	psarin	0099	kopellua	girl	np.h:s	np	h	s		
+cypgreek	psarin	0099	itun	was-3sg	cop	cop				
+cypgreek	psarin	0099	agastromeni	pregnant	other:pred	other		pred		
+cypgreek	psarin	0100	#	#	##ds	##ds				
+cypgreek	psarin	0100	Ra	you	pro.2:voc	pro	2	voc		
+cypgreek	psarin	0100	inda	what	other:s	other		s		
+cypgreek	psarin	0100	n	is-3sg	cop	cop				
+cypgreek	psarin	0100	0	it_0	0:pred	0		pred		
+cypgreek	psarin	0100	#	#	#rc	#rc				
+cypgreek	psarin	0100	ponna	that.will	other.l_aux	other	l_aux			
+cypgreek	psarin	0100	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0100	kamumen	do-1pl	v:pred	v		pred		
+cypgreek	psarin	0101	#	#	##ds	##ds				
+cypgreek	psarin	0101	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0101	Na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0101	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0101	pumen	say-1pl	v:pred	v		pred		
+cypgreek	psarin	0101	tis	to.the	ln	ln				
+cypgreek	psarin	0101	vasilissas	queen	np.h:g	np	h	g		
+cypgreek	psarin	0102	#	#	##ds	##ds				
+cypgreek	psarin	0102	J	and	other	other				
+cypgreek	psarin	0102	inda	what	other	other				
+cypgreek	psarin	0102	#	#	#ds	#ds				
+cypgreek	psarin	0102	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0102	enna	will	l_aux	l_aux				
+cypgreek	psarin	0102	=mas	=us	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0102	pojefalisi	behead-3sg	v:pred	v		pred		
+cypgreek	psarin	0102	je	also	other	other				
+cypgreek	psarin	0102	tus	them	other	other				
+cypgreek	psarin	0102	thk'o	two	other	other				
+cypgreek	psarin	0103	#	#	##	##				
+cypgreek	psarin	0103	Irten	came-3sg	v:pred	v		pred		
+cypgreek	psarin	0103	o	the	ln	ln				
+cypgreek	psarin	0103	mairas	cook	np.h:s	np	h	s		
+cypgreek	psarin	0103	#	#	#	#				
+cypgreek	psarin	0103	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0103	eferen	brought-3sg	v:pred	v		pred		
+cypgreek	psarin	0103	=tus	=them	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0103	pramata	things	np:p	np		p		
+cypgreek	psarin	0103	#	#	#rc	#rc				
+cypgreek	psarin	0103	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0103	ponna	that.will	other.l_aux	other	l_aux			
+cypgreek	psarin	0103	mairefkun	cook-3pl	v:pred	v		pred		
+cypgreek	psarin	0103	#	#	#	#				
+cypgreek	psarin	0103	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0103	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0103	0	it_0	0:p	0		p		
+cypgreek	psarin	0103	tron	eat-3pl	v:pred	v		pred		
+cypgreek	psarin	0104	#	#	##	##				
+cypgreek	psarin	0104	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0104	Na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0104	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0104	pi	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0104	tis	to.the	ln	ln				
+cypgreek	psarin	0104	vasilissas	queen	np.h:dt_g	np	h	dt_g		
+cypgreek	psarin	0104	#	#	#	#				
+cypgreek	psarin	0104	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0104	avrion	tomorrow	other	other				
+cypgreek	psarin	0104	dixos	without	adp	adp				
+cypgreek	psarin	0104	allon	other	other:obl	other		obl		
+cypgreek	psarin	0104	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0104	rti	comes-3sg	v:pred	v		pred		
+cypgreek	psarin	0104	dhapano	here.up	other:g	other		g		
+cypgreek	psarin	0104	#	#	#	#				
+cypgreek	psarin	0104	je	and	other	other				
+cypgreek	psarin	0104	xelun	want-3pl	v:pred	v		pred		
+cypgreek	psarin	0104	=tin	=her	=pro.h:other	=pro	h	other		
+cypgreek	psarin	0104	i	the	ln	ln				
+cypgreek	psarin	0104	dhules	servants	np.h:a	np	h	a		
+cypgreek	psarin	0104	#	#	#cc:p	#cc		p		
+cypgreek	psarin	0104	0	you_0	0.2:s_ds	0	2	s_ds		
+cypgreek	psarin	0104	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0104	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0104	pis	say-2sg	v:pred	v		pred		
+cypgreek	psarin	0105	#	#	##ds	##ds				
+cypgreek	psarin	0105	Kalan	ok	other	other				
+cypgreek	psarin	0106	#	#	##	##				
+cypgreek	psarin	0106	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0106	Epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0107	#	#	##ds	##ds				
+cypgreek	psarin	0107	A	Ah	other	other				
+cypgreek	psarin	0107	jira	lady	ln	ln				
+cypgreek	psarin	0107	vasilissa	queen	np.h:voc	np	h	voc		
+cypgreek	psarin	0107	i	the	ln	ln				
+cypgreek	psarin	0107	kopellues	girls	np.h:s	np	h	s		
+cypgreek	psarin	0107	eminisasin	sent.message-3pl	v:pred	v		pred		
+cypgreek	psarin	0107	#	#	#ds	#ds				
+cypgreek	psarin	0107	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0107	dhixos	without	adp	adp				
+cypgreek	psarin	0107	allon	other	other:obl	other		obl		
+cypgreek	psarin	0107	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0107	pais	go-2sg	v:pred	v		pred		
+cypgreek	psarin	0107	#	#	#ds	#ds				
+cypgreek	psarin	0107	je	and	other	other				
+cypgreek	psarin	0107	0	they_0	0.h:s	0	h	s		
+cypgreek	psarin	0107	xelun	want-3pl	v:pred	v		pred		
+cypgreek	psarin	0107	=se	=you	=pro.2:other	=pro	2	other		
+cypgreek	psarin	0108	#	#	#nc	#nc				
+cypgreek	psarin	0108	O	Oh	nc	nc				
+cypgreek	psarin	0108	kati	something	nc	nc				
+cypgreek	psarin	0108	epaxen	suffered-3sg	nc	nc				
+cypgreek	psarin	0108	i	the	nc	nc				
+cypgreek	psarin	0108	kopellua	girl	nc	nc				
+cypgreek	psarin	0108	ajapa	perhaps	nc	nc				
+cypgreek	psarin	0109	#	#	##ds_neg	##ds_neg				
+cypgreek	psarin	0109	0	I_0	0.1:s	0	1	s		
+cypgreek	psarin	0109	En	not	other	other				
+cypgreek	psarin	0109	ixero	know-1sg	v:pred	v		pred		
+cypgreek	psarin	0110	#	#	##ds	##ds				
+cypgreek	psarin	0110	Xate	go (interjection)	other	other				
+cypgreek	psarin	0110	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0110	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0110	zeksete	harness-2pl	v:pred	v		pred		
+cypgreek	psarin	0110	to	the	ln	ln				
+cypgreek	psarin	0110	kapriolen	cabriolet	np:p	np		p		
+cypgreek	psarin	0110	#	#	#ds_ac	#ds_ac				
+cypgreek	psarin	0110	0	I_0	0.1:s	0	1	s		
+cypgreek	psarin	0110	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0110	pao	go-1sg	v:pred	v		pred		
+cypgreek	psarin	0110	#	#	#	#				
+cypgreek	psarin	0110	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0110	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0111	#	#	##	##				
+cypgreek	psarin	0111	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0111	Ezeksan	harnessed-3pl	v:pred	v		pred		
+cypgreek	psarin	0111	to	the	ln	ln				
+cypgreek	psarin	0111	kapriolen	cabriolet	np:p	np		p		
+cypgreek	psarin	0111	#	#	#	#				
+cypgreek	psarin	0111	epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0111	i	the	ln	ln				
+cypgreek	psarin	0111	vasilissa	queen	np.h:s	np	h	s		
+cypgreek	psarin	0111	#	#	#	#				
+cypgreek	psarin	0111	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0111	fkenni	climbs-3sg	v:pred	v		pred		
+cypgreek	psarin	0111	pano	upstairs	other:g	other		g		
+cypgreek	psarin	0111	#	#	#	#				
+cypgreek	psarin	0111	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0111	xori	sees-3sg	v:pred	v		pred		
+cypgreek	psarin	0111	tin	the	ln	ln				
+cypgreek	psarin	0111	korin	girl	np.h:p	np	h	p		
+cypgreek	psarin	0111	tis	her	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	psarin	0111	katavarin	heavily.pregnant	other	other				
+cypgreek	psarin	0112	#	#	##ds	##ds				
+cypgreek	psarin	0112	Kori	daughter	np.h:voc	np	h	voc		
+cypgreek	psarin	0112	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0112	#	#	#	#				
+cypgreek	psarin	0112	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0112	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0112	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0112	#	#	#ds	#ds				
+cypgreek	psarin	0112	j	and	other	other				
+cypgreek	psarin	0112	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0112	exumen	have-3pl	v:pred	v		pred		
+cypgreek	psarin	0112	=se	=you	=pro.2:p	=pro	2	p		
+cypgreek	psarin	0112	mes	in	adp	adp				
+cypgreek	psarin	0112	sto	to.the	ln	ln				
+cypgreek	psarin	0112	yiallokluvin	glass.cage	np:l	np		l		
+cypgreek	psarin	0112	#	#	#ds	#ds				
+cypgreek	psarin	0112	j	and	other	other				
+cypgreek	psarin	0112	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0112	evrexis	found-2sg	v:pred	v		pred		
+cypgreek	psarin	0112	agastromeni	pregnant	other	other				
+cypgreek	psarin	0113	#	#	##ds	##ds				
+cypgreek	psarin	0113	Inda	what	other:s	other		s		
+cypgreek	psarin	0113	n	is-3sg	cop	cop				
+cypgreek	psarin	0113	0	it_0	0:pred	0		pred		
+cypgreek	psarin	0113	#	#	#ds_rc	#ds_rc				
+cypgreek	psarin	0113	ponna	that.will	other.l_aux	other	l_aux			
+cypgreek	psarin	0113	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0113	po	say-1sg	v:pred	v		pred		
+cypgreek	psarin	0113	tu	to.the	ln	ln				
+cypgreek	psarin	0113	jiru	father	np.h:g	np	h	g		
+cypgreek	psarin	0113	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0113	tora	now	other	other				
+cypgreek	psarin	0114	#	#	##ds	##ds				
+cypgreek	psarin	0114	Inda	what	other:p	other		p		
+cypgreek	psarin	0114	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0114	ksero	know-1sg	v:pred	v		pred		
+cypgreek	psarin	0114	#	#	#	#				
+cypgreek	psarin	0114	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0114	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0114	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0115	#	#	##	##				
+cypgreek	psarin	0115	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0115	Strefete	goes.back-3sg	v:pred	v		pred		
+cypgreek	psarin	0115	#	#	#	#				
+cypgreek	psarin	0115	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0115	pai	goes-3sg	v:pred	v		pred		
+cypgreek	psarin	0115	#	#	#	#				
+cypgreek	psarin	0115	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0115	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0115	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0116	#	#	##ds	##ds				
+cypgreek	psarin	0116	I	the	ln	ln				
+cypgreek	psarin	0116	kori	girl	np.h:s	np	h	s		
+cypgreek	psarin	0116	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0116	en	is-3sg	cop	cop				
+cypgreek	psarin	0116	agastromeni	pregnant	other:pred	other		pred		
+cypgreek	psarin	0116	axendi	master	np.h:voc	np	h	voc		
+cypgreek	psarin	0116	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0116	vasilea	king	np.h:voc	np	h	voc		
+cypgreek	psarin	0116	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0117	#	#	##	##				
+cypgreek	psarin	0117	Agastromeni	pregnant	other	other				
+cypgreek	psarin	0117	0	she_0	0.h:other	0	h	other		
+cypgreek	psarin	0117	#	#	#rc	#rc				
+cypgreek	psarin	0117	pon	that.is-3sg	other.cop	other	cop			
+cypgreek	psarin	0117	mes	in	adp	adp				
+cypgreek	psarin	0117	sto	to.the	ln	ln				
+cypgreek	psarin	0117	yallokluvin	glass.cage	np:pred_l	np		pred_l		
+cypgreek	psarin	0118	#	#	##ds	##ds				
+cypgreek	psarin	0118	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0118	En	is-3sg	cop	cop				
+cypgreek	psarin	0118	agastromeni	pregnant	other:pred	other		pred		
+cypgreek	psarin	0119	#	#	##ds	##ds				
+cypgreek	psarin	0119	Xate	los	other	other				
+cypgreek	psarin	0119	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0119	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0119	fonakso	call-1sg	v:pred	v		pred		
+cypgreek	psarin	0119	tis	the	ln	ln				
+cypgreek	psarin	0119	Dhodhekadhas	dozen	np.h:p	np	h	p		
+cypgreek	psarin	0119	#	#	#ds	#ds				
+cypgreek	psarin	0119	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0119	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0119	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0119	pojefaliso	behead-1sg	v:pred	v		pred		
+cypgreek	psarin	0120	#	#	##	##				
+cypgreek	psarin	0120	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0120	Efonaksan	called-3pl	v:pred	v		pred		
+cypgreek	psarin	0120	tis	the	ln	ln				
+cypgreek	psarin	0120	Dhodhekadhas	dozen	np.h:p	np	h	p		
+cypgreek	psarin	0120	#	#	#ac	#ac				
+cypgreek	psarin	0120	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0120	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0120	rti	comes-3sg	v:pred	v		pred		
+cypgreek	psarin	0120	#	#	#ac	#ac				
+cypgreek	psarin	0120	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0120	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0120	pojefalisi	behead-3sg	v:pred	v		pred		
+cypgreek	psarin	0120	o	the	ln	ln				
+cypgreek	psarin	0120	vasileas	king	np.h:a	np	h	a		
+cypgreek	psarin	0120	tin	the	ln	ln				
+cypgreek	psarin	0120	korin	girl	np.h:dt_p	np	h	dt_p		
+cypgreek	psarin	0120	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	psarin	0121	#	#	##	##				
+cypgreek	psarin	0121	E	Ah	other	other				
+cypgreek	psarin	0121	i	the	ln	ln				
+cypgreek	psarin	0121	Dhodhekadha	dozen	np.h:a	np	h	a		
+cypgreek	psarin	0121	eskeftin	thought-3sg	v:pred	v		pred		
+cypgreek	psarin	0121	0	it_0	0:p	0		p		
+cypgreek	psarin	0122	#	#	##	##				
+cypgreek	psarin	0122	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0122	Lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0122	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0123	#	#	##ds	##ds				
+cypgreek	psarin	0123	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0123	Na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0123	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0123	pojefalisumen	behead-1pl	v:pred	v		pred		
+cypgreek	psarin	0124	#	#	##ds_ac	##ds_ac				
+cypgreek	psarin	0124	An	if	other	other				
+cypgreek	psarin	0124	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0124	en	is-3sg	cop	cop				
+cypgreek	psarin	0124	agastromeni	pregnant	other:pred	other		pred		
+cypgreek	psarin	0124	#	#	#ds_ac	#ds_ac				
+cypgreek	psarin	0124	j	and	other	other				
+cypgreek	psarin	0124	en	are-3pl	cop	cop				
+cypgreek	psarin	0124	thk'o	two	ln	ln				
+cypgreek	psarin	0124	ta	the	ln	ln				
+cypgreek	psarin	0124	mora	babies	np.h:pred	np	h	pred		
+cypgreek	psarin	0124	#	#	#	#				
+cypgreek	psarin	0124	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0124	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0124	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0124	#	#	#ds	#ds				
+cypgreek	psarin	0124	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0124	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0124	kataripsumen	waste-3pl	v:pred	v		pred		
+cypgreek	psarin	0124	0	it_0	0.h:p	0	h	p		
+cypgreek	psarin	0124	tris	three	ln	ln				
+cypgreek	psarin	0124	fores	times	np:other	np		other		
+cypgreek	psarin	0125	#	#	##ds	##ds				
+cypgreek	psarin	0125	0	it_0	0.h:s	0	h	s		
+cypgreek	psarin	0125	Ine	is-3sg	cop	cop				
+cypgreek	psarin	0125	pk'o	more	other:pred	other		pred		
+cypgreek	psarin	0125	kallittera	better	other:pred	other		pred		
+cypgreek	psarin	0125	#	#	#ds_ac	#ds_ac				
+cypgreek	psarin	0125	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0125	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0125	kamis	make-2sg	v:pred	v		pred		
+cypgreek	psarin	0125	mian	a_f	ln	ln				
+cypgreek	psarin	0125	kasonan	box	np:p	np		p		
+cypgreek	psarin	0125	san	like	other	other				
+cypgreek	psarin	0125	to	the	ln	ln				
+cypgreek	psarin	0125	spitin	house	np:other	np		other		
+cypgreek	psarin	0125	#	#	#	#				
+cypgreek	psarin	0125	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0125	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0125	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0125	#	#	#ds	#ds				
+cypgreek	psarin	0125	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0125	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0125	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0125	karfosis	nail-2sg	v:pred	v		pred		
+cypgreek	psarin	0125	kala	good	other	other				
+cypgreek	psarin	0125	#	#	#ds	#ds				
+cypgreek	psarin	0125	je	and	other	other				
+cypgreek	psarin	0125	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0125	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0125	=tis	=to.her	=pro.h:obl	=pro	h	obl		
+cypgreek	psarin	0125	valis	put-2sg	v:pred	v		pred		
+cypgreek	psarin	0125	mesa	inside	other:g	other		g		
+cypgreek	psarin	0125	trofi	food	np:p	np		p		
+cypgreek	psarin	0125	#	#	#ds	#ds				
+cypgreek	psarin	0125	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0125	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0125	=tis	=to.her	=pro.h:obl	=pro	h	obl		
+cypgreek	psarin	0125	valis	put-2sg	v:pred	v		pred		
+cypgreek	psarin	0125	ruxa	clothes	np:p	np		p		
+cypgreek	psarin	0125	#	#	#rc	#rc				
+cypgreek	psarin	0125	ponna	that.will	other	other				
+cypgreek	psarin	0125	yennisi	give.birth-3sg	v:pred	v		pred		
+cypgreek	psarin	0125	ta	the	ln	ln				
+cypgreek	psarin	0125	mora	babies	np.h:p	np	h	p		
+cypgreek	psarin	0125	#	#	#ds	#ds				
+cypgreek	psarin	0125	je	and	other	other				
+cypgreek	psarin	0125	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0125	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0125	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0125	sirumen	throw-1pl	v:pred	v		pred		
+cypgreek	psarin	0125	mes	in	adp	adp				
+cypgreek	psarin	0125	sto	to.the	ln	ln				
+cypgreek	psarin	0125	parayalin	seaside	np:g	np		g		
+cypgreek	psarin	0125	#	#	#	#				
+cypgreek	psarin	0125	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0125	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0125	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0125	#	#	#ds	#ds				
+cypgreek	psarin	0125	j	and	other	other				
+cypgreek	psarin	0125	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0125	ais	let-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0125	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0125	#	#	#ds_ac	#ds_ac				
+cypgreek	psarin	0125	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0125	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0125	katakofkete	ruin-3sg	psv_v:pred	psv_v		pred		
+cypgreek	psarin	0125	mes	in	adp	adp				
+cypgreek	psarin	0125	sto	to.the	ln	ln				
+cypgreek	psarin	0125	neron	water	np:l	np		l		
+cypgreek	psarin	0125	#	#	#ds_ac	#ds_ac				
+cypgreek	psarin	0125	para	instead	other	other				
+cypgreek	psarin	0125	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0125	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0125	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0125	pojefalisumen	behead-1pl	v:pred	v		pred		
+cypgreek	psarin	0125	#	#	#ds	#ds				
+cypgreek	psarin	0125	j	and	other	other				
+cypgreek	psarin	0125	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0125	en	is-3sg	cop	cop				
+cypgreek	psarin	0125	kriman	pity	np:pred	np		pred		
+cypgreek	psarin	0126	#	#	##	##				
+cypgreek	psarin	0126	0	it_0	0.h:s	0	h	s		
+cypgreek	psarin	0126	Etsi	so	other	other				
+cypgreek	psarin	0126	itan	was-3sg	cop	cop				
+cypgreek	psarin	0127	#	#	##	##				
+cypgreek	psarin	0127	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0127	Evalen	put-3sg	v:pred	v		pred		
+cypgreek	psarin	0127	pelekanus	carpenters	np.h:p	np	h	p		
+cypgreek	psarin	0127	#	#	#	#				
+cypgreek	psarin	0127	mani	quickly	other	other				
+cypgreek	psarin	0127	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0127	ekaman	made-3pl	v:pred	v		pred		
+cypgreek	psarin	0127	=tu	=to.him	=pro.h:obl	=pro	h	obl		
+cypgreek	psarin	0127	enan	a_n	ln	ln				
+cypgreek	psarin	0127	spitin	house	np:p	np		p		
+cypgreek	psarin	0127	#	#	#	#				
+cypgreek	psarin	0127	j	and	other	other				
+cypgreek	psarin	0127	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0127	evalan	put-3pl	v:pred	v		pred		
+cypgreek	psarin	0127	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0127	mesa	inside	other:l	other		l		
+cypgreek	psarin	0127	#	#	#	#				
+cypgreek	psarin	0127	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0127	evalan	put-3pl	v:pred	v		pred		
+cypgreek	psarin	0127	=tis	=to.her	=pro.h:obl	=pro	h	obl		
+cypgreek	psarin	0127	psumnia	bread	np:p	np		p		
+cypgreek	psarin	0127	nera	water	rn_np	rn_np				
+cypgreek	psarin	0127	faya	food	rn_np	rn_np				
+cypgreek	psarin	0127	ruxa	clothes	rn_np	rn_np				
+cypgreek	psarin	0127	#	#	#	#				
+cypgreek	psarin	0127	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0127	esiran	threw-3pl	v:pred	v		pred		
+cypgreek	psarin	0127	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0127	mes	in	adp	adp				
+cypgreek	psarin	0127	sto	to.the	ln	ln				
+cypgreek	psarin	0127	parayalin	seaside	np:g	np		g		
+cypgreek	psarin	0128	#	#	##	##				
+cypgreek	psarin	0128	To	the	ln	ln				
+cypgreek	psarin	0128	kopellin	young.man	np.h:s	np	h	s		
+cypgreek	psarin	0128	tapison	behind	adp	adp				
+cypgreek	psarin	0128	tis	her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0128	#	#	#	#				
+cypgreek	psarin	0128	jinos	that.one_m	dem_pro.h:other	dem_pro	h	other		
+cypgreek	psarin	0128	#	#	#rc	#rc				
+cypgreek	psarin	0128	pu	that	other	other				
+cypgreek	psarin	0128	shen	had-3sg	v:pred	v		pred		
+cypgreek	psarin	0128	to	the	ln	ln				
+cypgreek	psarin	0128	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0129	#	#	##	##				
+cypgreek	psarin	0129	0	she_0	0.h:s	0	h	s		
+cypgreek	psarin	0129	Pai	goes-3sg	v:pred	v		pred		
+cypgreek	psarin	0129	#	#	#	#				
+cypgreek	psarin	0129	perni	takes-3sg	v:pred	v		pred		
+cypgreek	psarin	0129	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0129	to	the	ln	ln				
+cypgreek	psarin	0129	jimman	wave	np:a	np		a		
+cypgreek	psarin	0129	#	#	#	#				
+cypgreek	psarin	0129	chush	chush (sound)	other	other				
+cypgreek	psarin	0129	#	#	#	#				
+cypgreek	psarin	0129	0	it_0	0:a	0		a		
+cypgreek	psarin	0129	pale	again	other	other				
+cypgreek	psarin	0129	ferni	brings-3sg	v:pred	v		pred		
+cypgreek	psarin	0129	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0129	piso	back	other	other				
+cypgreek	psarin	0129	#	#	#	#				
+cypgreek	psarin	0129	pale	again	other	other				
+cypgreek	psarin	0129	perni	takes-3sg	v:pred	v		pred		
+cypgreek	psarin	0129	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0129	to	the	ln	ln				
+cypgreek	psarin	0129	jimman	wave	np:a	np		a		
+cypgreek	psarin	0129	#	#	#	#				
+cypgreek	psarin	0129	0	it_0	0:a	0		a		
+cypgreek	psarin	0129	pale	again	other	other				
+cypgreek	psarin	0129	ferni	brings-3sg	v:pred	v		pred		
+cypgreek	psarin	0129	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0129	piso	back	other	other				
+cypgreek	psarin	0129	#	#	#	#				
+cypgreek	psarin	0129	i	the	ln	ln				
+cypgreek	psarin	0129	kopellua	girl	np.h:s	np	h	s		
+cypgreek	psarin	0129	eyennisen	gave.birth-3sg	v:pred	v		pred		
+cypgreek	psarin	0129	#	#	#	#				
+cypgreek	psarin	0129	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0129	ekamen	made-3sg	v:pred	v		pred		
+cypgreek	psarin	0129	enan	a_m	ln	ln				
+cypgreek	psarin	0129	yon	son	np.h:p	np	h	p		
+cypgreek	psarin	0130	#	#	##	##				
+cypgreek	psarin	0130	Xa	Ha	other	other				
+cypgreek	psarin	0130	poji	there	other	other				
+cypgreek	psarin	0130	xa	ha	other	other				
+cypgreek	psarin	0130	poa	here	other	other				
+cypgreek	psarin	0130	#	#	#	#				
+cypgreek	psarin	0130	tin	the	ln	ln				
+cypgreek	psarin	0130	kasonan	box	np:obl	np		obl		
+cypgreek	psarin	0130	efkalen	took.out-3sg	v:pred	v		pred		
+cypgreek	psarin	0130	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0130	ekso	out	adp	adp				
+cypgreek	psarin	0130	o	the	ln	ln				
+cypgreek	psarin	0130	kopellos	young.man	np.h:a	np	h	a		
+cypgreek	psarin	0130	tis	her	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	psarin	0130	#	#	#	#				
+cypgreek	psarin	0130	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0130	chakkizi	cracks-3sg	v:pred	v		pred		
+cypgreek	psarin	0130	tin	the	ln	ln				
+cypgreek	psarin	0130	kasonan	box	np:p	np		p		
+cypgreek	psarin	0130	#	#	#	#				
+cypgreek	psarin	0130	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0130	vkalli	takes.out-3sg	v:pred	v		pred		
+cypgreek	psarin	0130	=tin	=her	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0130	#	#	#	#				
+cypgreek	psarin	0130	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0130	estalijen	settled-3sg	v:pred	v		pred		
+cypgreek	psarin	0130	jame	there	other:l	other		l		
+cypgreek	psarin	0130	#	#	#	#				
+cypgreek	psarin	0130	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0130	ekamen	made-3sg	v:pred	v		pred		
+cypgreek	psarin	0130	enan	a_n	ln	ln				
+cypgreek	psarin	0130	konajin	villa	np:p	np		p		
+cypgreek	psarin	0130	triperaton	huge	rn	rn				
+cypgreek	psarin	0131	#	#	##ac	##ac				
+cypgreek	psarin	0131	Antis	instead	other	other				
+cypgreek	psarin	0131	pu	of	other	other				
+cypgreek	psarin	0131	0	it_0	0.h:s	0	h	s		
+cypgreek	psarin	0131	itun	was-3sg	cop	cop				
+cypgreek	psarin	0131	ipsos	plaster	np:pred	np		pred		
+cypgreek	psarin	0131	#	#	#	#				
+cypgreek	psarin	0131	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0131	evalasin	put-3pl	v:pred	v		pred		
+cypgreek	psarin	0131	lires	pounds	np:p	np		p		
+cypgreek	psarin	0131	#	#	#	#				
+cypgreek	psarin	0131	j	and	other	other				
+cypgreek	psarin	0131	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0131	ekaman	made-3pl	v:pred	v		pred		
+cypgreek	psarin	0131	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0131	pokso	outside	other:l	other		l		
+cypgreek	psarin	0131	posso	inside	other:l	other		l		
+cypgreek	psarin	0131	lires	pounds	np:obl	np		obl		
+cypgreek	psarin	0132	#	#	##	##				
+cypgreek	psarin	0132	I	the	ln	ln				
+cypgreek	psarin	0132	strata	road	np:s	np		s		
+cypgreek	psarin	0132	#	#	#rc	#rc				
+cypgreek	psarin	0132	pu	that	other	other				
+cypgreek	psarin	0132	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0132	parpaten	walked-3sg	v:pred	v		pred		
+cypgreek	psarin	0132	%	%	%	%				
+cypgreek	psarin	0132	itun	was-3sg	cop	cop				
+cypgreek	psarin	0132	plakomeni	plastered	other:pred	other		pred		
+cypgreek	psarin	0132	lires	pounds	np:obl	np		obl		
+cypgreek	psarin	0133	#	#	##	##				
+cypgreek	psarin	0133	E	Ah	other	other				
+cypgreek	psarin	0133	akusen	heard-3sg	v:pred	v		pred		
+cypgreek	psarin	0133	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0133	o	the	ln	ln				
+cypgreek	psarin	0133	veziris	vizier	np.h:a	np	h	a		
+cypgreek	psarin	0134	#	#	##ds	##ds				
+cypgreek	psarin	0134	Ston	to.the	ln	ln				
+cypgreek	psarin	0134	tathe	such.and.such	ln	ln				
+cypgreek	psarin	0134	topon	place	np:l	np		l		
+cypgreek	psarin	0134	ishen	had-3sg	predex	predex				
+cypgreek	psarin	0134	enan	a_n	ln	ln				
+cypgreek	psarin	0134	konajin	villa	np:s	np		s		
+cypgreek	psarin	0134	#	#	#ds	#ds				
+cypgreek	psarin	0134	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0134	n	mod_that	nonindic	nonindic				
+cypgreek	psarin	0134	anefanis	appear-2sg	v:pred	v		pred		
+cypgreek	psarin	0134	#	#	#ds	#ds				
+cypgreek	psarin	0134	je	and	other	other				
+cypgreek	psarin	0134	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0134	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0134	pais	go-2sg	v:pred	v		pred		
+cypgreek	psarin	0134	#	#	#ds	#ds				
+cypgreek	psarin	0134	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0134	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0134	0	it_0	0:p	0		p		
+cypgreek	psarin	0134	dhis	see-2sg	v:pred	v		pred		
+cypgreek	psarin	0134	#	#	#ds	#ds				
+cypgreek	psarin	0134	xambonni	pales-3sg	v:pred	v		pred		
+cypgreek	psarin	0134	to	the	ln	ln				
+cypgreek	psarin	0134	fos	light	np:s	np		s		
+cypgreek	psarin	0134	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0135	#	#	##ds	##ds				
+cypgreek	psarin	0135	Posso	inside	other:l	other		l		
+cypgreek	psarin	0135	pokso	outside	other:l	other		l		
+cypgreek	psarin	0135	0	it_0	0:s	0		s		
+cypgreek	psarin	0135	en	is-3sg	cop	cop				
+cypgreek	psarin	0135	ullon	all	ln	ln				
+cypgreek	psarin	0135	lires	pounds	np:obl	np		obl		
+cypgreek	psarin	0135	xtizmenon	built	other:pred	other		pred		
+cypgreek	psarin	0136	#	#	##	##				
+cypgreek	psarin	0136	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0136	Epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0136	is	to	adp	adp				
+cypgreek	psarin	0136	ton	the	ln	ln				
+cypgreek	psarin	0136	vasilean	king	np.h:g	np	h	g		
+cypgreek	psarin	0137	#	#	##	##				
+cypgreek	psarin	0137	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0137	Lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0137	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0138	#	#	##ds	##ds				
+cypgreek	psarin	0138	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0138	Xelo	want-1sg	v:pred	v		pred		
+cypgreek	psarin	0138	#	#	#cc:p	#cc		p		
+cypgreek	psarin	0138	0	I_0	0.1:s_ds	0	1	s_ds		
+cypgreek	psarin	0138	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0138	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	psarin	0138	po	say-1sg	v:pred	v		pred		
+cypgreek	psarin	0138	katiti	something	other:p	other		p		
+cypgreek	psarin	0138	afendi	master	np.h:voc	np	h	voc		
+cypgreek	psarin	0138	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0138	vasilea	king	np.h:voc	np	h	voc		
+cypgreek	psarin	0138	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0138	#	#	#ds_neg	#ds_neg				
+cypgreek	psarin	0138	ma	but	other	other				
+cypgreek	psarin	0138	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0138	n	not	other	other				
+cypgreek	psarin	0138	iksero	know-1sg	v:pred	v		pred		
+cypgreek	psarin	0138	0	it_0	0:p	0		p		
+cypgreek	psarin	0138	je	and	other	other				
+cypgreek	psarin	0138	siura	sure	other	other				
+cypgreek	psarin	0139	#	#	##ds	##ds				
+cypgreek	psarin	0139	Inda	what	other:s	other		s		
+cypgreek	psarin	0139	m	is-3sg	cop	cop				
+cypgreek	psarin	0139	0	it_0	0:p	0		p		
+cypgreek	psarin	0139	#	#	#ds_rc	#ds_rc				
+cypgreek	psarin	0139	boni	that.be-3sg	other.cop	other	cop			
+cypgreek	psarin	0140	#	#	##ds	##ds				
+cypgreek	psarin	0140	Is	to	adp	adp				
+cypgreek	psarin	0140	ton	the	ln	ln				
+cypgreek	psarin	0140	tadhe	such.and.such	ln	ln				
+cypgreek	psarin	0140	topon	place	np:l	np		l		
+cypgreek	psarin	0140	konda	near	other	other				
+cypgreek	psarin	0140	sto	to.the	ln	ln				
+cypgreek	psarin	0140	parayalin	seaside	np:l	np		l		
+cypgreek	psarin	0140	extistin	built-3sg	v:pred	v		pred		
+cypgreek	psarin	0140	enan	a_n	ln	ln				
+cypgreek	psarin	0140	palatin	palace	np:s	np		s		
+cypgreek	psarin	0140	#	#	#ds	#ds				
+cypgreek	psarin	0140	0	it_0	0.h:s	0	h	s		
+cypgreek	psarin	0140	posso	inside	other:l	other		l		
+cypgreek	psarin	0140	pokso	outside	other:l	other		l		
+cypgreek	psarin	0140	en	is-3sg	cop	cop				
+cypgreek	psarin	0140	lires	pounds	np:pred	np		pred		
+cypgreek	psarin	0140	#	#	#ds	#ds				
+cypgreek	psarin	0140	0	they_0	0.h:s	0	h	s		
+cypgreek	psarin	0140	ipasin	said-3pl	v:pred	v		pred		
+cypgreek	psarin	0140	#	#	#ds_neg	#ds_neg				
+cypgreek	psarin	0140	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0140	enj	not	other	other				
+cypgreek	psarin	0140	idha	saw-1sg	v:pred	v		pred		
+cypgreek	psarin	0140	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0141	#	#	##ds_ac	##ds_ac				
+cypgreek	psarin	0141	Je	and	other	other				
+cypgreek	psarin	0141	an	if	other	other				
+cypgreek	psarin	0141	0	it_0	0:s	0		s		
+cypgreek	psarin	0141	ine	is-3sg	cop	cop				
+cypgreek	psarin	0141	dhinaton	possible	other:pred	other		pred		
+cypgreek	psarin	0141	#	#	#ds	#ds				
+cypgreek	psarin	0141	0	I_0	0.1:s	0	1	s		
+cypgreek	psarin	0141	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0141	pao	go-1sg	v:pred	v		pred		
+cypgreek	psarin	0141	#	#	#ds	#ds				
+cypgreek	psarin	0141	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0141	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0141	0	it_0	0:p	0		p		
+cypgreek	psarin	0141	paratiriso	look-1sg	v:pred	v		pred		
+cypgreek	psarin	0141	#	#	#ds	#ds				
+cypgreek	psarin	0141	je	and	other	other				
+cypgreek	psarin	0141	0	I_0	0.1:s	0	1	s		
+cypgreek	psarin	0141	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0141	rto	come-1sg	v:pred	v		pred		
+cypgreek	psarin	0141	#	#	#ds	#ds				
+cypgreek	psarin	0141	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0141	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0141	=se	=you	=pro.2:p	=pro	2	p		
+cypgreek	psarin	0141	pk'ao	get-1sg	v:pred	v		pred		
+cypgreek	psarin	0141	#	#	#ds	#ds				
+cypgreek	psarin	0141	je	and	other	other				
+cypgreek	psarin	0141	0	we_0	0.1:s	0	1	s		
+cypgreek	psarin	0141	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0141	pamen	v:pred	v:pred	v		pred		
+cypgreek	psarin	0141	avrion	tomorrow	other	other				
+cypgreek	psarin	0142	#	#	##ds	##ds				
+cypgreek	psarin	0142	Esu	you	pro.2:s	pro	2	s		
+cypgreek	psarin	0142	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0142	pais	go-2sg	v:pred	v		pred		
+cypgreek	psarin	0142	#	#	#	#				
+cypgreek	psarin	0142	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0142	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0142	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0143	#	#	##	##				
+cypgreek	psarin	0143	Pai	goes-3sg	v:pred	v		pred		
+cypgreek	psarin	0143	o	the	ln	ln				
+cypgreek	psarin	0143	veziris	vizier	np.h:s	np	h	s		
+cypgreek	psarin	0143	#	#	#	#				
+cypgreek	psarin	0143	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0143	paratira	looks-3sg	v:pred	v		pred		
+cypgreek	psarin	0143	0	it_0	0:p	0		p		
+cypgreek	psarin	0143	#	#	#	#				
+cypgreek	psarin	0143	inda	what	other:p	other		p		
+cypgreek	psarin	0143	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0143	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0143	i	see-3sg	v:pred	v		pred		
+cypgreek	psarin	0144	#	#	##	##				
+cypgreek	psarin	0144	Enan	a_n	ln	ln				
+cypgreek	psarin	0144	konajin	villa	np:s	np		s		
+cypgreek	psarin	0144	posso	inside	other:l	other		l		
+cypgreek	psarin	0144	pokso	outside	other:l	other		l		
+cypgreek	psarin	0144	ologhruson	all.gold	other:pred	other		pred		
+cypgreek	psarin	0145	#	#	##	##				
+cypgreek	psarin	0145	I	the	ln	ln				
+cypgreek	psarin	0145	kopellua	girl	np.h:a	np	h	a		
+cypgreek	psarin	0145	anaghnorisen	recognised-3sg	v:pred	v		pred		
+cypgreek	psarin	0145	ton	the	ln	ln				
+cypgreek	psarin	0145	vezirin	vizier	np.h:p	np	h	p		
+cypgreek	psarin	0145	#	#	#neg	#neg				
+cypgreek	psarin	0145	amma	but	other	other				
+cypgreek	psarin	0145	o	the	ln	ln				
+cypgreek	psarin	0145	veziris	vizier	np.h:a	np	h	a		
+cypgreek	psarin	0145	en	not	other	other				
+cypgreek	psarin	0145	anaghnorisen	recognised-3sg	v:pred	v		pred		
+cypgreek	psarin	0145	tin	the	ln	ln				
+cypgreek	psarin	0145	kopelluan	girl	np.h:p	np	h	p		
+cypgreek	psarin	0146	#	#	##	##				
+cypgreek	psarin	0146	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0146	Embiken	entered-3sg	v:pred	v		pred		
+cypgreek	psarin	0146	esso	to.home	np:g	np		g		
+cypgreek	psarin	0146	#	#	#	#				
+cypgreek	psarin	0146	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0146	ejerasan	treated-3pl	v:pred	v		pred		
+cypgreek	psarin	0146	=tu	=to.him	=pro.h:obl	=pro	h	obl		
+cypgreek	psarin	0146	0	it_0	0:p	0		p		
+cypgreek	psarin	0146	#	#	#	#				
+cypgreek	psarin	0146	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0146	etrattaran	treated-3pl	v:pred	v		pred		
+cypgreek	psarin	0146	=tu	=to.him	=pro.h:obl	=pro	h	obl		
+cypgreek	psarin	0146	0	it_0	0:p	0		p		
+cypgreek	psarin	0147	#	#	##ds	##ds				
+cypgreek	psarin	0147	E	Ah	other	other				
+cypgreek	psarin	0147	inda	what	ln	ln				
+cypgreek	psarin	0147	xaparka	news	np:s	np		s		
+cypgreek	psarin	0147	pu	from	adp	adp				
+cypgreek	psarin	0147	to	the	ln	ln				
+cypgreek	psarin	0147	xorkon	village	np:obl	np		obl		
+cypgreek	psarin	0147	sas	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0148	#	#	##ds	##ds				
+cypgreek	psarin	0148	Kalan	Good	other	other				
+cypgreek	psarin	0149	#	#	##ds	##ds				
+cypgreek	psarin	0149	0	they_0	0.h:s	0	h	s		
+cypgreek	psarin	0149	Akusan	heard-3pl	v:pred	v		pred		
+cypgreek	psarin	0149	tundo	this.the	ln	ln				
+cypgreek	psarin	0149	palatin	palace	np:obl	np		obl		
+cypgreek	psarin	0149	#	#	#ds_rc	#ds_rc				
+cypgreek	psarin	0149	pu	that	other	other				
+cypgreek	psarin	0149	ghiniken	became-3sg	cop	cop				
+cypgreek	psarin	0149	dhaame	here	other:pred_l	other		pred_l		
+cypgreek	psarin	0149	#	#	#ds	#ds				
+cypgreek	psarin	0149	je	and	other	other				
+cypgreek	psarin	0149	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0149	ipun	said-3sg	v:pred	v		pred		
+cypgreek	psarin	0149	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0149	tu	to.the	ln	ln				
+cypgreek	psarin	0149	vasilea	king	np.h:g	np	h	g		
+cypgreek	psarin	0149	#	#	#ds	#ds				
+cypgreek	psarin	0149	je	and	other	other				
+cypgreek	psarin	0149	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0149	epepsen	sent-3sg	v:pred	v		pred		
+cypgreek	psarin	0149	=me	=me	=pro.1:p	=pro	1	p		
+cypgreek	psarin	0149	#	#	#ds_ac	#ds_ac				
+cypgreek	psarin	0149	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0149	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0149	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0149	dho	see-1sg	v:pred	v		pred		
+cypgreek	psarin	0149	#	#	#ds_ac	#ds_ac				
+cypgreek	psarin	0149	j	and	other	other				
+cypgreek	psarin	0149	an	if	other	other				
+cypgreek	psarin	0149	0	it_0	0:s	0		s		
+cypgreek	psarin	0149	nen	is-3sg	cop	cop				
+cypgreek	psarin	0149	dhinaton	possible	other:pred	other		pred		
+cypgreek	psarin	0149	#	#	#ds	#ds				
+cypgreek	psarin	0149	avrion	tomorrow	other	other				
+cypgreek	psarin	0149	0	we_0	0.1:s	0	1	s		
+cypgreek	psarin	0149	enna	will	l_aux	l_aux				
+cypgreek	psarin	0149	rtumen	come-1pl	v:pred	v		pred		
+cypgreek	psarin	0149	pale	again	other	other				
+cypgreek	psarin	0149	me	with	adp	adp				
+cypgreek	psarin	0149	ton	the	ln	ln				
+cypgreek	psarin	0149	vasilean	king	np.h:obl	np	h	obl		
+cypgreek	psarin	0149	je	and	other	other				
+cypgreek	psarin	0149	me	with	adp	adp				
+cypgreek	psarin	0149	tin	the	ln	ln				
+cypgreek	psarin	0149	vasilissan	queen	np.h:obl	np	h	obl		
+cypgreek	psarin	0149	#	#	#ds_ac	#ds_ac				
+cypgreek	psarin	0149	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0149	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0149	dhi	sees-3sg	v:pred	v		pred		
+cypgreek	psarin	0149	to	the	ln	ln				
+cypgreek	psarin	0149	konajin	villa	np:p	np		p		
+cypgreek	psarin	0150	#	#	##ds	##ds				
+cypgreek	psarin	0150	As	let	l_aux	l_aux				
+cypgreek	psarin	0150	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0150	kalosorisi	be.welcomed-3sg	v:pred	v		pred		
+cypgreek	psarin	0150	#	#	#	#				
+cypgreek	psarin	0150	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0150	ipen	said-3sg	v:pred	v		pred		
+cypgreek	psarin	0151	#	#	##ds_ac	##ds_ac				
+cypgreek	psarin	0151	Aman	when	other	other				
+cypgreek	psarin	0151	je	and	other	other				
+cypgreek	psarin	0151	ishosen	set.off-3sg	v:pred	v		pred		
+cypgreek	psarin	0151	o	the	ln	ln				
+cypgreek	psarin	0151	veziris	vizier	np.h:s	np	h	s		
+cypgreek	psarin	0151	ji	there	other:l	other		l		
+cypgreek	psarin	0151	#	#	#ds	#ds				
+cypgreek	psarin	0151	xate	los	other	other				
+cypgreek	psarin	0151	ghliora	quickly	other	other				
+cypgreek	psarin	0151	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0151	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0151	pa	go-2sg	v:pred	v		pred		
+cypgreek	psarin	0151	#	#	#ds	#ds				
+cypgreek	psarin	0151	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0151	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0151	feris	bring-2sg	v:pred	v		pred		
+cypgreek	psarin	0151	faita	food	np:p	np		p		
+cypgreek	psarin	0151	#	#	#	#				
+cypgreek	psarin	0151	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0151	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0151	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0151	#	#	#ds	#ds				
+cypgreek	psarin	0151	0	we_0	0.1:a	0	1	a		
+cypgreek	psarin	0151	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0151	kamumen	make-1pl	v:pred	v		pred		
+cypgreek	psarin	0151	tu	the	ln	ln				
+cypgreek	psarin	0151	patera	father	np.h:obl	np	h	obl		
+cypgreek	psarin	0151	mas	our	ln	ln				
+cypgreek	psarin	0151	zhafettin	party	np:p	np		p		
+cypgreek	psarin	0152	#	#	##	##				
+cypgreek	psarin	0152	Epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0152	to	the	ln	ln				
+cypgreek	psarin	0152	kopellin	young.man	np.h:s	np	h	s		
+cypgreek	psarin	0152	#	#	#	#				
+cypgreek	psarin	0152	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0152	eferen	brought-3sg	v:pred	v		pred		
+cypgreek	psarin	0152	po	from	adp	adp				
+cypgreek	psarin	0152	ulla	all	ln	ln				
+cypgreek	psarin	0152	ta	the	ln	ln				
+cypgreek	psarin	0152	pramata	things	np:p	np		p		
+cypgreek	psarin	0153	#	#	##	##				
+cypgreek	psarin	0153	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0153	Emairepsan	cooked-3pl	v:pred	v		pred		
+cypgreek	psarin	0153	0	it_0	0:p	0		p		
+cypgreek	psarin	0153	#	#	#	#				
+cypgreek	psarin	0153	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0153	esasan	fixed-3pl	v:pred	v		pred		
+cypgreek	psarin	0153	=ta	=them	=pro:p	=pro		p		
+cypgreek	psarin	0153	#	#	#	#				
+cypgreek	psarin	0153	nasu	voila.you	other	other				
+cypgreek	psarin	0153	je	and	other	other				
+cypgreek	psarin	0153	ton	the	ln	ln				
+cypgreek	psarin	0153	vasilean	king	np.h:other	np	h	other		
+cypgreek	psarin	0153	me	with	adp	adp				
+cypgreek	psarin	0153	tin	the	ln	ln				
+cypgreek	psarin	0153	vasilissan	queen	np.h:obl	np	h	obl		
+cypgreek	psarin	0153	je	and	other	other				
+cypgreek	psarin	0153	me	with	adp	adp				
+cypgreek	psarin	0153	ton	the	ln	ln				
+cypgreek	psarin	0153	vezirin	vizier	np.h:obl	np	h	obl		
+cypgreek	psarin	0153	je	and	other	other				
+cypgreek	psarin	0153	me	with	adp	adp				
+cypgreek	psarin	0153	tin	the	ln	ln				
+cypgreek	psarin	0153	vezirenan	wife.of.vizier	np.h:obl	np	h	obl		
+cypgreek	psarin	0153	#	#	#	#				
+cypgreek	psarin	0153	to	the	ln	ln				
+cypgreek	psarin	0153	proeman	morning	np:other	np		other		
+cypgreek	psarin	0153	0	they_0	0.h:s	0	h	s		
+cypgreek	psarin	0153	ekatevikan	came-3pl	v:pred	v		pred		
+cypgreek	psarin	0153	is	to	adp	adp				
+cypgreek	psarin	0153	to	the	ln	ln				
+cypgreek	psarin	0153	palatin	palace	np:g	np		g		
+cypgreek	psarin	0153	jinon	that	rn	rn				
+cypgreek	psarin	0154	#	#	##	##				
+cypgreek	psarin	0154	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0154	Evalen	put-3sg	v:pred	v		pred		
+cypgreek	psarin	0154	=tus	=them	=pro.h:obl	=pro	h	obl		
+cypgreek	psarin	0154	ta	the	ln	ln				
+cypgreek	psarin	0154	trapezha	tables	np:p	np		p		
+cypgreek	psarin	0154	#	#	#ac	#ac				
+cypgreek	psarin	0154	0	they_0	0.h:s	0	h	s		
+cypgreek	psarin	0154	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0154	fasin	eat-3pl	v:pred	v		pred		
+cypgreek	psarin	0154	#	#	#	#				
+cypgreek	psarin	0154	andis	instead	other	other				
+cypgreek	psarin	0154	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0154	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0154	=tus	=them	=pro.h:obl	=pro	h	obl		
+cypgreek	psarin	0154	vali	put-3sg	v:pred	v		pred		
+cypgreek	psarin	0154	tin	the	ln	ln				
+cypgreek	psarin	0154	kandilan	glass	np:p	np		p		
+cypgreek	psarin	0154	#	#	#	#				
+cypgreek	psarin	0154	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0154	evalen	put-3sg	v:pred	v		pred		
+cypgreek	psarin	0154	to	the	ln	ln				
+cypgreek	psarin	0154	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0154	#	#	#ac	#ac				
+cypgreek	psarin	0154	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0154	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0154	pinnun	drink-3pl	v:pred	v		pred		
+cypgreek	psarin	0154	krasin	wine	np:p	np		p		
+cypgreek	psarin	0154	#	#	#ac	#ac				
+cypgreek	psarin	0154	0	they_0	0.h:a	0	h	a		
+cypgreek	psarin	0154	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0154	pinnun	drink-3pl	v:pred	v		pred		
+cypgreek	psarin	0154	to	the	ln	ln				
+cypgreek	psarin	0154	pk'otin	drink	np:p	np		p		
+cypgreek	psarin	0154	tus	their	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	psarin	0155	#	#	##ds	##ds				
+cypgreek	psarin	0155	Yiati	why	other	other				
+cypgreek	psarin	0155	kori	girl	np.h:voc	np	h	voc		
+cypgreek	psarin	0155	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0155	#	#	#	#				
+cypgreek	psarin	0155	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0155	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0155	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0155	#	#	#ds_neg	#ds_neg				
+cypgreek	psarin	0155	0	it_0	0:a	0		a		
+cypgreek	psarin	0155	en	not	other	other				
+cypgreek	psarin	0155	eshi	has-3sg	v:pred	v		pred		
+cypgreek	psarin	0155	kandilan	glass	np:p	np		p		
+cypgreek	psarin	0156	#	#	##ds	##ds				
+cypgreek	psarin	0156	Oi	no	other	other				
+cypgreek	psarin	0156	tuti	she	pro.h:s	pro	h	s		
+cypgreek	psarin	0156	en	is-3sg	cop	cop				
+cypgreek	psarin	0156	kallitteri	better	other:pred	other		pred		
+cypgreek	psarin	0156	pu	than	other	other				
+cypgreek	psarin	0156	tin	the	ln	ln				
+cypgreek	psarin	0156	kandilan	glass	np:other	np		other		
+cypgreek	psarin	0156	afendi	master	np.h:voc	np	h	voc		
+cypgreek	psarin	0156	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0156	vasilea	king	np.h:voc	np	h	voc		
+cypgreek	psarin	0156	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0156	#	#	#	#				
+cypgreek	psarin	0156	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0156	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0156	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0157	#	#	##	##				
+cypgreek	psarin	0157	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0157	Ivren	found-3sg	v:pred	v		pred		
+cypgreek	psarin	0157	tin	the	ln	ln				
+cypgreek	psarin	0157	pinn'an	drink	np:p	np		p		
+cypgreek	psarin	0157	#	#	#	#				
+cypgreek	psarin	0157	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0157	shononni	pours-3sg	v:pred	v		pred		
+cypgreek	psarin	0157	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0158	#	#	##ds_neg	##ds_neg				
+cypgreek	psarin	0158	Oi	no	other	other				
+cypgreek	psarin	0158	pedhin	child	np.h:voc	np	h	voc		
+cypgreek	psarin	0158	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0158	#	#	#	#				
+cypgreek	psarin	0158	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0158	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0158	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0158	#	#	#ds	#ds				
+cypgreek	psarin	0158	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0158	enna	will	l_aux	l_aux				
+cypgreek	psarin	0158	kamis	make-2sg	v:pred	v		pred		
+cypgreek	psarin	0158	ta	the	ln	ln				
+cypgreek	psarin	0158	trapezomandila	tablecloths	np:p	np		p		
+cypgreek	psarin	0158	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0158	ullon	all	ln	ln				
+cypgreek	psarin	0158	krasin	wine	np:other	np		other		
+cypgreek	psarin	0159	#	#	##ds_neg	##ds_neg				
+cypgreek	psarin	0159	0	they_0	0.h:s	0	h	s		
+cypgreek	psarin	0159	En	not	other	other				
+cypgreek	psarin	0159	yenonde	become-3pl	cop	cop				
+cypgreek	psarin	0159	krasin	wine	np:pred	np		pred		
+cypgreek	psarin	0159	#	#	#	#				
+cypgreek	psarin	0159	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0159	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0159	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0160	#	#	##	##				
+cypgreek	psarin	0160	0	it_0	0:s	0		s		
+cypgreek	psarin	0160	Einiken	became-3sg	cop	cop				
+cypgreek	psarin	0160	lires	pounds	np:pred	np		pred		
+cypgreek	psarin	0161	#	#	##	##				
+cypgreek	psarin	0161	Pinni	drinks-3sg	v:pred	v		pred		
+cypgreek	psarin	0161	enas	one	other:s	other		s		
+cypgreek	psarin	0161	#	#	#	#				
+cypgreek	psarin	0161	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0161	shononni	pours-3sg	v:pred	v		pred		
+cypgreek	psarin	0161	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0161	lires	pounds	np:obl	np		obl		
+cypgreek	psarin	0161	ombros	in.front.of	adp	adp				
+cypgreek	psarin	0161	tu	the	ln	ln				
+cypgreek	psarin	0161	allu	other	other	other				
+cypgreek	psarin	0162	#	#	##ds	##ds				
+cypgreek	psarin	0162	Xa	ha	other	other				
+cypgreek	psarin	0162	#	#	#	#				
+cypgreek	psarin	0162	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0162	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0162	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0162	#	#	#ds	#ds				
+cypgreek	psarin	0162	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0162	pulite	sell-2pl	v:pred	v		pred		
+cypgreek	psarin	0162	=mu	=to.me	=pro.1:g	=pro	1	g		
+cypgreek	psarin	0162	tunto	this.the	ln	ln				
+cypgreek	psarin	0162	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0163	#	#	##ds	##ds				
+cypgreek	psarin	0163	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0163	Pulo	sell-1sg	v:pred	v		pred		
+cypgreek	psarin	0163	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	psarin	0163	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0163	#	#	#	#				
+cypgreek	psarin	0163	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0163	i	the	ln	ln				
+cypgreek	psarin	0163	kori	girl	np.h:s	np	h	s		
+cypgreek	psarin	0164	#	#	##ds	##ds				
+cypgreek	psarin	0164	E	Ah	other	other				
+cypgreek	psarin	0164	je	and	other	other				
+cypgreek	psarin	0164	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0164	posa	how.much	pro:other	pro		other		
+cypgreek	psarin	0164	xelete	want-2pl	v:pred	v		pred		
+cypgreek	psarin	0165	#	#	##ds_neg	##ds_neg				
+cypgreek	psarin	0165	Nda	what	other:pred	other		pred		
+cypgreek	psarin	0165	enj	not	other	other				
+cypgreek	psarin	0165	en	is-3sg	cop	cop				
+cypgreek	psarin	0165	me	with	adp	adp				
+cypgreek	psarin	0165	ta	the	ln	ln				
+cypgreek	psarin	0165	rial'a	money	np:obl	np		obl		
+cypgreek	psarin	0166	#	#	##ds	##ds				
+cypgreek	psarin	0166	Kalo	what.then	other	other				
+cypgreek	psarin	0167	#	#	##ds	##ds				
+cypgreek	psarin	0167	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0167	Ela	come-2sg	imp_v:pred	imp_v		pred		
+cypgreek	psarin	0167	#	#	#ds	#ds				
+cypgreek	psarin	0167	0	we_0	0.1:s	0	1	s		
+cypgreek	psarin	0167	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0167	pamen	go-1pl	v:pred	v		pred		
+cypgreek	psarin	0167	podhoththe	aside	other	other				
+cypgreek	psarin	0167	#	#	#ds	#ds				
+cypgreek	psarin	0167	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0167	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0167	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	psarin	0167	po	say-1sg	v:pred	v		pred		
+cypgreek	psarin	0167	0	it_0	0:p	0		p		
+cypgreek	psarin	0167	#	#	#	#				
+cypgreek	psarin	0167	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0167	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0167	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0168	#	#	##ds	##ds				
+cypgreek	psarin	0168	Olan	form.of.address	other:voc	other		voc		
+cypgreek	psarin	0168	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0168	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0168	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	psarin	0168	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0168	puliso	sell-1sg	v:pred	v		pred		
+cypgreek	psarin	0169	#	#	##ds	##ds				
+cypgreek	psarin	0169	0	she_0	0.h:a	0	h	a		
+cypgreek	psarin	0169	Epiren	took-3sg	v:pred	v		pred		
+cypgreek	psarin	0169	=ton	=him	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0169	allo	other	ln	ln				
+cypgreek	psarin	0169	spitin	house	np:g	np		g		
+cypgreek	psarin	0169	#	#	#	#				
+cypgreek	psarin	0169	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0169	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0169	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0170	#	#	##ds	##ds				
+cypgreek	psarin	0170	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0170	Thk'as	give-2sg	v:pred	v		pred		
+cypgreek	psarin	0170	=mu	=to.me	=pro.1:g	=pro	1	g		
+cypgreek	psarin	0170	nakkon	little	ln	ln				
+cypgreek	psarin	0170	kolon	ass	np:p	np		p		
+cypgreek	psarin	0170	#	#	#ds	#ds				
+cypgreek	psarin	0170	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0170	me	me	=pro.1:p	=pro	1	p		
+cypgreek	psarin	0170	sixxoris	excuse-2sg	v:pred	v		pred		
+cypgreek	psarin	0170	#	#	#	#				
+cypgreek	psarin	0170	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0170	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0170	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0170	#	#	#ds	#ds				
+cypgreek	psarin	0170	je	and	other	other				
+cypgreek	psarin	0170	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0170	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0170	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	psarin	0170	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0170	dhoko	give-1sg	v:pred	v		pred		
+cypgreek	psarin	0171	#	#	##ds	##ds				
+cypgreek	psarin	0171	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0171	Thk'o	give-1sg	v:pred	v		pred		
+cypgreek	psarin	0171	=su	=to.you	=pro.2:g	=pro	2	g		
+cypgreek	psarin	0171	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0171	#	#	#	#				
+cypgreek	psarin	0171	0	he_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0171	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0171	=tis	=to.her	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0172	#	#	##	##				
+cypgreek	psarin	0172	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0172	Epien	went-3sg	v:pred	v		pred		
+cypgreek	psarin	0172	#	#	#	#				
+cypgreek	psarin	0172	0	he_0	0.h:a	0	h	a		
+cypgreek	psarin	0172	na	mod_that	nonindic	nonindic				
+cypgreek	psarin	0172	fkali	takes.off-3sg	v:pred	v		pred		
+cypgreek	psarin	0172	ta	the	ln	ln				
+cypgreek	psarin	0172	ruxa	clothes	np:p	np		p		
+cypgreek	psarin	0172	#	#	#	#				
+cypgreek	psarin	0172	eftisen	spat-3sg	v:pred	v		pred		
+cypgreek	psarin	0172	=tu	=to.him	=pro.h:obl	=pro	h	obl		
+cypgreek	psarin	0172	i	the	ln	ln				
+cypgreek	psarin	0172	kopellua	girl	np.h:s	np	h	s		
+cypgreek	psarin	0173	#	#	##ds	##ds				
+cypgreek	psarin	0173	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0173	Ftu	ftu (sound)	other:pred	other		pred		
+cypgreek	psarin	0173	su	to.you	=pro.2:p	=pro	2	p		
+cypgreek	psarin	0173	#	#	#	#				
+cypgreek	psarin	0173	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0173	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0173	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0173	#	#	#ds	#ds				
+cypgreek	psarin	0173	esu	you	pro.2:other	pro	2	other		
+cypgreek	psarin	0173	#	#	#ds_rc	#ds_rc				
+cypgreek	psarin	0173	pu	that	other	other				
+cypgreek	psarin	0173	se	are-2sg	cop	cop				
+cypgreek	psarin	0173	jiris	father	np.h:pred	np	h	pred		
+cypgreek	psarin	0173	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0173	#	#	#	#				
+cypgreek	psarin	0173	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0173	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0173	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0173	#	#	#ds	#ds				
+cypgreek	psarin	0173	je	and	other	other				
+cypgreek	psarin	0173	0	it_0	0.h:s	0	h	s		
+cypgreek	psarin	0173	aresen	is.liked-3sg	v:pred	v		pred		
+cypgreek	psarin	0173	=su	=to.you	=pro.2:obl	=pro	2	obl		
+cypgreek	psarin	0173	#	#	#ds	#ds				
+cypgreek	psarin	0173	j	and 	other	other				
+cypgreek	psarin	0173	0	you_0	0.2:a	0	2	a		
+cypgreek	psarin	0173	enna	will	l_aux	l_aux				
+cypgreek	psarin	0173	okis	give-2sg	v:pred	v		pred		
+cypgreek	psarin	0173	ton	the	ln	ln				
+cypgreek	psarin	0173	kolon	ass	np:p	np		p		
+cypgreek	psarin	0173	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0173	#	#	#ds_rc	#ds_rc				
+cypgreek	psarin	0173	pu	that	other	other				
+cypgreek	psarin	0173	se	are-2sg	cop	cop				
+cypgreek	psarin	0173	vasileas	king	np.h:pred	np	h	pred		
+cypgreek	psarin	0173	#	#	#ds	#ds				
+cypgreek	psarin	0173	j	and	other	other				
+cypgreek	psarin	0173	eo	I	pro.1:a	pro	1	a		
+cypgreek	psarin	0173	#	#	#ds_rc	#ds_rc				
+cypgreek	psarin	0173	pu	that	other	other				
+cypgreek	psarin	0173	=to	=it	=pro:p	=pro		p		
+cypgreek	psarin	0173	idha	saw-3sg	v:pred	v		pred		
+cypgreek	psarin	0173	#	#	#rc	#rc				
+cypgreek	psarin	0173	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0173	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0173	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0173	%ds	%ds	%ds	%ds				
+cypgreek	psarin	0173	evala	put-3sg	v:pred	v		pred		
+cypgreek	psarin	0173	=ton	=him	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0173	tris	three	ln	ln				
+cypgreek	psarin	0173	nixtes	nights	np:other	np		other		
+cypgreek	psarin	0173	#	#	#ds	#ds				
+cypgreek	psarin	0173	0	he_0	0.h:s	0	h	s		
+cypgreek	psarin	0173	eplayasen	lied-3sg	v:pred	v		pred		
+cypgreek	psarin	0173	mita	with	adp	adp				
+cypgreek	psarin	0173	=mu	=to.me	=pro.1:obl	=pro	1	obl		
+cypgreek	psarin	0173	#	#	#ds	#ds				
+cypgreek	psarin	0173	j	and	other	other				
+cypgreek	psarin	0173	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0173	epk'aa	took-1sg	v:pred	v		pred		
+cypgreek	psarin	0173	to	the	ln	ln				
+cypgreek	psarin	0173	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0173	tuton	this	rn	rn				
+cypgreek	psarin	0173	#	#	#ds	#ds				
+cypgreek	psarin	0173	j	and	other	other				
+cypgreek	psarin	0173	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0173	ekama	made-1sg	v:pred	v		pred		
+cypgreek	psarin	0173	=ton	=him	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0173	andran	husband	np.h:other	np	h	other		
+cypgreek	psarin	0173	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0173	#	#	#	#				
+cypgreek	psarin	0173	0	she_0	0.h:s_ds	0	h	s_ds		
+cypgreek	psarin	0173	lali	says-3sg	v:pred	v		pred		
+cypgreek	psarin	0173	=tu	=to.him	=pro.h:g	=pro	h	g		
+cypgreek	psarin	0174	#	#	##ds	##ds				
+cypgreek	psarin	0174	Ma	but	other	other				
+cypgreek	psarin	0174	0	you_0	0.2:s	0	2	s		
+cypgreek	psarin	0174	ise	are-2sg	cop	cop				
+cypgreek	psarin	0174	i	the	ln	ln				
+cypgreek	psarin	0174	kori	girl	np.h:pred	np	h	pred		
+cypgreek	psarin	0174	mu	my	rn_pro.1:poss	rn_pro	1	poss		
+cypgreek	psarin	0175	#	#	##ds	##ds				
+cypgreek	psarin	0175	0	I_0	0.1:s	0	1	s		
+cypgreek	psarin	0175	Ime	am-1sg	cop	cop				
+cypgreek	psarin	0175	i	the	ln	ln				
+cypgreek	psarin	0175	kori	girl	np.h:pred	np	h	pred		
+cypgreek	psarin	0175	su	your	rn_pro.2:poss	rn_pro	2	poss		
+cypgreek	psarin	0176	#	#	##ds	##ds				
+cypgreek	psarin	0176	A	Ah	other	other				
+cypgreek	psarin	0176	mbravo	bravo	other	other				
+cypgreek	psarin	0176	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0176	tora	now	other	other				
+cypgreek	psarin	0176	ekatalava	understood-1sg	v:pred	v		pred		
+cypgreek	psarin	0176	0	it_0	0:p	0		p		
+cypgreek	psarin	0177	#	#	##	##				
+cypgreek	psarin	0177	Xate	los	other	other				
+cypgreek	psarin	0177	saranda	forty	ln	ln				
+cypgreek	psarin	0177	meres	days	ln	ln				
+cypgreek	psarin	0177	ghamon	wedding	np:other	np		other		
+cypgreek	psarin	0177	saranda	forty	ln	ln				
+cypgreek	psarin	0177	nixtes	nights	ln	ln				
+cypgreek	psarin	0177	ghamon	wedding	np:other	np		other		
+cypgreek	psarin	0177	armasen	marry-3sg	v:pred	v		pred		
+cypgreek	psarin	0177	tin	the	ln	ln				
+cypgreek	psarin	0177	korin	girl	np.h:p	np	h	p		
+cypgreek	psarin	0177	tu	his	rn_pro.h:poss	rn_pro	h	poss		
+cypgreek	psarin	0177	o	the	ln	ln				
+cypgreek	psarin	0177	vasileas	king	np.h:a	np	h	a		
+cypgreek	psarin	0177	me	with	adp	adp				
+cypgreek	psarin	0177	to	the	ln	ln				
+cypgreek	psarin	0177	kopellin	young.man	np:obl	np		obl		
+cypgreek	psarin	0177	jinon	that	rn	rn				
+cypgreek	psarin	0177	#	#	#rc	#rc				
+cypgreek	psarin	0177	pu	that	other	other				
+cypgreek	psarin	0177	ekraten	held-3sg	v:pred	v		pred		
+cypgreek	psarin	0177	to	the	ln	ln				
+cypgreek	psarin	0177	xanappin	vessel	np:p	np		p		
+cypgreek	psarin	0177	to	the	ln	ln				
+cypgreek	psarin	0177	ghruson	golden	rn	rn				
+cypgreek	psarin	0177	#	#	#rc	#rc				
+cypgreek	psarin	0177	pu	that	other	other				
+cypgreek	psarin	0177	eshononnen	poured-3sg	v:pred	v		pred		
+cypgreek	psarin	0177	lires	pounds	np:p	np		p		
+cypgreek	psarin	0178	#	#	##	##				
+cypgreek	psarin	0178	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0178	Efika	left-3sg	v:pred	v		pred		
+cypgreek	psarin	0178	=tus	=them	=pro.h:p	=pro	h	p		
+cypgreek	psarin	0178	jinus	that.one_m_pl	pro.h:dt_p	pro	h	dt_p		
+cypgreek	psarin	0178	ji	there	other:l	other		l		
+cypgreek	psarin	0178	kaka	badly	other	other				
+cypgreek	psarin	0178	#	#	#	#				
+cypgreek	psarin	0178	j	and	other	other				
+cypgreek	psarin	0178	0	I_0	0.1:a	0	1	a		
+cypgreek	psarin	0178	irta	found-1sg	v:pred	v		pred		
+cypgreek	psarin	0178	=sas	=you	=pro.2:p	=pro	2	p		
+cypgreek	psarin	0178	esas	you	pro.2:dt_p	pro	2	dt_p		
+cypgreek	psarin	0178	dha	here	other:l	other		l		
+cypgreek	psarin	0178	kala	good	other	other				
