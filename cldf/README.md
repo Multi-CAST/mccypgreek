@@ -12,12 +12,12 @@ While unfortunately no audio recordings are available for this corpus, the texts
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Hadjidas, Harris & Vollmer, Maria. 2015. Multi-CAST Cypriot Greek. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1505. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#cypgreek) (date accessed)
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Hadjidas, Harris & Vollmer, Maria. 2019. Multi-CAST Cypriot Greek. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1905. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#cypgreek) (date accessed)
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF TextCorpus](http://cldf.clld.org/v1.0/terms.rdf#TextCorpus)
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://multicast.aspra.uni-bamberg.de/#cypgreek
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/Multi-CAST/mccypgreek
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Multi-CAST/mccypgreek/tree/032ba5b">Multi-CAST/mccypgreek 032ba5b</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.1">Glottolog v5.1</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Multi-CAST/mccypgreek/tree/v1505">Multi-CAST/mccypgreek v1505</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.1">Glottolog v5.1</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | mccypgreek
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -53,6 +53,9 @@ Name/Property | Datatype | Description
 `graid` | list of `string` (separated by `	`) | A morphosyntactic annotation unit with the GRAID scheme (Grammatical relations and animacy in discourse, Haig & Schnell 2014) or ## as clause boundary marker.
 `add_orthography` | `string` | The object language text in another orthographical system; in Mandarin or Japanese, for instance, this tier contains the text in its original orthography (hanzi, or kanji and kana) while the utterance tier is a transliteration of the text (pinyin, or romaji).
 [Text_ID](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | `string` | References [texts.csv::ID](#table-textscsv)
+`refind` | list of `string` (separated by `	`) | Referent identification with the RefIND scheme (Referent indexing in natural-language discourse, Schiborr et al. 2018). ∅ is used to signal no referent information.
+`refindFK` | list of `string` (separated by `	`) | A duplicate refind column is provided, to enable checking referential integrity (via this list-valued foreign key) while still allowing uniform access to the annotation tiers in CLDF SQL. (While the refind column will be converted to a TEXT column in CLDF SQL, this column will be replaced by an association table.)<br>References [referents.csv::refind](#table-referentscsv)
+`isnref` | list of `string` (separated by `	`) | The information status of referents with the ISNRef scheme (Information status of new referents, Schiborr et al. 2018: 15), an adaptation of the RefLex scheme (Riester & Baumann 2017). ∅ is used to signal no INNRef annotation.
 
 ## <a name="table-textscsv"></a>Table [texts.csv](./texts.csv)
 
@@ -133,4 +136,37 @@ Name/Property | Datatype | Description
 `Length` | `float` | Recording length in seconds for audio files.
 [Contribution_ID](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | `string` | References [texts.csv::ID](#table-textscsv)
 `Date_Updated` | `date` | 
+
+## <a name="table-referentscsv"></a>Table [referents.csv](./referents.csv)
+
+property | value
+ --- | ---
+[dc:extent](http://purl.org/dc/terms/extent) | 294
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[refind](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+[label](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
+[description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
+`class` | `string`<br>Valid choices:<br> `hum` `anm` `inm` `bdp` `mss` `loc` `tme` `abs` | The semantic class of the referent; one of hum ‘human’, anm ‘non-human animate’,inm ‘inanimate’, bdp ‘body part’, mss ‘mass’, loc ‘location’, tme ‘time’, or abs ‘abstract’. Only a single label is assigned to a referent, even where a group contains entities belonging to multiple classes. In such cases humans outweigh other animates, animates outweigh inanimates, and inanimates outweigh everything else in no particular order.
+[notes](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
+
+## <a name="table-referentrelationscsv"></a>Table [referent_relations.csv](./referent_relations.csv)
+
+property | value
+ --- | ---
+[dc:extent](http://purl.org/dc/terms/extent) | 78
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+`Source_Referent_ID` | `string` | References [referents.csv::refind](#table-referentscsv)
+`Target_Referent_ID` | `string` | References [referents.csv::refind](#table-referentscsv)
+`Relation` | `string` | The relations of a referent to other referents; including < ‘set member of (partial co-reference)’, > ‘includes (split antecedence)’, and M ‘part-whole’.
 
