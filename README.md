@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Hadjidas, Harris & Vollmer, Maria. 2021. Multi-CAST Cypriot Greek. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#cypgreek) (date accessed)
+  > Hadjidas, Harris & Vollmer, Maria. 2015. Multi-CAST Cypriot Greek. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1505. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#cypgreek) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -68,6 +68,76 @@ Available online at https://multicast.aspra.uni-bamberg.de/#cypgreek
     ]
 }
 ```
+
+
+
+## Corpus counts
+
+Only a small number of basic GRAID symbols are counted:
+
+*Function symbols*
+- ⟨0⟩ zero
+- ⟨pro⟩ definite pronoun
+- ⟨np⟩ full noun phrase
+- ⟨other⟩ form not further specified
+
+*Person/Animacy symbols*
+- ⟨.1⟩ first person
+- ⟨.2⟩ second person
+- ⟨.h⟩ third person, human
+- ⟨.d⟩ third person, anthropomorphic
+- ø third person, non-human
+
+*Function symbols*
+- ⟨:s⟩ subject of an intransitive clause
+- ⟨:a⟩ subject of a transitive clause
+- ⟨:ncs⟩ non-canonical subject
+- ⟨:p⟩ direct object
+- ⟨:obl⟩ oblique argument
+- ⟨:g⟩ goal argument
+- ⟨:l⟩ locational argument
+- ⟨:pred⟩ predicate
+- ⟨:poss⟩ possessive
+- ⟨:other⟩ function not further specified
+
+Only basic categories are listed; categories represented by complex symbols with additional
+specifiers (e.g. ⟨dem_pro⟩ ‘demonstrative pronoun’) have been subsumed under the more basic
+category (e.g. ⟨pro⟩ ‘definite pronoun’). Please refer to the annotation notes for this corpus for
+information on all annotated categories, including those not listed here.
+
+| GRAID | ⟨:s⟩ | ⟨:a⟩ | ⟨:ncs⟩ | ⟨:p⟩ | ⟨:obl⟩ | ⟨:g⟩ | ⟨:l⟩ | ⟨:pred⟩ | ⟨:poss⟩ | ⟨:other⟩ | totals |
+|:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
+| **⟨0.1⟩** | 55 | 116 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 172 |
+| **⟨0.2⟩** | 74 | 116 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 191 |
+| **⟨0.h⟩** | 173 | 182 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 1 | 361 |
+| **⟨0.d⟩** | 6 | 7 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 14 |
+| **⟨0⟩** | 16 | 13 | 0 | 72 | 0 | 0 | 0 | 2 | 0 | 0 | 103 |
+| **⟨pro.1⟩** | 9 | 13 | 0 | 10 | 13 | 20 | 0 | 0 | 100 | 3 | 168 |
+| **⟨pro.2⟩** | 9 | 5 | 0 | 15 | 13 | 21 | 0 | 0 | 45 | 3 | 111 |
+| **⟨pro.h⟩** | 5 | 2 | 0 | 54 | 20 | 57 | 1 | 1 | 57 | 6 | 203 |
+| **⟨pro.d⟩** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 3 |
+| **⟨pro⟩** | 2 | 0 | 0 | 59 | 1 | 1 | 0 | 0 | 0 | 1 | 64 |
+| **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨np.h⟩** | 50 | 28 | 0 | 38 | 17 | 19 | 0 | 11 | 28 | 5 | 196 |
+| **⟨np.d⟩** | 14 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 20 | 37 |
+| **⟨np⟩** | 24 | 9 | 0 | 219 | 44 | 50 | 15 | 18 | 14 | 82 | 475 |
+| **⟨other.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨other.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨other.h⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨other⟩** | 8 | 1 | 0 | 23 | 3 | 26 | 19 | 41 | 0 | 0 | 121 |
+| | 447 | 493 | 0 | 499 | 111 | 194 | 35 | 73 | 245 | 122 | 2219 |
+
+
+**Clause boundaries**
+
+| GRAID | count |
+|:-----------|--------:|
+| **⟨##⟩** | 456 |
+| **⟨#⟩** | 615 |
+| **totals** | 1071 |
+
 
 
 ## Corpus metadata
