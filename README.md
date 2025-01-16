@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Hadjidas, Harris & Vollmer, Maria. 2015. Multi-CAST Cypriot Greek. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1505. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#cypgreek) (date accessed)
+  > Hadjidas, Harris & Vollmer, Maria. 2019. Multi-CAST Cypriot Greek. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1905. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#cypgreek) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -108,10 +108,10 @@ information on all annotated categories, including those not listed here.
 | GRAID | ⟨:s⟩ | ⟨:a⟩ | ⟨:ncs⟩ | ⟨:p⟩ | ⟨:obl⟩ | ⟨:g⟩ | ⟨:l⟩ | ⟨:pred⟩ | ⟨:poss⟩ | ⟨:other⟩ | totals |
 |:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
 | **⟨0.1⟩** | 55 | 116 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 172 |
-| **⟨0.2⟩** | 74 | 116 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 191 |
+| **⟨0.2⟩** | 75 | 116 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 192 |
 | **⟨0.h⟩** | 173 | 182 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 1 | 361 |
 | **⟨0.d⟩** | 6 | 7 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 14 |
-| **⟨0⟩** | 16 | 13 | 0 | 72 | 0 | 0 | 0 | 2 | 0 | 0 | 103 |
+| **⟨0⟩** | 16 | 13 | 0 | 71 | 0 | 0 | 0 | 2 | 0 | 0 | 102 |
 | **⟨pro.1⟩** | 9 | 13 | 0 | 10 | 13 | 20 | 0 | 0 | 100 | 3 | 168 |
 | **⟨pro.2⟩** | 9 | 5 | 0 | 15 | 13 | 21 | 0 | 0 | 45 | 3 | 111 |
 | **⟨pro.h⟩** | 5 | 2 | 0 | 54 | 20 | 57 | 1 | 1 | 57 | 6 | 203 |
@@ -127,15 +127,15 @@ information on all annotated categories, including those not listed here.
 | **⟨other.h⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other⟩** | 8 | 1 | 0 | 23 | 3 | 26 | 19 | 41 | 0 | 0 | 121 |
-| | 447 | 493 | 0 | 499 | 111 | 194 | 35 | 73 | 245 | 122 | 2219 |
+| | 448 | 493 | 0 | 498 | 111 | 194 | 35 | 73 | 245 | 122 | 2219 |
 
 
 **Clause boundaries**
 
 | GRAID | count |
 |:-----------|--------:|
-| **⟨##⟩** | 456 |
-| **⟨#⟩** | 615 |
+| **⟨##⟩** | 431 |
+| **⟨#⟩** | 640 |
 | **totals** | 1071 |
 
 
