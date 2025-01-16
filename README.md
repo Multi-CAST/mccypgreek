@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Hadjidas, Harris & Vollmer, Maria. 2019. Multi-CAST Cypriot Greek. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1905. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#cypgreek) (date accessed)
+  > Hadjidas, Harris & Vollmer, Maria. 2021. Multi-CAST Cypriot Greek. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#cypgreek) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -111,23 +111,23 @@ information on all annotated categories, including those not listed here.
 | **⟨0.2⟩** | 75 | 116 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 192 |
 | **⟨0.h⟩** | 173 | 182 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 1 | 361 |
 | **⟨0.d⟩** | 6 | 7 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 14 |
-| **⟨0⟩** | 16 | 13 | 0 | 71 | 0 | 0 | 0 | 2 | 0 | 0 | 102 |
-| **⟨pro.1⟩** | 9 | 13 | 0 | 10 | 13 | 20 | 0 | 0 | 100 | 3 | 168 |
+| **⟨0⟩** | 16 | 13 | 0 | 72 | 0 | 0 | 0 | 2 | 0 | 0 | 103 |
+| **⟨pro.1⟩** | 9 | 13 | 0 | 10 | 13 | 20 | 0 | 0 | 99 | 3 | 167 |
 | **⟨pro.2⟩** | 9 | 5 | 0 | 15 | 13 | 21 | 0 | 0 | 45 | 3 | 111 |
-| **⟨pro.h⟩** | 5 | 2 | 0 | 54 | 20 | 57 | 1 | 1 | 57 | 6 | 203 |
+| **⟨pro.h⟩** | 5 | 2 | 0 | 54 | 20 | 57 | 1 | 1 | 55 | 6 | 201 |
 | **⟨pro.d⟩** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 3 |
 | **⟨pro⟩** | 2 | 0 | 0 | 59 | 1 | 1 | 0 | 0 | 0 | 1 | 64 |
 | **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨np.h⟩** | 50 | 28 | 0 | 38 | 17 | 19 | 0 | 11 | 28 | 5 | 196 |
+| **⟨np.h⟩** | 50 | 28 | 0 | 38 | 17 | 19 | 0 | 11 | 29 | 4 | 196 |
 | **⟨np.d⟩** | 14 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 20 | 37 |
-| **⟨np⟩** | 24 | 9 | 0 | 219 | 44 | 50 | 15 | 18 | 14 | 82 | 475 |
+| **⟨np⟩** | 24 | 9 | 0 | 218 | 43 | 50 | 15 | 18 | 15 | 83 | 475 |
 | **⟨other.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.h⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other⟩** | 8 | 1 | 0 | 23 | 3 | 26 | 19 | 41 | 0 | 0 | 121 |
-| | 448 | 493 | 0 | 498 | 111 | 194 | 35 | 73 | 245 | 122 | 2219 |
+| | 448 | 493 | 0 | 498 | 110 | 194 | 35 | 73 | 244 | 122 | 2217 |
 
 
 **Clause boundaries**
@@ -135,8 +135,8 @@ information on all annotated categories, including those not listed here.
 | GRAID | count |
 |:-----------|--------:|
 | **⟨##⟩** | 431 |
-| **⟨#⟩** | 640 |
-| **totals** | 1071 |
+| **⟨#⟩** | 639 |
+| **totals** | 1070 |
 
 
 

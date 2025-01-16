@@ -6,9 +6,9 @@ cypgreek	minaes	0001	ishen	had-3SG	other:predex	other		predex
 cypgreek	minaes	0001	mian	a.F	ln	ln				
 cypgreek	minaes	0001	adherfin	sister	np.h:s	np	h	s	2001	new
 cypgreek	minaes	0001	arkondissan	noblewoman	rn_np	rn_np				
-cypgreek	minaes	0001	je	and	other	other				
-cypgreek	minaes	0001	mian	a.F	ln	ln				
-cypgreek	minaes	0001	ftoshin	poor	rn_np.h	rn_np	h		2002	new
+cypgreek	minaes	0001	je	and	rn	rn				
+cypgreek	minaes	0001	mian	one.F	rn_num_np	rn_num_np			2002	new
+cypgreek	minaes	0001	ftoshin	poor	rn_np.h	rn_np	h			
 cypgreek	minaes	0002	#	#	##	##				
 cypgreek	minaes	0002	i	the	ln	ln				
 cypgreek	minaes	0002	ftoshi	poor	np.h:a	np	h	a	2002	
@@ -37,7 +37,7 @@ cypgreek	minaes	0004	#	#	#	#
 cypgreek	minaes	0004	j	and	other	other				
 cypgreek	minaes	0004	0	0_she	0.h:a	0	h	a	2002	
 cypgreek	minaes	0004	ezimonnen	kneaded-3SG	v:pred	v		pred		
-cypgreek	minaes	0004	=tis	=to.her	=pro.h:obl	=pro	h	obl	2001	
+cypgreek	minaes	0004	=tis	=to_her	=pro.h:obl	=pro	h	obl	2001	
 cypgreek	minaes	0004	psumia	bread	np:p	np		p	2007	new
 cypgreek	minaes	0004	#	#	#	#				
 cypgreek	minaes	0004	j	and	other	other				
@@ -48,7 +48,7 @@ cypgreek	minaes	0004	#	#	#neg	#neg
 cypgreek	minaes	0004	je	and	other	other				
 cypgreek	minaes	0004	0	0_she	0.h:a	0	h	a	2001	
 cypgreek	minaes	0004	then	not	other	other				
-cypgreek	minaes	0004	=tis	=to.her	=pro.h:obl	=pro	h	obl	2002	
+cypgreek	minaes	0004	=tis	=to_her	=pro.h:obl	=pro	h	obl	2002	
 cypgreek	minaes	0004	eoken	gave-3SG	v:pred	v		pred		
 cypgreek	minaes	0004	enan	a.M	ln	ln				
 cypgreek	minaes	0004	vukkon	mouthful	np:p	np		p		
@@ -60,15 +60,15 @@ cypgreek	minaes	0004	0	0_it	0:p	0		p	2051
 cypgreek	minaes	0004	fai	eats-3SG	v:pred	v		pred		
 cypgreek	minaes	0004	#	#	#neg	#neg				
 cypgreek	minaes	0004	ute	neither	other	other				
-cypgreek	minaes	0004	=jinis	=to.her	=pro.h:obl	=pro	h	obl	2002	
+cypgreek	minaes	0004	=jinis	=to_her	=pro.h:obl	=pro	h	obl	2002	
 cypgreek	minaes	0004	ute	nor	other	other				
-cypgreek	minaes	0004	ton	to.the	ln	ln				
+cypgreek	minaes	0004	ton	to_the	ln	ln				
 cypgreek	minaes	0004	moron	children	np.h:obl	np	h	obl	2003	
 cypgreek	minaes	0004	tis	her	rn_pro.h:poss	rn_pro	h	poss	2002	
 cypgreek	minaes	0005	#	#	##	##				
 cypgreek	minaes	0005	monon	only	other	other				
 cypgreek	minaes	0005	eminiskan	stayed-3PL	v:pred	v		pred		
-cypgreek	minaes	0005	sta	to.the	ln	ln				
+cypgreek	minaes	0005	sta	to_the	ln	ln				
 cypgreek	minaes	0005	sherka	hands	np:obl	np		obl	2008	bridging
 cypgreek	minaes	0005	tis	her	rn_pro.h:poss	rn_pro	h	poss	2002	
 cypgreek	minaes	0005	ta	the	ln	ln				
@@ -108,7 +108,7 @@ cypgreek	minaes	0005	#	#	#	#
 cypgreek	minaes	0005	j	and	other	other				
 cypgreek	minaes	0005	0	0_she	0.h:a	0	h	a	2002	
 cypgreek	minaes	0005	epk'annen	took-3SG	v:pred	v		pred		
-cypgreek	minaes	0005	jind	that.the	ln	ln				
+cypgreek	minaes	0005	jind	that_the	ln	ln				
 cypgreek	minaes	0005	alevrin	flour	np:p	np		p	2013	bridging
 cypgreek	minaes	0005	#	#	#	#				
 cypgreek	minaes	0005	j	and	other	other				
@@ -149,7 +149,7 @@ cypgreek	minaes	0006	0	0_it	0:p	0		p
 cypgreek	minaes	0006	ekamnen	made-3SG	v:pred	v		pred		
 cypgreek	minaes	0007	#	#	##	##				
 cypgreek	minaes	0007	i	the	ln	ln				
-cypgreek	minaes	0007	kumera	best.woman	np.h:s	np	h	s	2023	new
+cypgreek	minaes	0007	kumera	best_woman	np.h:s	np	h	s	2023	new
 cypgreek	minaes	0007	tis	the	ln	ln				
 cypgreek	minaes	0007	arkondissas	noblewoman	rn_np.h:poss	rn_np	h	poss	2001	
 cypgreek	minaes	0007	irten	came-3SG	v:pred	v		pred		
@@ -157,7 +157,7 @@ cypgreek	minaes	0007	mian	a.F	ln	ln
 cypgreek	minaes	0007	imeran	day	np:other	np		other		
 cypgreek	minaes	0007	#	#	#ac	#ac				
 cypgreek	minaes	0007	0	0_they	0.h:s	0	h	s	2016	bridging
-cypgreek	minaes	0007	ya	in.order	other	other				
+cypgreek	minaes	0007	ya	in_order	other	other				
 cypgreek	minaes	0007	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0007	kuveg'azun	talk-3PL	v:pred	v		pred		
 cypgreek	minaes	0008	#	#	##	##				
@@ -181,7 +181,7 @@ cypgreek	minaes	0008	mesin	middle	np:obl	np		obl
 cypgreek	minaes	0009	#	#	##	##				
 cypgreek	minaes	0009	0	0_you	0.2:s	0	2	s	2023	
 cypgreek	minaes	0009	paratira	look-2SG	imp_v:pred	imp_v		pred		
-cypgreek	minaes	0009	kumera	best.woman	np.h:voc	np	h	voc	2023	
+cypgreek	minaes	0009	kumera	best_woman	np.h:voc	np	h	voc	2023	
 cypgreek	minaes	0009	#	#	#ac	#ac				
 cypgreek	minaes	0009	ti	what	other:pred	other		pred		
 cypgreek	minaes	0009	kalon	good	other	other				
@@ -190,7 +190,7 @@ cypgreek	minaes	0009	eni	is-3SG	cop	cop
 cypgreek	minaes	0009	tu	the	ln	ln				
 cypgreek	minaes	0009	Theu	God	np.h:other	np	h	other		
 cypgreek	minaes	0010	#	#	##ds	##ds				
-cypgreek	minaes	0010	emenan	to.me	pro.1:other	pro	1	other	2001	
+cypgreek	minaes	0010	emenan	to_me	pro.1:other	pro	1	other	2001	
 cypgreek	minaes	0010	to	the	ln	ln				
 cypgreek	minaes	0010	moron	child	np.h:s	np	h	s	2006	
 cypgreek	minaes	0010	mu	my	rn_pro.1:poss	rn_pro	1	poss	2001	
@@ -251,9 +251,8 @@ cypgreek	minaes	0011	#	#	#ds_ac	#ds_ac
 cypgreek	minaes	0011	inda	what	other	other				
 cypgreek	minaes	0011	kochina	red	other:pred	other		pred		
 cypgreek	minaes	0011	en	be-3PL	cop	cop				
-cypgreek	minaes	0011	jina	that.one.N.PL.NOM	dem_pro:s	dem_pro		s	2003	
+cypgreek	minaes	0011	jina	that_one.N.PL.NOM	dem_pro:s	dem_pro		s	2003	
 cypgreek	minaes	0011	j	and	other	other				
-cypgreek	minaes	0011	0	0_they.PL	rn_pro	rn_pro			2003	
 cypgreek	minaes	0011	#	#	#ds	#ds				
 cypgreek	minaes	0011	emenan	mine	pro.1:other	pro	1	other	2006	
 cypgreek	minaes	0011	inda	what	other	other				
@@ -291,7 +290,7 @@ cypgreek	minaes	0013	etsi	so	other	other
 cypgreek	minaes	0013	0	0_she	0.h:s	0	h	s	2002	
 cypgreek	minaes	0013	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0013	paenni	goes-3SG	v:pred	v		pred		
-cypgreek	minaes	0013	esso	to.home	np:g	np		g	2026	new
+cypgreek	minaes	0013	esso	to_home	np:g	np		g	2026	new
 cypgreek	minaes	0013	tis	her	rn_pro.h:poss	rn_pro	h	poss	2002	
 cypgreek	minaes	0013	#	#	#	#				
 cypgreek	minaes	0013	yati	because	other	other				
@@ -306,7 +305,7 @@ cypgreek	minaes	0014	#	#	##ds	##ds
 cypgreek	minaes	0014	etsi	so	other	other				
 cypgreek	minaes	0015	#	#	##ds	##ds				
 cypgreek	minaes	0015	etsi	so	other	other				
-cypgreek	minaes	0015	kalo	of.course	other	other				
+cypgreek	minaes	0015	kalo	of_course	other	other				
 cypgreek	minaes	0016	#	#	##ds	##ds				
 cypgreek	minaes	0016	malista	yes	other	other				
 cypgreek	minaes	0017	#	#	##ds	##ds				
@@ -319,7 +318,7 @@ cypgreek	minaes	0017	#	#	#ds	#ds
 cypgreek	minaes	0017	0	0_I	0.1:s	0	1	s	2002	
 cypgreek	minaes	0017	enna	will	lv_aux	lv_aux				
 cypgreek	minaes	0017	pao	go-1SG	v:pred	v		pred		
-cypgreek	minaes	0017	spitin	to.home	np:g	np		g		
+cypgreek	minaes	0017	spitin	to_home	np:g	np		g		
 cypgreek	minaes	0017	mu	my	rn_pro.1:poss	rn_pro	1	poss	2002	
 cypgreek	minaes	0018	#	#	##ds	##ds				
 cypgreek	minaes	0018	0	0_you	0.2:s	0	2	s	2002	
@@ -337,14 +336,14 @@ cypgreek	minaes	0019	n	that.MOD	nonindic	nonindic
 cypgreek	minaes	0019	andinaxtis	shake-2SG	v:pred	v		pred		
 cypgreek	minaes	0019	#	#	#ds	#ds				
 cypgreek	minaes	0019	0	0_you	0.2:a	0	2	a	2002	
-cypgreek	minaes	0019	efkar	take.off-2SG	imp_v:pred	imp_v		pred		
+cypgreek	minaes	0019	efkar	take_off-2SG	imp_v:pred	imp_v		pred		
 cypgreek	minaes	0019	ta	the	ln	ln				
 cypgreek	minaes	0019	mandil'a	scarves	np:p	np		p	2022	
 cypgreek	minaes	0019	su	your	rn_pro.2:poss	rn_pro	2	poss	2002	
 cypgreek	minaes	0019	#	#	#ds	#ds				
 cypgreek	minaes	0019	0	0_you	0.2:a	0	2	a	2002	
 cypgreek	minaes	0019	andinakse	shake-2SG	imp_v:pred	imp_v		pred		
-cypgreek	minaes	0019	ta	them	=pro:p	=pro		p	2012	
+cypgreek	minaes	0019	ta	=them	=pro:p	=pro		p	2012	
 cypgreek	minaes	0019	tes	the	ln	ln				
 cypgreek	minaes	0019	pothk'es	aprons	np:dt_p	np		dt_p	2012	
 cypgreek	minaes	0019	su	your	rn_pro.2:poss	rn_pro	2	poss	2002	
@@ -358,7 +357,7 @@ cypgreek	minaes	0019	0	0_you	0.2:a	0	2	a	2002
 cypgreek	minaes	0019	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0019	paris	take-2SG	v:pred	v		pred		
 cypgreek	minaes	0019	tipote	anything	other:p	other		p		
-cypgreek	minaes	0019	sto	to.the	ln	ln				
+cypgreek	minaes	0019	sto	to_the	ln	ln				
 cypgreek	minaes	0019	spitin	house	np:g	np		g	2028	new
 cypgreek	minaes	0019	su	your	rn_pro.2:poss	rn_pro	2	poss	2002	
 cypgreek	minaes	0019	popse	tonight	other	other				
@@ -374,11 +373,11 @@ cypgreek	minaes	0022	#	#	##	##
 cypgreek	minaes	0022	epien	went-3SG	v:pred	v		pred		
 cypgreek	minaes	0022	i	the	ln	ln				
 cypgreek	minaes	0022	jeneka	woman	np.h:s	np	h	s	2002	
-cypgreek	minaes	0022	esso	to.home	np:g	np		g	2024	bridging
+cypgreek	minaes	0022	esso	to_home	np:g	np		g	2024	bridging
 cypgreek	minaes	0022	tis	her	rn_pro.h:poss	rn_pro	h	poss	2002	
 cypgreek	minaes	0023	#	#	##ds	##ds				
 cypgreek	minaes	0023	o	oh	other	other				
-cypgreek	minaes	0023	mamma	mum	np.h:voc	np	h	voc	2002	
+cypgreek	minaes	0023	mamma	Mum	pn_np.h:voc	pn_np	h	voc	2002	
 cypgreek	minaes	0023	0	0_you	0.2:s	0	2	s	2002	
 cypgreek	minaes	0023	yati	why	other	other				
 cypgreek	minaes	0023	eplittikes	washed-2SG	v:pred	v		pred		
@@ -386,7 +385,7 @@ cypgreek	minaes	0023	#	#	#ds.neg	#ds.neg
 cypgreek	minaes	0023	j	and	other	other				
 cypgreek	minaes	0023	0	0_you	0.2:a	0	2	a	2002	
 cypgreek	minaes	0023	en	not	other	other				
-cypgreek	minaes	0023	mas	us	=pro.1:p	=pro	1	p	2003	
+cypgreek	minaes	0023	mas	=us	=pro.1:p	=pro	1	p	2003	
 cypgreek	minaes	0023	eferes	brought-2SG	v:pred	v		pred		
 cypgreek	minaes	0023	#	#	#ds_ac	#ds_ac				
 cypgreek	minaes	0023	0	0_we	0.1:s	0	1	s	2003	
@@ -427,8 +426,8 @@ cypgreek	minaes	0026	e	so	other	other
 cypgreek	minaes	0026	je	and	other	other				
 cypgreek	minaes	0026	pu	that	other	other				
 cypgreek	minaes	0026	0	0_we	0.1:s	0	1	s	2003	
-cypgreek	minaes	0026	pinumen	be.hungry-1PL	v:pred	v		pred		
-cypgreek	minaes	0026	mamma	mum	np.h:voc	np	h	voc	2002	
+cypgreek	minaes	0026	pinumen	be_hungry-1PL	v:pred	v		pred		
+cypgreek	minaes	0026	mamma	Mum	pn_np.h:voc	pn_np	h	voc	2002	
 cypgreek	minaes	0027	#	#	##	##				
 cypgreek	minaes	0027	ei	oh	other	other				
 cypgreek	minaes	0027	mana	mother	np.h:voc	np	h	voc		
@@ -436,7 +435,7 @@ cypgreek	minaes	0027	mu	my	rn_pro.1:poss	rn_pro	1	poss
 cypgreek	minaes	0027	0	0_you	0.2:s	0	2	s	2003	
 cypgreek	minaes	0027	minete	v:pred	imp_v:pred	imp_v		pred		
 cypgreek	minaes	0027	pa	on	adp	adp				
-cypgreek	minaes	0027	stin	to.the	ln	ln				
+cypgreek	minaes	0027	stin	to_the	ln	ln				
 cypgreek	minaes	0027	karkolan	bed	np:other	np		other	2036	new
 cypgreek	minaes	0027	#	#	#	#				
 cypgreek	minaes	0027	je	and	other	other				
@@ -444,8 +443,8 @@ cypgreek	minaes	0027	0	0_I	0.1:s	0	1	s	2002
 cypgreek	minaes	0027	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0027	pao	go-1SG	v:pred	v		pred		
 cypgreek	minaes	0027	dhaame	here	other:g	other		g		
-cypgreek	minaes	0027	stin	to.the	ln	ln				
-cypgreek	minaes	0027	yitonissan	neighbour.woman	np.h:g	np	h	g	2037	new
+cypgreek	minaes	0027	stin	to_the	ln	ln				
+cypgreek	minaes	0027	yitonissan	neighbour_woman	np.h:g	np	h	g	2037	new
 cypgreek	minaes	0027	#	#	#	#				
 cypgreek	minaes	0027	0	0_we	0.1:s	0	1	s	2038	bridging
 cypgreek	minaes	0027	na	that.MOD	nonindic	nonindic				
@@ -460,13 +459,13 @@ cypgreek	minaes	0027	#	#	#	#
 cypgreek	minaes	0027	je	and	other	other				
 cypgreek	minaes	0027	0	0_she	0.h:a	0	h	a	2037	
 cypgreek	minaes	0027	dhoki	gives-3SG	v:pred	v		pred		
-cypgreek	minaes	0027	=mu	=to.me	=pro.1:g	=pro	1	g	2002	
+cypgreek	minaes	0027	=mu	=to_me	=pro.1:g	=pro	1	g	2002	
 cypgreek	minaes	0027	0	0_it	0:p	0		p	2039	
 cypgreek	minaes	0027	#	#	#	#				
 cypgreek	minaes	0027	je	and	other	other				
 cypgreek	minaes	0027	0	0_I	0.1:a	0	1	a	2002	
 cypgreek	minaes	0027	fero	bring-1SG	v:pred	v		pred		
-cypgreek	minaes	0027	=sas	=to.you	=pro.2:g	=pro	2	g	2003	
+cypgreek	minaes	0027	=sas	=to_you	=pro.2:g	=pro	2	g	2003	
 cypgreek	minaes	0027	0	0_it	0:p	0		p	2039	
 cypgreek	minaes	0027	#	#	#	#				
 cypgreek	minaes	0027	je	and	other	other				
@@ -475,7 +474,7 @@ cypgreek	minaes	0027	fate	eat-2PL	v:pred	v		pred
 cypgreek	minaes	0027	0	0_it	0:p	0		p	2039	
 cypgreek	minaes	0028	#	#	##	##				
 cypgreek	minaes	0028	ei	ok	other	other				
-cypgreek	minaes	0028	mamma	mum	np.h:voc	np	h	voc	2002	
+cypgreek	minaes	0028	mamma	Mum	pn_np.h:voc	pn_np	h	voc	2002	
 cypgreek	minaes	0029	#	#	##	##				
 cypgreek	minaes	0029	0	0_she	0.h:a	0	h	a	2002	
 cypgreek	minaes	0029	pk'anni	takes-3SG	v:pred	v		pred		
@@ -491,12 +490,12 @@ cypgreek	minaes	0029	yitonissan	neighbour	np.h:g	np	h	g	2029	bridging
 cypgreek	minaes	0029	#	#	#	#				
 cypgreek	minaes	0029	0	0_she	0.h:s_ds	0	h	s_ds	2002	
 cypgreek	minaes	0029	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0029	=tis	=to.her	=pro.h:g	=pro	h	g	2029	
+cypgreek	minaes	0029	=tis	=to_her	=pro.h:g	=pro	h	g	2029	
 cypgreek	minaes	0029	pi	says-3SG	v:pred	v		pred		
 cypgreek	minaes	0029	#	#	#	#				
 cypgreek	minaes	0029	0	0_she	0.h:a	0	h	a	2002	
 cypgreek	minaes	0029	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0029	=tis	=to.her	=pro.h:g	=pro	h	g	2002	
+cypgreek	minaes	0029	=tis	=to_her	=pro.h:g	=pro	h	g	2002	
 cypgreek	minaes	0029	dhoki	gives-3SG	v:pred	v		pred		
 cypgreek	minaes	0029	enan	a.N	ln	ln				
 cypgreek	minaes	0029	psumin	bread	np:p	np		p	2030	bridging
@@ -527,18 +526,18 @@ cypgreek	minaes	0031	#	#	##ds	##ds
 cypgreek	minaes	0031	xa	ha	other	other				
 cypgreek	minaes	0031	0	0_I	0.1:s	0	1	s	2002	
 cypgreek	minaes	0031	enna	will	lv_aux	lv_aux				
-cypgreek	minaes	0031	mbo	go.in-1SG	v:pred	v		pred		
-cypgreek	minaes	0031	dhamesa	in.here	other:g	other		g	2031	
+cypgreek	minaes	0031	mbo	go_in-1SG	v:pred	v		pred		
+cypgreek	minaes	0031	dhamesa	in_here	other:g	other		g	2031	
 cypgreek	minaes	0031	#	#	#	#				
 cypgreek	minaes	0031	0	0_she	0.h:s_ds	0	h	s_ds	2002	
 cypgreek	minaes	0031	lali	says-3SG	v:pred	v		pred		
 cypgreek	minaes	0032	#	#	##	##				
 cypgreek	minaes	0032	0	0_she	0.h:s	0	h	s	2002	
-cypgreek	minaes	0032	embin	went.in-3SG	v:pred	v		pred		
-cypgreek	minaes	0032	jimesa	in.there	other:g	other		g	2031	
+cypgreek	minaes	0032	embin	went_in-3SG	v:pred	v		pred		
+cypgreek	minaes	0032	jimesa	in_there	other:g	other		g	2031	
 cypgreek	minaes	0033	#	#	##ds	##ds				
-cypgreek	minaes	0033	kalispera	good.evening	other	other				
-cypgreek	minaes	0033	=sas	=to.you	=pro.2:g	=pro	2	g	2002	
+cypgreek	minaes	0033	kalispera	good_evening	other	other				
+cypgreek	minaes	0033	=sas	=to_you	=pro.2:g	=pro	2	g	2002	
 cypgreek	minaes	0034	#	#	##ds	##ds				
 cypgreek	minaes	0034	o	oh	other	other				
 cypgreek	minaes	0034	kalos	well	other	other				
@@ -549,11 +548,11 @@ cypgreek	minaes	0034	os	until	adp	adp
 cypgreek	minaes	0034	dha	here	other:g	other		g	2031	
 cypgreek	minaes	0035	#	#	##ds	##ds				
 cypgreek	minaes	0035	0	0_you	0.2:s	0	2	s	2002	
-cypgreek	minaes	0035	pinas	be.hungry-2SG	v:pred	v		pred		
+cypgreek	minaes	0035	pinas	be_hungry-2SG	v:pred	v		pred		
 cypgreek	minaes	0036	#	#	##ds	##ds				
 cypgreek	minaes	0036	0	0_I	0.1:s	0	1	s	2002	
-cypgreek	minaes	0036	pino	be.hungry-1SG	v:pred	v		pred		
-cypgreek	minaes	0036	kalo	of.course	other	other				
+cypgreek	minaes	0036	pino	be_hungry-1SG	v:pred	v		pred		
+cypgreek	minaes	0036	kalo	of_course	other	other				
 cypgreek	minaes	0037	#	#	##	##				
 cypgreek	minaes	0037	0	0_they	0.h:a	0	h	a	2032	new
 cypgreek	minaes	0037	eokan	gave-3PL	v:pred	v		pred		
@@ -572,7 +571,7 @@ cypgreek	minaes	0039	0	0_I	0.1:a	0	1	a	2002
 cypgreek	minaes	0039	enna	will	lv_aux	lv_aux				
 cypgreek	minaes	0039	=to	=it	=pro:p	=pro		p	2035	bridging
 cypgreek	minaes	0039	paro	take-1SG	v:pred	v		pred		
-cypgreek	minaes	0039	ton	to.the	ln	ln				
+cypgreek	minaes	0039	ton	to_the	ln	ln				
 cypgreek	minaes	0039	moron	children	np.h:g	np	h	g	2003	
 cypgreek	minaes	0039	mu	my	rn_pro.1:poss	rn_pro	1	poss	2002	
 cypgreek	minaes	0040	#	#	##ds	##ds				
@@ -585,12 +584,12 @@ cypgreek	minaes	0040	moron	children	np.h:obl	np	h	obl	2003
 cypgreek	minaes	0040	su	your	rn_pro.2:poss	rn_pro	2	poss	2002	
 cypgreek	minaes	0040	0	0_we	0.1:a	0	1	a	2032	
 cypgreek	minaes	0040	enna	will	lv_aux	lv_aux				
-cypgreek	minaes	0040	=su	=to.you	=pro.2:g	=pro	2	g	2002	
+cypgreek	minaes	0040	=su	=to_you	=pro.2:g	=pro	2	g	2002	
 cypgreek	minaes	0040	dhokumen	give-1PL	v:pred	v		pred		
 cypgreek	minaes	0040	alla	other	other:p	other		p		
 cypgreek	minaes	0041	#	#	##ds	##ds				
 cypgreek	minaes	0041	0	0_you	0.2:a	0	2	a	2002	
-cypgreek	minaes	0041	posa	how.many	other	other				
+cypgreek	minaes	0041	posa	how_many	other	other				
 cypgreek	minaes	0041	mora	children	np.h:p	np	h	p	2003	
 cypgreek	minaes	0041	eshis	have-2SG	v:pred	v		pred		
 cypgreek	minaes	0042	#	#	##ds	##ds				
@@ -613,7 +612,7 @@ cypgreek	minaes	0043	#	#	#ds	#ds
 cypgreek	minaes	0043	je	and	other	other				
 cypgreek	minaes	0043	0	0_you	0.2:a	0	2	a	2002	
 cypgreek	minaes	0043	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0043	=mas	=to.us	=pro.1:g	=pro	1	g	2032	
+cypgreek	minaes	0043	=mas	=to_us	=pro.1:g	=pro	1	g	2032	
 cypgreek	minaes	0043	istorisis	tell-2SG	v:pred	v		pred		
 cypgreek	minaes	0043	kati	something	other:p	other		p		
 cypgreek	minaes	0043	#	#	#ds	#ds				
@@ -634,12 +633,12 @@ cypgreek	minaes	0043	el'es	olives	np:p	np		p	2041	new
 cypgreek	minaes	0043	#	#	#ds	#ds				
 cypgreek	minaes	0043	0	0_you	0.2:a	0	2	a	2002	
 cypgreek	minaes	0043	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0043	=tus	=to.them	=pro.h:g	=pro	h	g	2003	
+cypgreek	minaes	0043	=tus	=to_them	=pro.h:g	=pro	h	g	2003	
 cypgreek	minaes	0043	paris	take-2SG	v:pred	v		pred		
 cypgreek	minaes	0043	#	#	#ds	#ds				
 cypgreek	minaes	0043	0	0_they	0.h:s	0	h	s	2003	
 cypgreek	minaes	0043	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0043	dhipnisun	eat.dinner-3PL	v:pred	v		pred		
+cypgreek	minaes	0043	dhipnisun	eat_dinner-3PL	v:pred	v		pred		
 cypgreek	minaes	0044	#	#	##ds	##ds				
 cypgreek	minaes	0044	o	the	ln	ln				
 cypgreek	minaes	0044	Yennaris	January	np.d:a	np	d	a	2042	unused
@@ -647,28 +646,28 @@ cypgreek	minaes	0044	ekraen	held-3SG	v:pred	v		pred
 cypgreek	minaes	0044	llion	little	ln	ln				
 cypgreek	minaes	0044	xorton	grass	np:p	np		p	2043	new
 cypgreek	minaes	0045	#	#	##ds	##ds				
-cypgreek	minaes	0045	Pos	how	other	other				
+cypgreek	minaes	0045	pos	how	other	other				
 cypgreek	minaes	0045	pai	goes-3SG	v:pred	v		pred		
 cypgreek	minaes	0045	o	the	ln	ln				
 cypgreek	minaes	0045	Yennaris	January	np.d:s	np	d	s	2042	
 cypgreek	minaes	0045	#	#	#	#				
 cypgreek	minaes	0045	0	0_he	0.h:s_ds	0	h	s_ds	2044	bridging
 cypgreek	minaes	0045	lali	says-3SG	v:pred	v		pred		
-cypgreek	minaes	0045	=tis	=to.her	=pro.h:g	=pro	h	g	2002	
+cypgreek	minaes	0045	=tis	=to_her	=pro.h:g	=pro	h	g	2002	
 cypgreek	minaes	0045	#	#	#ds	#ds				
 cypgreek	minaes	0045	0	0_he	0.d:s	0	d	s	2042	
-cypgreek	minaes	0045	areski	is.liked-3SG	psv_v:pred	psv_v		pred		
-cypgreek	minaes	0045	su	=to.you	=pro.2:obl	=pro	2	obl	2002	
+cypgreek	minaes	0045	areski	is_liked-3SG	psv_v:pred	psv_v		pred		
+cypgreek	minaes	0045	su	=to_you	=pro.2:obl	=pro	2	obl	2002	
 cypgreek	minaes	0046	#	#	##ds	##ds				
 cypgreek	minaes	0046	u	oh	other	other				
-cypgreek	minaes	0046	Panayia	Mother.of.God	other	other				
+cypgreek	minaes	0046	Panayia	Mother_of_God	other	other				
 cypgreek	minaes	0046	mu	my	rn_pro.1:poss	rn_pro	1	poss		
 cypgreek	minaes	0047	#	#	##ds.neg	##ds.neg				
 cypgreek	minaes	0047	yati	why	other	other				
 cypgreek	minaes	0047	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0047	men	not	other	other				
-cypgreek	minaes	0047	=mu	=to.me	=pro.1:obl	=pro	1	obl	2002	
-cypgreek	minaes	0047	areski	is.liked-3SG	v:pred	v		pred		
+cypgreek	minaes	0047	=mu	=to_me	=pro.1:obl	=pro	1	obl	2002	
+cypgreek	minaes	0047	areski	is_liked-3SG	v:pred	v		pred		
 cypgreek	minaes	0047	o	the	ln	ln				
 cypgreek	minaes	0047	Yennaris	January	np.d:s	np	d	s	2042	
 cypgreek	minaes	0047	#	#	#ds	#ds				
@@ -686,7 +685,7 @@ cypgreek	minaes	0049	#	#	##ds	##ds
 cypgreek	minaes	0049	o	the	ln	ln				
 cypgreek	minaes	0049	Fevraris	February	np.d:other	np	d	other	2045	
 cypgreek	minaes	0049	enna	will	lv_aux	lv_aux				
-cypgreek	minaes	0049	kuchasun	be.successful-3PL	psv_v:pred	psv_v		pred		
+cypgreek	minaes	0049	kuchasun	be_successful-3PL	psv_v:pred	psv_v		pred		
 cypgreek	minaes	0049	ta	the	ln	ln				
 cypgreek	minaes	0049	psumn'a	breads	np:s	np		s	2047	new
 cypgreek	minaes	0049	#	#	#ds.neg	#ds.neg				
@@ -694,8 +693,8 @@ cypgreek	minaes	0049	0	0_he	0.d:s	0	d	s	2045
 cypgreek	minaes	0049	yati	why	other	other				
 cypgreek	minaes	0049	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0049	men	not	other	other				
-cypgreek	minaes	0049	=m	=to.me	=pro.1:obl	=pro	1	obl	2002	
-cypgreek	minaes	0049	areski	is.liked-3SG	v:pred	v		pred		
+cypgreek	minaes	0049	=m	=to_me	=pro.1:obl	=pro	1	obl	2002	
+cypgreek	minaes	0049	areski	is_liked-3SG	v:pred	v		pred		
 cypgreek	minaes	0050	#	#	##ds	##ds				
 cypgreek	minaes	0050	e	so	other	other				
 cypgreek	minaes	0050	o	the	ln	ln				
@@ -720,7 +719,7 @@ cypgreek	minaes	0052	fisa	blows-3SG	v:pred	v		pred
 cypgreek	minaes	0052	aeras	wind	np:p	np		p	2048	unused
 cypgreek	minaes	0052	#	#	#ds	#ds				
 cypgreek	minaes	0052	je	and	other	other				
-cypgreek	minaes	0052	kuchazun	be.succesful-3PL	v:pred	v		pred		
+cypgreek	minaes	0052	kuchazun	be_succesful-3PL	v:pred	v		pred		
 cypgreek	minaes	0052	ta	the	ln	ln				
 cypgreek	minaes	0052	krittarka	barley	np:s	np		s		
 cypgreek	minaes	0052	#	#	#ds	#ds				
@@ -768,19 +767,19 @@ cypgreek	minaes	0057	Mas	May	np.d:other	np	d	other	2073
 cypgreek	minaes	0058	#	#	##ds	##ds				
 cypgreek	minaes	0058	0	0_he	0.d:a	0	d	a	2073	
 cypgreek	minaes	0058	enna	will	lv_aux	lv_aux				
-cypgreek	minaes	0058	=mas	=to.us	=pro.1:g	=pro	1	g		
+cypgreek	minaes	0058	=mas	=to_us	=pro.1:g	=pro	1	g		
 cypgreek	minaes	0058	feri	brings-3SG	v:pred	v		pred		
 cypgreek	minaes	0058	ghrusomila	apricots	np:p	np		p	2074	new
 cypgreek	minaes	0058	#	#	#ds	#ds				
 cypgreek	minaes	0058	0	0_he	0.d:a	0	d	a	2073	
 cypgreek	minaes	0058	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0058	=mas	=to.us	=pro.1:g	=pro	1	g		
+cypgreek	minaes	0058	=mas	=to_us	=pro.1:g	=pro	1	g		
 cypgreek	minaes	0058	feri	brings-3SG	v:pred	v		pred		
 cypgreek	minaes	0058	agurak'a	cucumbers	np:p	np		p	2075	new
 cypgreek	minaes	0058	#	#	#ds	#ds				
 cypgreek	minaes	0058	0	0_he	0.d:a	0	d	a	2073	
 cypgreek	minaes	0058	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0058	=mas	=to.us	=pro.1:g	=pro	1	g		
+cypgreek	minaes	0058	=mas	=to_us	=pro.1:g	=pro	1	g		
 cypgreek	minaes	0058	feri	brings-3SG	v:pred	v		pred		
 cypgreek	minaes	0058	kolokudhia	courgettes	np:p	np		p	2076	new
 cypgreek	minaes	0058	freska	fresh	ln	ln				
@@ -802,8 +801,8 @@ cypgreek	minaes	0060	na	that.MOD	nonindic	nonindic
 cypgreek	minaes	0060	men	not	other	other				
 cypgreek	minaes	0060	eni	is-3SG	cop	cop				
 cypgreek	minaes	0060	#	#	#ds_rc	#ds_rc				
-cypgreek	minaes	0060	ponna	that.will	lv_aux_other	lv_aux_other				
-cypgreek	minaes	0060	=mas	=to.us	=pro.1:g	=pro	1	g		
+cypgreek	minaes	0060	ponna	that_will	lv_aux_other	lv_aux_other				
+cypgreek	minaes	0060	=mas	=to_us	=pro.1:g	=pro	1	g		
 cypgreek	minaes	0060	feri	brings-3SG	v:pred	v		pred		
 cypgreek	minaes	0060	sika	figs	np:p	np		p	2079	new
 cypgreek	minaes	0060	stafilin	grapes	rn_np	rn_np			2080	new
@@ -821,16 +820,16 @@ cypgreek	minaes	0062	a	ah	other	other
 cypgreek	minaes	0062	o	the	ln	ln				
 cypgreek	minaes	0062	Dhefteroyunis	July	np.d:other	np	d	other	2081	
 cypgreek	minaes	0062	enna	will	lv_aux	lv_aux				
-cypgreek	minaes	0062	vkun	come.out-3PL	v:pred	v		pred		
-cypgreek	minaes	0062	paputsosika	prickly.pears	np:s	np		s	2082	new
+cypgreek	minaes	0062	vkun	come_out-3PL	v:pred	v		pred		
+cypgreek	minaes	0062	paputsosika	prickly_pears	np:s	np		s	2082	new
 cypgreek	minaes	0062	#	#	#ds	#ds				
 cypgreek	minaes	0062	enna	will	lv_aux	lv_aux				
-cypgreek	minaes	0062	vkun	come.out-3PL	v:pred	v		pred		
+cypgreek	minaes	0062	vkun	come_out-3PL	v:pred	v		pred		
 cypgreek	minaes	0062	sika	figs	np:s	np		s	2079	
 cypgreek	minaes	0062	freska	fresh	rn	rn				
 cypgreek	minaes	0062	#	#	#ds	#ds				
 cypgreek	minaes	0062	enna	will	lv_aux	lv_aux				
-cypgreek	minaes	0062	vki	comes.out-3SG	v:pred	v		pred		
+cypgreek	minaes	0062	vki	comes_out-3SG	v:pred	v		pred		
 cypgreek	minaes	0062	stafilin	grapes	np:s	np		s	2080	
 cypgreek	minaes	0062	pattishes	watermelons	rn_np	rn_np			2083	new
 cypgreek	minaes	0063	#	#	##ds	##ds				
@@ -852,7 +851,7 @@ cypgreek	minaes	0065	j	and	other	other
 cypgreek	minaes	0065	o	the	ln	ln				
 cypgreek	minaes	0065	Austos	August	np.d:s	np	d	s	2084	
 cypgreek	minaes	0065	#	#	#ds_ac	#ds_ac				
-cypgreek	minaes	0065	ya	in.order	other	other				
+cypgreek	minaes	0065	ya	in_order	other	other				
 cypgreek	minaes	0065	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0065	sirviri	serves-3SG	v:pred	v		pred		
 cypgreek	minaes	0065	to	the	ln	ln				
@@ -883,13 +882,13 @@ cypgreek	minaes	0068	0	0_it	0.d:a	0	d	a
 cypgreek	minaes	0068	eshi	has-3SG	v:pred	v		pred		
 cypgreek	minaes	0068	stafilin	grapes	np:p	np		p	2080	
 cypgreek	minaes	0069	#	#	##ds	##ds				
-cypgreek	minaes	0069	aresen	be.liked-2SG	v:pred	v		pred		
-cypgreek	minaes	0069	=su	=to.you	=pro.2:obl	=pro	2	obl	2002	
+cypgreek	minaes	0069	aresen	be_liked-2SG	v:pred	v		pred		
+cypgreek	minaes	0069	=su	=to_you	=pro.2:obl	=pro	2	obl	2002	
 cypgreek	minaes	0069	j	too	other	other				
 cypgreek	minaes	0069	o	the	ln	ln				
 cypgreek	minaes	0069	Oxtovris	October	np.d:s	np	d	s	2085	
 cypgreek	minaes	0070	#	#	##ds	##ds				
-cypgreek	minaes	0070	kalo	of.course	other	other				
+cypgreek	minaes	0070	kalo	of_course	other	other				
 cypgreek	minaes	0071	#	#	##ds	##ds				
 cypgreek	minaes	0071	e	so	other	other				
 cypgreek	minaes	0071	o	the	ln	ln				
@@ -900,7 +899,6 @@ cypgreek	minaes	0072	o	the	nc	nc
 cypgreek	minaes	0072	N'ovris	November	nc	nc				
 cypgreek	minaes	0072	k'on	NC	nc	nc				
 cypgreek	minaes	0072	j	and	nc	nc				
-cypgreek	minaes	0072	0	0_you	nc	nc				
 cypgreek	minaes	0072	an	if	nc	nc				
 cypgreek	minaes	0072	to	it.W.ACC	nc	nc				
 cypgreek	minaes	0072	vris	find-2SG	nc	nc				
@@ -920,21 +918,21 @@ cypgreek	minaes	0074	0	0_it	0.d:p	0	d	p
 cypgreek	minaes	0075	#	#	##ds	##ds				
 cypgreek	minaes	0075	pravo	bravo	other	other				
 cypgreek	minaes	0076	#	#	##ds	##ds				
-cypgreek	minaes	0076	aresan	was.liked-3PL	v:pred	v		pred		
-cypgreek	minaes	0076	=su	=to.you	=pro.2:obl	=pro	2	obl	2002	
+cypgreek	minaes	0076	aresan	was_liked-3PL	v:pred	v		pred		
+cypgreek	minaes	0076	=su	=to_you	=pro.2:obl	=pro	2	obl	2002	
 cypgreek	minaes	0076	i	the	ln	ln				
 cypgreek	minaes	0076	minaes	months	np.d:s	np	d	s	2088	bridging
 cypgreek	minaes	0076	uli	all	rn	rn				
 cypgreek	minaes	0077	#	#	##ds	##ds				
 cypgreek	minaes	0077	malista	yes	other	other				
 cypgreek	minaes	0077	0	0_they	0.d:s	0	d	s	2088	
-cypgreek	minaes	0077	aresan	were.liked-3PL	v:pred	v		pred		
-cypgreek	minaes	0077	=mu	=to.me	=pro.1:obl	=pro	1	obl	2002	
-cypgreek	minaes	0077	kalo	of.course	other	other				
+cypgreek	minaes	0077	aresan	were_liked-3PL	v:pred	v		pred		
+cypgreek	minaes	0077	=mu	=to_me	=pro.1:obl	=pro	1	obl	2002	
+cypgreek	minaes	0077	kalo	of_course	other	other				
 cypgreek	minaes	0078	#	#	##	##				
 cypgreek	minaes	0078	0	0_he	0.h:a	0	h	a	2049	bridging
 cypgreek	minaes	0078	edhoken	gave-3SG	v:pred	v		pred		
-cypgreek	minaes	0078	=tis	=to.her	=pro.h:g	=pro	h	g	2002	
+cypgreek	minaes	0078	=tis	=to_her	=pro.h:g	=pro	h	g	2002	
 cypgreek	minaes	0078	tris	three	ln	ln				
 cypgreek	minaes	0078	pittes	pies	np:p	np		p	2052	bridging
 cypgreek	minaes	0078	j	also	other	other				
@@ -944,7 +942,7 @@ cypgreek	minaes	0078	#	#	#	#
 cypgreek	minaes	0078	j	and	other	other				
 cypgreek	minaes	0078	0	0_he	0.h:a	0	h	a	2049	
 cypgreek	minaes	0078	edhoken	gave-3SG	v:pred	v		pred		
-cypgreek	minaes	0078	=tis	=to.her	=pro.h:g	=pro	h	g	2002	
+cypgreek	minaes	0078	=tis	=to_her	=pro.h:g	=pro	h	g	2002	
 cypgreek	minaes	0078	je	and	other	other				
 cypgreek	minaes	0078	ambustan	box	np:p	np		p	2054	new
 cypgreek	minaes	0078	yematin	full	other	other				
@@ -1014,7 +1012,7 @@ cypgreek	minaes	0079	tutin	this	rn	rn
 cypgreek	minaes	0079	#	#	#ds_rc	#ds_rc				
 cypgreek	minaes	0079	pu	that	other	other				
 cypgreek	minaes	0079	0	0_we	0.1:a	0	1	a	2032	
-cypgreek	minaes	0079	=su	=to.you	=pro.2:g	=pro	2	g	2002	
+cypgreek	minaes	0079	=su	=to_you	=pro.2:g	=pro	2	g	2002	
 cypgreek	minaes	0079	dhokamen	gave-1PL	v:pred	v		pred		
 cypgreek	minaes	0079	#	#	#ds	#ds				
 cypgreek	minaes	0079	ambustan	box	np:p	np		p	2054	
@@ -1023,14 +1021,14 @@ cypgreek	minaes	0079	na	that.MOD	nonindic	nonindic
 cypgreek	minaes	0079	=tin	=her	=pro:dt_p	=pro		dt_p	2054	
 cypgreek	minaes	0079	valis	put-2SG	v:pred	v		pred		
 cypgreek	minaes	0079	puka	under	adp	adp				
-cypgreek	minaes	0079	sto	to.the	ln	ln				
+cypgreek	minaes	0079	sto	to_the	ln	ln				
 cypgreek	minaes	0079	maksilarin	pillow	np:g	np		g	2090	bridging
 cypgreek	minaes	0079	su	your	rn_pro.2:poss	rn_pro	2	poss	2002	
 cypgreek	minaes	0079	#	#	#ds	#ds				
 cypgreek	minaes	0079	je	and	other	other				
 cypgreek	minaes	0079	0	0_you	0.2:s	0	2	s	2002	
 cypgreek	minaes	0079	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0079	sikoxis	get.up-2SG	v:pred	v		pred		
+cypgreek	minaes	0079	sikoxis	get_up-2SG	v:pred	v		pred		
 cypgreek	minaes	0079	pu	from	adp	adp				
 cypgreek	minaes	0079	to	the	ln	ln				
 cypgreek	minaes	0079	proin	morning	np:other	np		other		
@@ -1044,7 +1042,7 @@ cypgreek	minaes	0079	su	your	rn_pro.2:poss	rn_pro	2	poss	2002
 cypgreek	minaes	0079	#	#	#ds_ac	#ds_ac				
 cypgreek	minaes	0079	0	0_they	0.h:s	0	h	s	2003	
 cypgreek	minaes	0079	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0079	niftun	wash.face-3PL	v:pred	v		pred		
+cypgreek	minaes	0079	niftun	wash_face-3PL	v:pred	v		pred		
 cypgreek	minaes	0079	#	#	#ds	#ds				
 cypgreek	minaes	0079	je	and	other	other				
 cypgreek	minaes	0079	0	0_you	0.2:a	0	2	a	2002	
@@ -1100,7 +1098,7 @@ cypgreek	minaes	0081	0	0_you	0.2:a	0	2	a	2002
 cypgreek	minaes	0081	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0081	ghorasis	buy-2SG	v:pred	v		pred		
 cypgreek	minaes	0081	psum'a	breads	np:p	np		p	2091	new
-cypgreek	minaes	0081	ton	to.the	ln	ln				
+cypgreek	minaes	0081	ton	to_the	ln	ln				
 cypgreek	minaes	0081	moron	children	np.h:obl	np	h	obl	2003	
 cypgreek	minaes	0081	su	your	rn_pro.2:poss	rn_pro	2	poss	2002	
 cypgreek	minaes	0081	#	#	#ds	#ds				
@@ -1112,15 +1110,15 @@ cypgreek	minaes	0081	#	#	#ds.neg	#ds.neg
 cypgreek	minaes	0081	0	0_they	0.h:s	0	h	s	2003	
 cypgreek	minaes	0081	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0081	men	not	other	other				
-cypgreek	minaes	0081	dhistixun	be.unhappy-3PL	v:pred	v		pred		
+cypgreek	minaes	0081	dhistixun	be_unhappy-3PL	v:pred	v		pred		
 cypgreek	minaes	0082	#	#	##ds	##ds				
 cypgreek	minaes	0082	ate	interjection	other	other				
 cypgreek	minaes	0082	0	0_you	0.2:s	0	2	s	2002	
 cypgreek	minaes	0082	ame	go-2SG	imp_v:pred	imp_v		pred		
-cypgreek	minaes	0082	sto	to.the	ln	ln				
+cypgreek	minaes	0082	sto	to_the	ln	ln				
 cypgreek	minaes	0082	kalon	good	other	other				
 cypgreek	minaes	0083	#	#	##	##				
-cypgreek	minaes	0083	sikonnete	gets.up-3SG	v:pred	v		pred		
+cypgreek	minaes	0083	sikonnete	gets_up-3SG	v:pred	v		pred		
 cypgreek	minaes	0083	i	the	ln	ln				
 cypgreek	minaes	0083	yeneka	woman	np.h:s	np	h	s	2002	
 cypgreek	minaes	0083	#	#	#	#				
@@ -1128,7 +1126,7 @@ cypgreek	minaes	0083	j	and	other	other
 cypgreek	minaes	0083	0	0_she	0.h:s	0	h	s	2002	
 cypgreek	minaes	0083	epien	went-3SG	v:pred	v		pred		
 cypgreek	minaes	0084	#	#	##ds	##ds				
-cypgreek	minaes	0084	mana	mother	np.h:voc	np	h	voc	2002	
+cypgreek	minaes	0084	mana	Mother	pn_np.h:voc	pn_np	h	voc	2002	
 cypgreek	minaes	0084	0	0_you	0.2:s	0	2	s	2002	
 cypgreek	minaes	0084	irtes	came-2SG	v:pred	v		pred		
 cypgreek	minaes	0085	#	#	##ds	##ds				
@@ -1156,7 +1154,7 @@ cypgreek	minaes	0086	tris	three	ln	ln
 cypgreek	minaes	0086	elies	olives	np:other	np		other	2041	
 cypgreek	minaes	0087	#	#	##ds	##ds				
 cypgreek	minaes	0087	esuni	you	pro.2:other	pro	2	other	2002	
-cypgreek	minaes	0087	mana	mother	np.h:other	np	h	other	2002	
+cypgreek	minaes	0087	mana	Mother	pn_np.h:voc	pn_np	h	voc	2002	
 cypgreek	minaes	0088	#	#	##ds.neg	##ds.neg				
 cypgreek	minaes	0088	eyoni	I	pro.1:a	pro	1	a	2002	
 cypgreek	minaes	0088	et	not	other	other				
@@ -1166,7 +1164,7 @@ cypgreek	minaes	0088	mana	mother	np.h:voc	np	h	voc
 cypgreek	minaes	0088	mu	my	rn_pro.1:poss	rn_pro	1	poss		
 cypgreek	minaes	0089	#	#	##ds	##ds				
 cypgreek	minaes	0089	oi	no	other	other				
-cypgreek	minaes	0089	mamma	mum	np.h:voc	np	h	voc	2002	
+cypgreek	minaes	0089	mamma	Mum	pn_np.h:voc	pn_np	h	voc	2002	
 cypgreek	minaes	0089	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0089	fais	eat-2SG	v:pred	v		pred		
 cypgreek	minaes	0089	0	0_it	0:p	0		p	2092	
@@ -1181,7 +1179,7 @@ cypgreek	minaes	0090	ta	the	ln	ln
 cypgreek	minaes	0090	tria	three	num_np:dt_a	num_np		dt_a	2003	
 cypgreek	minaes	0090	po	each	other	other				
 cypgreek	minaes	0090	nan	a.N	ln	ln				
-cypgreek	minaes	0090	kommatuin	little.piece	np:p	np		p	2055	bridging
+cypgreek	minaes	0090	kommatuin	little_piece	np:p	np		p	2055	bridging
 cypgreek	minaes	0090	#	#	#	#				
 cypgreek	minaes	0090	j	and	other	other				
 cypgreek	minaes	0090	0	0_they	0.h:a	0	h	a	2003	
@@ -1195,14 +1193,14 @@ cypgreek	minaes	0090	mian	one	ln	ln
 cypgreek	minaes	0090	el'an	olive	np:p	np		p	2056	bridging
 cypgreek	minaes	0091	#	#	##ds	##ds				
 cypgreek	minaes	0091	fae	eat-2SG	imp_v:pred	imp_v		pred		
-cypgreek	minaes	0091	mamma	mum	np.h:voc	np	h	voc	2002	
+cypgreek	minaes	0091	mamma	Mum	pn_np.h:voc	pn_np	h	voc	2002	
 cypgreek	minaes	0091	j	and	other	other				
 cypgreek	minaes	0091	esu	you.S.NOM	pro.2:s	pro	2	s	2002	
 cypgreek	minaes	0091	#	#	#ds.neg	#ds.neg				
 cypgreek	minaes	0091	yati	why	other	other				
 cypgreek	minaes	0091	esu	you	pro.2:s	pro	2	s	2002	
 cypgreek	minaes	0091	en	not	other	other				
-cypgreek	minaes	0091	pinas	be.hungry-2SG	v:pred	v		pred		
+cypgreek	minaes	0091	pinas	be_hungry-2SG	v:pred	v		pred		
 cypgreek	minaes	0092	#	#	##	##				
 cypgreek	minaes	0092	efaen	ate-3SG	v:pred	v		pred		
 cypgreek	minaes	0092	0	0_it	0:p	0		p		
@@ -1217,7 +1215,7 @@ cypgreek	minaes	0093	ate	interjection	other	other
 cypgreek	minaes	0093	mora	children	np.h:voc	np	h	voc	2003	
 cypgreek	minaes	0093	mu	my	rn_pro.1:poss	rn_pro	1	poss	2002	
 cypgreek	minaes	0093	0	0_you	0.2:s	0	2	s	2003	
-cypgreek	minaes	0093	sikute	get.up-2PL	imp_v:pred	imp_v		pred		
+cypgreek	minaes	0093	sikute	get_up-2PL	imp_v:pred	imp_v		pred		
 cypgreek	minaes	0093	pano	up	other	other				
 cypgreek	minaes	0093	#	#	#ds	#ds				
 cypgreek	minaes	0093	0	0_you	0.2:a	0	2	a	2003	
@@ -1234,7 +1232,7 @@ cypgreek	minaes	0093	is	to	adp	adp
 cypgreek	minaes	0093	tin	the	ln	ln				
 cypgreek	minaes	0093	dhinamin	power	np:other	np		other		
 cypgreek	minaes	0093	tu	the	ln	ln				
-cypgreek	minaes	0093	Theu	God	rn_np.h:poss	rn_np	h	poss		
+cypgreek	minaes	0093	theu	god	rn_np.h:poss	rn_np	h	poss		
 cypgreek	minaes	0093	#	#	#ds	#ds				
 cypgreek	minaes	0093	j	and	other	other				
 cypgreek	minaes	0093	irten	came-3SG	v:pred	v		pred		
@@ -1245,7 +1243,7 @@ cypgreek	minaes	0093	pekk'a	children	np.h:voc	np	h	voc	2003
 cypgreek	minaes	0093	mu	my	rn_pro.1:poss	rn_pro	1	poss	2002	
 cypgreek	minaes	0094	#	#	##ds	##ds				
 cypgreek	minaes	0094	oi	no	other	other				
-cypgreek	minaes	0094	mamma	mum	np.h:voc	np	h	voc	2002	
+cypgreek	minaes	0094	mamma	Mum	pn_np.h:voc	pn_np	h	voc	2002	
 cypgreek	minaes	0094	pu	each	other	other				
 cypgreek	minaes	0094	dheka	ten	num_np:p	num_np		p	2094	bridging
 cypgreek	minaes	0094	0	0_we	0.1:a	0	1	a	2003	
@@ -1261,7 +1259,7 @@ cypgreek	minaes	0095	mora	children	np.h:s	np	h	s	2003
 cypgreek	minaes	0095	#	#	#	#				
 cypgreek	minaes	0095	emetan'asen	repented-3SG	v:pred	v		pred		
 cypgreek	minaes	0095	je	too	other	other				
-cypgreek	minaes	0095	jini	that.one	dem_pro.h:s	dem_pro	h	s	2002	
+cypgreek	minaes	0095	jini	that_one	dem_pro.h:s	dem_pro	h	s	2002	
 cypgreek	minaes	0095	#	#	#	#				
 cypgreek	minaes	0095	0	0_they	0.h:s	0	h	s	2057	bridging
 cypgreek	minaes	0095	eppesan	lied-3PL	v:pred	v		pred		
@@ -1271,25 +1269,25 @@ cypgreek	minaes	0096	j	and	other	other
 cypgreek	minaes	0096	eppesen	fell-3SG	v:pred	v		pred		
 cypgreek	minaes	0096	to	the	ln	ln				
 cypgreek	minaes	0096	fos	light	np:s	np		s		
-cypgreek	minaes	0096	xame	on.the.ground	other:g	other		g		
+cypgreek	minaes	0096	xame	on_the_ground	other:g	other		g		
 cypgreek	minaes	0096	#	#	#ds	#ds				
 cypgreek	minaes	0096	0	0_you	0.2:s	0	2	s	2003	
-cypgreek	minaes	0096	Sikute	get.up-2PL	imp_v:pred	imp_v		pred		
+cypgreek	minaes	0096	sikute	get_up-2PL	imp_v:pred	imp_v		pred		
 cypgreek	minaes	0096	mana	mother	np.h:voc	np	h	voc		
 cypgreek	minaes	0096	mu	my	rn_pro.1:poss	rn_pro	1	poss		
 cypgreek	minaes	0096	pano	up	other	other				
 cypgreek	minaes	0096	#	#	#ds	#ds				
 cypgreek	minaes	0096	0	0_you	0.2:s	0	2	s	2003	
-cypgreek	minaes	0096	sikute	get.up-2PL	imp_v:pred	imp_v		pred		
+cypgreek	minaes	0096	sikute	get_up-2PL	imp_v:pred	imp_v		pred		
 cypgreek	minaes	0096	pano	up	other	other				
 cypgreek	minaes	0096	#	#	#ds	#ds				
 cypgreek	minaes	0096	0	0_you	0.2:s	0	2	s	2003	
 cypgreek	minaes	0096	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0096	niftite	wash.face-2PL	v:pred	v		pred		
+cypgreek	minaes	0096	niftite	wash_face-2PL	v:pred	v		pred		
 cypgreek	minaes	0096	#	#	#ds	#ds				
 cypgreek	minaes	0096	0	0_you	0.2:s	0	2	s	2003	
 cypgreek	minaes	0096	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0096	sastite	get.ready-2PL	v:pred	v		pred		
+cypgreek	minaes	0096	sastite	get_ready-2PL	v:pred	v		pred		
 cypgreek	minaes	0096	#	#	#ds	#ds				
 cypgreek	minaes	0096	je	and	other	other				
 cypgreek	minaes	0096	0	0_you	0.2:s	0	2	s	2003	
@@ -1305,7 +1303,7 @@ cypgreek	minaes	0096	xriman	money	np:p	np		p	2095	bridging
 cypgreek	minaes	0096	#	#	#ds	#ds				
 cypgreek	minaes	0096	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0096	0	0_I	0.1:a	0	1	a	2002	
-cypgreek	minaes	0096	=sas	=to.you	=pro.2:obl	=pro	2	obl	2003	
+cypgreek	minaes	0096	=sas	=to_you	=pro.2:obl	=pro	2	obl	2003	
 cypgreek	minaes	0096	ghoraso	buy-1SG	v:pred	v		pred		
 cypgreek	minaes	0096	psumn'a	breads	np:p	np		p	2091	
 cypgreek	minaes	0096	#	#	#ds_ac	#ds_ac				
@@ -1315,20 +1313,20 @@ cypgreek	minaes	0096	0	0_them	0:p	0		p	2091
 cypgreek	minaes	0096	fate	eat-2PL	v:pred	v		pred		
 cypgreek	minaes	0097	#	#	##ds	##ds				
 cypgreek	minaes	0097	malista	yes	other	other				
-cypgreek	minaes	0097	mamma	mum	np.h:voc	np	h	voc	2002	
+cypgreek	minaes	0097	mamma	Mum	pn_np.h:voc	pn_np	h	voc	2002	
 cypgreek	minaes	0098	#	#	##	##				
-cypgreek	minaes	0098	esikoxikan	got.up-3PL	v:pred	v		pred		
+cypgreek	minaes	0098	esikoxikan	got_up-3PL	v:pred	v		pred		
 cypgreek	minaes	0098	ta	the	ln	ln				
 cypgreek	minaes	0098	mora	children	np.h:s	np	h	s	2003	
 cypgreek	minaes	0098	#	#	#	#				
 cypgreek	minaes	0098	0	0_they	0.h:s	0	h	s	2003	
-cypgreek	minaes	0098	eniftikan	washed.face-3PL	v:pred	v		pred		
+cypgreek	minaes	0098	eniftikan	washed_face-3PL	v:pred	v		pred		
 cypgreek	minaes	0098	#	#	#	#				
 cypgreek	minaes	0098	0	0_they	0.h:s	0	h	s	2003	
-cypgreek	minaes	0098	extenistikan	combed.myself-3PL	v:pred	v		pred		
+cypgreek	minaes	0098	extenistikan	combed_myself-3PL	v:pred	v		pred		
 cypgreek	minaes	0098	#	#	#	#				
 cypgreek	minaes	0098	0	0_they	0.h:s	0	h	s	2003	
-cypgreek	minaes	0098	estaxikan	stood.up-3PL	v:pred	v		pred		
+cypgreek	minaes	0098	estaxikan	stood_up-3PL	v:pred	v		pred		
 cypgreek	minaes	0098	#	#	#	#				
 cypgreek	minaes	0098	0	0_they	0.h:s	0	h	s	2003	
 cypgreek	minaes	0098	emetan'asan	repented-3PL	v:pred	v		pred		
@@ -1344,7 +1342,7 @@ cypgreek	minaes	0098	oi	not	other	other
 cypgreek	minaes	0098	pu	each	other	other				
 cypgreek	minaes	0098	mian	one	num_np:other	num_np		other		
 cypgreek	minaes	0098	je	and	other	other				
-cypgreek	minaes	0098	jini	that.one	dem_pro.h:other	dem_pro	h	other		
+cypgreek	minaes	0098	jini	that_one	dem_pro.h:other	dem_pro	h	other		
 cypgreek	minaes	0098	mazin	together	other	other				
 cypgreek	minaes	0099	#	#	##	##				
 cypgreek	minaes	0099	0	0_they	0.h:a	0	h	a	2003	
@@ -1356,9 +1354,9 @@ cypgreek	minaes	0099	lires	pound	np:obl	np		obl
 cypgreek	minaes	0099	xrises	golden	rn	rn				
 cypgreek	minaes	0100	#	#	##ds	##ds				
 cypgreek	minaes	0100	e	oh	other	other				
-cypgreek	minaes	0100	mamma	mum	np.h:voc	np	h	voc	2002	
+cypgreek	minaes	0100	mamma	Mum	pn_np.h:voc	pn_np	h	voc	2002	
 cypgreek	minaes	0100	emis	we	pro.1:s	pro	1	s	2003	
-cypgreek	minaes	0100	epinasamen	was.hungry-1PL	v:pred	v		pred		
+cypgreek	minaes	0100	epinasamen	was_hungry-1PL	v:pred	v		pred		
 cypgreek	minaes	0101	#	#	##ds	##ds				
 cypgreek	minaes	0101	malista	ok	other	other				
 cypgreek	minaes	0101	mana	mother	np.h:voc	np	h	voc		
@@ -1368,17 +1366,17 @@ cypgreek	minaes	0101	0	0_I	0.1:s	0	1	s	2002
 cypgreek	minaes	0101	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0101	pao	go-1SG	v:pred	v		pred		
 cypgreek	minaes	0101	dhame	here	other:g	other		g		
-cypgreek	minaes	0101	stin	to.the	ln	ln				
-cypgreek	minaes	0101	yitonissan	neighbour.lady	np.h:g	np	h	g	2029	
+cypgreek	minaes	0101	stin	to_the	ln	ln				
+cypgreek	minaes	0101	yitonissan	neighbour_lady	np.h:g	np	h	g	2029	
 cypgreek	minaes	0101	mas	our	rn_pro.1:poss	rn_pro	1	poss	2057	
 cypgreek	minaes	0101	#	#	#ds_ac	#ds_ac				
 cypgreek	minaes	0101	0	0_she	0.h:a	0	h	a	2029	
 cypgreek	minaes	0101	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0101	=mas	=to.us	=pro.1:g	=pro	1	g	2057	
+cypgreek	minaes	0101	=mas	=to_us	=pro.1:g	=pro	1	g	2057	
 cypgreek	minaes	0101	dhoki	gives-3SG	v:pred	v		pred		
 cypgreek	minaes	0101	enan	a.N	ln	ln				
 cypgreek	minaes	0101	psumin	bread	np:p	np		p	2096	new
-cypgreek	minaes	0101	dhanikon	on.loan	other	other				
+cypgreek	minaes	0101	dhanikon	on_loan	other	other				
 cypgreek	minaes	0101	#	#	#ds_ac	#ds_ac				
 cypgreek	minaes	0101	je	and	other	other				
 cypgreek	minaes	0101	eyo	I	pro.1:s	pro	1	s	2002	
@@ -1392,7 +1390,7 @@ cypgreek	minaes	0101	sitarin	wheat	np:p	np		p	2097	new
 cypgreek	minaes	0101	#	#	#ds_ac	#ds_ac				
 cypgreek	minaes	0101	0	0_I	0.1:a	0	1	a	2002	
 cypgreek	minaes	0101	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0101	=sas	=to.you	=pro.2:obl	=pro	2	obl	2003	
+cypgreek	minaes	0101	=sas	=to_you	=pro.2:obl	=pro	2	obl	2003	
 cypgreek	minaes	0101	0	0_it	0:p	0		p	2097	
 cypgreek	minaes	0101	leso	grind-1SG	v:pred	v		pred		
 cypgreek	minaes	0101	#	#	#ds	#ds				
@@ -1406,13 +1404,13 @@ cypgreek	minaes	0102	i	the	ln	ln
 cypgreek	minaes	0102	yeneka	woman	np.h:s	np	h	s	2002	
 cypgreek	minaes	0103	#	#	##ds	##ds				
 cypgreek	minaes	0103	kori	girl	np.h:voc	np	h	voc	2029	
-cypgreek	minaes	0103	yitonissa	neighbour.lady	np.h:voc	np	h	voc	2029	
+cypgreek	minaes	0103	yitonissa	neighbour_lady	np.h:voc	np	h	voc	2029	
 cypgreek	minaes	0103	0	0_I	0.1:s	0	1	s	2002	
 cypgreek	minaes	0103	parakalo	PLead-1SG	v:pred	v		pred		
 cypgreek	minaes	0103	#	#	#ds	#ds				
 cypgreek	minaes	0103	0	0_you	0.2:a	0	2	a	2029	
 cypgreek	minaes	0103	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0103	=mu	=to.me	=pro.1:g	=pro	1	g	2002	
+cypgreek	minaes	0103	=mu	=to_me	=pro.1:g	=pro	1	g	2002	
 cypgreek	minaes	0103	okis	give-2SG	v:pred	v		pred		
 cypgreek	minaes	0103	enan	a.N	ln	ln				
 cypgreek	minaes	0103	psumin	bread	np:p	np		p	2096	
@@ -1426,7 +1424,7 @@ cypgreek	minaes	0103	sitarin	wheat	np:p	np		p	2097
 cypgreek	minaes	0103	#	#	#ds	#ds				
 cypgreek	minaes	0103	0	0_you	0.2:a	0	2	a	2029	
 cypgreek	minaes	0103	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0103	=mu	=to.me	=pro.1:obl	=pro	1	obl	2002	
+cypgreek	minaes	0103	=mu	=to_me	=pro.1:obl	=pro	1	obl	2002	
 cypgreek	minaes	0103	pulisis	sell-2SG	v:pred	v		pred		
 cypgreek	minaes	0103	tria	three	ln	ln				
 cypgreek	minaes	0103	kila	kilos	np:p	np		p	2098	bridging
@@ -1445,19 +1443,19 @@ cypgreek	minaes	0105	ta	the	ln	ln
 cypgreek	minaes	0105	rial'a	money	np:dt_p	np		dt_p	2090	
 cypgreek	minaes	0105	0	0_I	0.1:a	0	1	a	2002	
 cypgreek	minaes	0105	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0105	=su	=to.you	=pro.2:g	=pro	2	g	2029	
+cypgreek	minaes	0105	=su	=to_you	=pro.2:g	=pro	2	g	2029	
 cypgreek	minaes	0105	=ta	=them	=pro:p	=pro		p	2090	
 cypgreek	minaes	0105	oko	give-1SG	v:pred	v		pred		
 cypgreek	minaes	0106	#	#	##	##				
 cypgreek	minaes	0106	0	0_she	0.h:a	0	h	a	2029	
 cypgreek	minaes	0106	edhoken	gave-3SG	v:pred	v		pred		
-cypgreek	minaes	0106	=tis	=to.her	=pro.h:g	=pro	h	g	2002	
+cypgreek	minaes	0106	=tis	=to_her	=pro.h:g	=pro	h	g	2002	
 cypgreek	minaes	0106	enan	a.N	ln	ln				
 cypgreek	minaes	0106	psumin	bread	np:p	np		p	2060	bridging
 cypgreek	minaes	0106	#	#	#	#				
 cypgreek	minaes	0106	0	0_she	0.h:a	0	h	a	2029	
 cypgreek	minaes	0106	edhoken	gave-3SG	v:pred	v		pred		
-cypgreek	minaes	0106	=tis	=to.her	=pro.h:g	=pro	h	g	2002	
+cypgreek	minaes	0106	=tis	=to_her	=pro.h:g	=pro	h	g	2002	
 cypgreek	minaes	0106	je	too	other	other				
 cypgreek	minaes	0106	tria	three	ln	ln				
 cypgreek	minaes	0106	kila	kilos	ln	ln				
@@ -1466,7 +1464,7 @@ cypgreek	minaes	0107	#	#	##	##
 cypgreek	minaes	0107	epien	went-3SG	v:pred	v		pred		
 cypgreek	minaes	0107	i	the	ln	ln				
 cypgreek	minaes	0107	yeneka	woman	np.h:s	np	h	s	2002	
-cypgreek	minaes	0107	esso	to.home	np:g	np		g		
+cypgreek	minaes	0107	esso	to_home	np:g	np		g		
 cypgreek	minaes	0107	#	#	#	#				
 cypgreek	minaes	0107	0	0_she	0.h:a	0	h	a	2002	
 cypgreek	minaes	0107	emirasen	distributed-3SG	v:pred	v		pred		
@@ -1480,7 +1478,7 @@ cypgreek	minaes	0107	efaasin	ate-3SG	v:pred	v		pred
 cypgreek	minaes	0107	0	0_it	0:p	0		p	2060	
 cypgreek	minaes	0107	#	#	#	#				
 cypgreek	minaes	0107	0	0_she	0.h:s	0	h	s	2002	
-cypgreek	minaes	0107	estaxin	got.up-3SG	v:pred	v		pred		
+cypgreek	minaes	0107	estaxin	got_up-3SG	v:pred	v		pred		
 cypgreek	minaes	0107	#	#	#	#				
 cypgreek	minaes	0107	0	0_she	0.h:a	0	h	a	2002	
 cypgreek	minaes	0107	eplinnen	washed-3SG	v:pred	v		pred		
@@ -1490,7 +1488,7 @@ cypgreek	minaes	0107	0	0_she	0.h:a	0	h	a	2002
 cypgreek	minaes	0107	aplosen	spread-3SG	v:pred	v		pred		
 cypgreek	minaes	0107	=to	=it	=pro:p	=pro		p	2061	
 cypgreek	minaes	0107	pa	on	adp	adp				
-cypgreek	minaes	0107	stes	to.the	ln	ln				
+cypgreek	minaes	0107	stes	to_the	ln	ln				
 cypgreek	minaes	0107	sakkulles	bags	np:g	np		g	2062	new
 cypgreek	minaes	0107	#	#	#	#				
 cypgreek	minaes	0107	irten	came-3SG	v:pred	v		pred		
@@ -1521,7 +1519,7 @@ cypgreek	minaes	0110	oi	no	other	other
 cypgreek	minaes	0110	0	0_you	0.2:a	0	2	a	2001	
 cypgreek	minaes	0110	arota	ask-2SG	v:pred	v		pred		
 cypgreek	minaes	0110	tin	the	ln	ln				
-cypgreek	minaes	0110	yitonissan	neighbour.lady	np.h:p	np	h	p	2029	
+cypgreek	minaes	0110	yitonissan	neighbour_lady	np.h:p	np	h	p	2029	
 cypgreek	minaes	0110	mu	my	rn_pro.1:poss	rn_pro	1	poss	2002	
 cypgreek	minaes	0110	#	#	#ds	#ds				
 cypgreek	minaes	0110	0	0_you	0.2:s	0	2	s	2001	
@@ -1534,7 +1532,7 @@ cypgreek	minaes	0110	=t	=it	=pro:p	=pro		p	2061
 cypgreek	minaes	0110	aghorasa	bought-2SG	v:pred	v		pred		
 cypgreek	minaes	0110	pu	from	adp	adp				
 cypgreek	minaes	0110	tin	the	ln	ln				
-cypgreek	minaes	0110	yitonissan	neighbour.lady	np.h:obl	np	h	obl	2029	
+cypgreek	minaes	0110	yitonissan	neighbour_lady	np.h:obl	np	h	obl	2029	
 cypgreek	minaes	0110	mu	my	rn_pro.1:poss	rn_pro	1	poss	2002	
 cypgreek	minaes	0110	to	the	ln	ln				
 cypgreek	minaes	0110	sitarin	wheat	np:dt_p	np		dt_p	2061	
@@ -1574,7 +1572,7 @@ cypgreek	minaes	0112	to	the	ln	ln
 cypgreek	minaes	0112	sitarin	wheat	np:p	np		p	2061	
 cypgreek	minaes	0113	#	#	##ds	##ds				
 cypgreek	minaes	0113	0	0_you	0.2:s	0	2	s	2001	
-cypgreek	minaes	0113	Akuse	listen-2SG	imp_v:pred	imp_v		pred		
+cypgreek	minaes	0113	akuse	listen-2SG	imp_v:pred	imp_v		pred		
 cypgreek	minaes	0113	dha	here	other	other				
 cypgreek	minaes	0114	#	#	##ds	##ds				
 cypgreek	minaes	0114	extes	yesterday	other	other				
@@ -1602,7 +1600,7 @@ cypgreek	minaes	0114	ivra	found-1SG	v:pred	v		pred
 cypgreek	minaes	0114	ta	the	ln	ln				
 cypgreek	minaes	0114	mora	children	np.h:p	np	h	p	2003	
 cypgreek	minaes	0114	mu	my	rn_pro.1:poss	rn_pro	1	poss	2002	
-cypgreek	minaes	0114	stin	to.the	ln	ln				
+cypgreek	minaes	0114	stin	to_the	ln	ln				
 cypgreek	minaes	0114	karkolan	bed	np:l	np		l	2036	
 cypgreek	minaes	0114	#	#	#ds	#ds				
 cypgreek	minaes	0114	j	and	other	other				
@@ -1623,10 +1621,10 @@ cypgreek	minaes	0114	fasin	eat-3PL	v:pred	v		pred
 cypgreek	minaes	0115	#	#	##ds	##ds				
 cypgreek	minaes	0115	0	0_I	0.1:s	0	1	s	2002	
 cypgreek	minaes	0115	embika	entered-1SG	v:pred	v		pred		
-cypgreek	minaes	0115	esso	to.home	np:g	np		g		
+cypgreek	minaes	0115	esso	to_home	np:g	np		g		
 cypgreek	minaes	0116	#	#	##ds	##ds				
 cypgreek	minaes	0116	o	oh	other	other				
-cypgreek	minaes	0116	mamma	mum	np.h:voc	np	h	voc	2002	
+cypgreek	minaes	0116	mamma	Mum	pn_np.h:voc	pn_np	h	voc	2002	
 cypgreek	minaes	0116	0	0_you	0.2:a	0	2	a	2002	
 cypgreek	minaes	0116	andinakses	shook-3SG	v:pred	v		pred		
 cypgreek	minaes	0116	tin	the	ln	ln				
@@ -1655,41 +1653,41 @@ cypgreek	minaes	0118	etsi	so	other	other
 cypgreek	minaes	0118	0	0_it	0:p	0		p		
 cypgreek	minaes	0118	exelisen	wanted-3SG	v:pred	v		pred		
 cypgreek	minaes	0119	#	#	##ds	##ds				
-cypgreek	minaes	0119	E	so	other	other				
+cypgreek	minaes	0119	e	so	other	other				
 cypgreek	minaes	0119	0	0_I	0.1:s_ds	0	1	s_ds	2002	
 cypgreek	minaes	0119	ipun	said-1SG	v:pred	v		pred		
-cypgreek	minaes	0119	=tus	=to.them	=pro.h:g	=pro	h	g	2003	
+cypgreek	minaes	0119	=tus	=to_them	=pro.h:g	=pro	h	g	2003	
 cypgreek	minaes	0119	#	#	#ds	#ds				
 cypgreek	minaes	0119	0	0_you	0.2:s	0	2	s	2003	
 cypgreek	minaes	0119	katsete	sit-2PL	imp_v:pred	imp_v		pred		
 cypgreek	minaes	0119	mana	mother	np.h:voc	np	h	voc		
 cypgreek	minaes	0119	mu	my	rn_pro.1:poss	rn_pro	1	poss		
 cypgreek	minaes	0119	mes	in	adp	adp				
-cypgreek	minaes	0119	stin	to.the	ln	ln				
+cypgreek	minaes	0119	stin	to_the	ln	ln				
 cypgreek	minaes	0119	karkolan	bed	np:g	np		g	2036	
 cypgreek	minaes	0119	#	#	#ds	#ds				
 cypgreek	minaes	0119	0	0_I	0.1:s	0	1	s	2002	
 cypgreek	minaes	0119	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0119	pao	go-1SG	v:pred	v		pred		
 cypgreek	minaes	0119	daame	here	other:g	other		g		
-cypgreek	minaes	0119	stin	to.the	ln	ln				
-cypgreek	minaes	0119	yitonissan	neighbour.lady	np:g	np		g	2029	
+cypgreek	minaes	0119	stin	to_the	ln	ln				
+cypgreek	minaes	0119	yitonissan	neighbour_lady	np:g	np		g	2029	
 cypgreek	minaes	0119	#	#	#ds_ac	#ds_ac				
 cypgreek	minaes	0119	0	0_I	0.1:s_ds	0	1	s_ds	2002	
 cypgreek	minaes	0119	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0119	=tis	=to.her	=pro.h:g	=pro	h	g	2029	
+cypgreek	minaes	0119	=tis	=to_her	=pro.h:g	=pro	h	g	2029	
 cypgreek	minaes	0119	po	say-1SG	v:pred	v		pred		
 cypgreek	minaes	0119	#	#	#ds	#ds				
 cypgreek	minaes	0119	0	0_she	0.h:a	0	h	a	2029	
 cypgreek	minaes	0119	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0119	=mu	=to.me	=pro.1:g	=pro	1	g	2002	
+cypgreek	minaes	0119	=mu	=to_me	=pro.1:g	=pro	1	g	2002	
 cypgreek	minaes	0119	oki	gives-3SG	v:pred	v		pred		
 cypgreek	minaes	0119	enan	a.N	ln	ln				
 cypgreek	minaes	0119	psumin	bread	np:p	np		p	2030	
 cypgreek	minaes	0119	#	#	#ds	#ds				
 cypgreek	minaes	0119	0	0_I	0.1:a	0	1	a	2002	
 cypgreek	minaes	0119	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0119	=sas	=to.you	=pro.2:g	=pro	2	g	2003	
+cypgreek	minaes	0119	=sas	=to_you	=pro.2:g	=pro	2	g	2003	
 cypgreek	minaes	0119	0	0_it	0:p	0		p	2030	
 cypgreek	minaes	0119	fero	bring-1SG	v:pred	v		pred		
 cypgreek	minaes	0119	#	#	#ds	#ds				
@@ -1702,8 +1700,8 @@ cypgreek	minaes	0120	andis	instead	other	other
 cypgreek	minaes	0120	0	0_I	0.1:s	0	1	s	2002	
 cypgreek	minaes	0120	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0120	pao	go-1SG	v:pred	v		pred		
-cypgreek	minaes	0120	stin	to.the	ln	ln				
-cypgreek	minaes	0120	yitonissan	neighbour.lady	np.h:g	np	h	g	2029	
+cypgreek	minaes	0120	stin	to_the	ln	ln				
+cypgreek	minaes	0120	yitonissan	neighbour_lady	np.h:g	np	h	g	2029	
 cypgreek	minaes	0120	mu	my	rn_pro.1:poss	rn_pro	1	poss	2002	
 cypgreek	minaes	0120	#	#	#ds_ac	#ds_ac				
 cypgreek	minaes	0120	0	0_I	0.1:a	0	1	a	2002	
@@ -1717,7 +1715,7 @@ cypgreek	minaes	0120	makria	far	other	other
 cypgreek	minaes	0120	#	#	#ds_ac	#ds_ac				
 cypgreek	minaes	0120	0	0_I	0.1:s	0	1	s	2002	
 cypgreek	minaes	0120	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0120	xaxo	get.lost-1SG	v:pred	v		pred		
+cypgreek	minaes	0120	xaxo	get_lost-1SG	v:pred	v		pred		
 cypgreek	minaes	0121	#	#	#ds_ac	#ds_ac				
 cypgreek	minaes	0121	san	as	other	other				
 cypgreek	minaes	0121	0	0_I	0.1:s	0	1	s	2002	
@@ -1741,11 +1739,11 @@ cypgreek	minaes	0121	j	and	other	other
 cypgreek	minaes	0121	0	0_they	0.h:s	0	h	s	2032	
 cypgreek	minaes	0121	ekathundan	sat-3PL	v:pred	v		pred		
 cypgreek	minaes	0122	#	#	##ds	##ds				
-cypgreek	minaes	0122	Kalispera	good.evening	other	other				
+cypgreek	minaes	0122	Kalispera	good_evening	other	other				
 cypgreek	minaes	0122	pathk'a	children	np.h:voc	np	h	voc		
 cypgreek	minaes	0122	0	0_I	0.1:s_ds	0	1	s_ds	2002	
 cypgreek	minaes	0122	ipun	said-1SG	v:pred	v		pred		
-cypgreek	minaes	0122	=tus	=to.them	=pro.h:g	=pro	h	g	2032	
+cypgreek	minaes	0122	=tus	=to_them	=pro.h:g	=pro	h	g	2032	
 cypgreek	minaes	0123	#	#	##ds	##ds				
 cypgreek	minaes	0123	o	oh	other	other				
 cypgreek	minaes	0123	kalos	well	other	other				
@@ -1758,20 +1756,20 @@ cypgreek	minaes	0123	os	till	adp	adp
 cypgreek	minaes	0123	dha	here	other:g	other		g	2031	
 cypgreek	minaes	0124	#	#	##ds	##ds				
 cypgreek	minaes	0124	0	0_you	0.2:s	0	2	s	2002	
-cypgreek	minaes	0124	epinases	was.hungry-2SG	v:pred	v		pred		
+cypgreek	minaes	0124	epinases	was_hungry-2SG	v:pred	v		pred		
 cypgreek	minaes	0125	#	#	##ds	##ds				
 cypgreek	minaes	0125	0	0_I	0.1:s	0	1	s	2002	
-cypgreek	minaes	0125	pino	be.hungry-1SG	v:pred	v		pred		
+cypgreek	minaes	0125	pino	be_hungry-1SG	v:pred	v		pred		
 cypgreek	minaes	0125	#	#	#ds.neg	#ds.neg				
 cypgreek	minaes	0125	kalo	what	other	other				
 cypgreek	minaes	0125	0	0_I	0.1:s	0	1	s	2002	
 cypgreek	minaes	0125	n	not	other	other				
-cypgreek	minaes	0125	pino	be.hungry-1SG	v:pred	v		pred		
+cypgreek	minaes	0125	pino	be_hungry-1SG	v:pred	v		pred		
 cypgreek	minaes	0126	#	#	##ds	##ds				
 cypgreek	minaes	0126	e	so	other	other				
 cypgreek	minaes	0126	0	0_they	0.h:a	0	h	a	2032	
 cypgreek	minaes	0126	eokan	gave-3PL	v:pred	v		pred		
-cypgreek	minaes	0126	=mu	=to.me	=pro.1:g	=pro	1	g	2002	
+cypgreek	minaes	0126	=mu	=to_me	=pro.1:g	=pro	1	g	2002	
 cypgreek	minaes	0126	misin	half	ln	ln				
 cypgreek	minaes	0126	pittan	pie	np:p	np		p	2033	
 cypgreek	minaes	0126	je	and	other	other				
@@ -1783,7 +1781,7 @@ cypgreek	minaes	0127	0	0_I	0.1:a	0	1	a	2002
 cypgreek	minaes	0127	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0127	=ta	=them	=pro:p	=pro		p	2035	
 cypgreek	minaes	0127	pao	take-1SG	v:pred	v		pred		
-cypgreek	minaes	0127	ton	to.the	ln	ln				
+cypgreek	minaes	0127	ton	to_the	ln	ln				
 cypgreek	minaes	0127	moron	children	np.h:g	np	h	g	2003	
 cypgreek	minaes	0127	mu	my	rn_pro.1:poss	rn_pro	1	poss	2002	
 cypgreek	minaes	0128	#	#	##ds	##ds				
@@ -1813,7 +1811,7 @@ cypgreek	minaes	0131	pai	goes-3SG	v:pred	v		pred
 cypgreek	minaes	0131	o	the	ln	ln				
 cypgreek	minaes	0131	ghronos	year	np.d:s	np	d	s		
 cypgreek	minaes	0132	#	#	##ds	##ds				
-cypgreek	minaes	0132	kalo	of.course	other	other				
+cypgreek	minaes	0132	kalo	of_course	other	other				
 cypgreek	minaes	0132	polla	very	other	other				
 cypgreek	minaes	0132	kali	good	other	other				
 cypgreek	minaes	0133	#	#	#nc	#nc				
@@ -1825,15 +1823,15 @@ cypgreek	minaes	0133	je	NC	nc	nc
 cypgreek	minaes	0133	i	NC	nc	nc				
 cypgreek	minaes	0133	dhodheka	NC	nc	nc				
 cypgreek	minaes	0134	#	#	##ds	##ds				
-cypgreek	minaes	0134	kalo	of.course	other	other				
+cypgreek	minaes	0134	kalo	of_course	other	other				
 cypgreek	minaes	0134	0	0_they	0.d:s	0	d	s	2088	
-cypgreek	minaes	0134	aresan	be.liked-3PL	v:pred	v		pred		
-cypgreek	minaes	0134	=mu	=to.me	=pro.1:obl	=pro	1	obl	2002	
+cypgreek	minaes	0134	aresan	be_liked-3PL	v:pred	v		pred		
+cypgreek	minaes	0134	=mu	=to_me	=pro.1:obl	=pro	1	obl	2002	
 cypgreek	minaes	0135	#	#	##ds	##ds				
 cypgreek	minaes	0135	j	and	other	other				
 cypgreek	minaes	0135	0	0_they	0.h:a	0	h	a	2032	
 cypgreek	minaes	0135	edhokan	gave-3PL	v:pred	v		pred		
-cypgreek	minaes	0135	=mu	=to.me	=pro.1:g	=pro	1	g	2002	
+cypgreek	minaes	0135	=mu	=to_me	=pro.1:g	=pro	1	g	2002	
 cypgreek	minaes	0135	mian	a.F	ln	ln				
 cypgreek	minaes	0135	ambustan	box	np:p	np		p	2054	
 cypgreek	minaes	0135	lires	pounds	np:obl	np		obl		
@@ -1852,7 +1850,7 @@ cypgreek	minaes	0135	0	0_I	0.1:s	0	1	s	2002
 cypgreek	minaes	0135	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0135	men	not	other	other				
 cypgreek	minaes	0135	erkume	come-1SG	v:pred	v		pred		
-cypgreek	minaes	0135	sto	to.the	ln	ln				
+cypgreek	minaes	0135	sto	to_the	ln	ln				
 cypgreek	minaes	0135	spitin	house	np:g	np		g	2097	
 cypgreek	minaes	0135	su	your	rn_pro.2:poss	rn_pro	2	poss	2001	
 cypgreek	minaes	0135	#	#	#ds	#ds				
@@ -1867,7 +1865,7 @@ cypgreek	minaes	0135	#	#	#ds	#ds
 cypgreek	minaes	0135	0	0_I	0.1:s	0	1	s	2002	
 cypgreek	minaes	0135	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0135	dhulefko	work-1SG	v:pred	v		pred		
-cypgreek	minaes	0135	nistijin	not.having.eaten	other	other				
+cypgreek	minaes	0135	nistijin	not_having_eaten	other	other				
 cypgreek	minaes	0135	je	and	other	other				
 cypgreek	minaes	0135	lierin	sleek	other	other				
 cypgreek	minaes	0135	#	#	#nc	#nc				
@@ -1878,16 +1876,15 @@ cypgreek	minaes	0135	mu	I.W.GEN	nc	nc
 cypgreek	minaes	0135	allaxu	allah	nc	nc				
 cypgreek	minaes	0135	nakkon	little	nc	nc				
 cypgreek	minaes	0135	ghrutan	ghruta	nc	nc				
-cypgreek	minaes	0135	0	0_you	nc	nc				
 cypgreek	minaes	0135	ekopses	cut-2SG	nc	nc				
 cypgreek	minaes	0135	tin	she.W.ACC	nc	nc				
 cypgreek	minaes	0135	je	and	nc	nc				
-cypgreek	minaes	0135	jinin	that.one.F.ACC	nc	nc				
+cypgreek	minaes	0135	jinin	that_one.F.ACC	nc	nc				
 cypgreek	minaes	0136	#	#	#nc	#nc				
 cypgreek	minaes	0136	dhoksa	glory	nc	nc				
-cypgreek	minaes	0136	=si	=to.you	nc	nc				
+cypgreek	minaes	0136	=si	=to_you	nc	nc				
 cypgreek	minaes	0136	o	the	nc	nc				
-cypgreek	minaes	0136	Theos	God	nc	nc				
+cypgreek	minaes	0136	theos	god	nc	nc				
 cypgreek	minaes	0136	anniksen	opened-3SG	nc	nc				
 cypgreek	minaes	0136	to	the	nc	nc				
 cypgreek	minaes	0136	kkismettin	fate	nc	nc				
@@ -1910,10 +1907,10 @@ cypgreek	minaes	0138	lamne	go-2SG	imp_v:pred	imp_v		pred
 cypgreek	minaes	0139	#	#	##	##				
 cypgreek	minaes	0139	tin	the	ln	ln				
 cypgreek	minaes	0139	nixtan	night	np:other	np		other	2063	unused
-cypgreek	minaes	0139	oson	as.much	other	other				
+cypgreek	minaes	0139	oson	as_much	other	other				
 cypgreek	minaes	0139	j	and	other	other				
 cypgreek	minaes	0139	0	0_it	0:s	0		s		
-cypgreek	minaes	0139	enixtosen	night.fell-3SG	v:pred	v		pred		
+cypgreek	minaes	0139	enixtosen	night_fell-3SG	v:pred	v		pred		
 cypgreek	minaes	0139	#	#	#	#				
 cypgreek	minaes	0139	0	0_she	0.h:a	0	h	a	2001	
 cypgreek	minaes	0139	epk'aen	took-3SG	v:pred	v		pred		
@@ -1926,11 +1923,11 @@ cypgreek	minaes	0139	#	#	#	#
 cypgreek	minaes	0139	ivren	found-3SG	v:pred	v		pred		
 cypgreek	minaes	0139	=tus	=them	=pro.h:p	=pro	h	p	2032	
 cypgreek	minaes	0139	je	too	other	other				
-cypgreek	minaes	0139	jini	that.one	dem_pro.h:a	dem_pro	h	a	2032	
+cypgreek	minaes	0139	jini	that_one	dem_pro.h:a	dem_pro	h	a	2001	
 cypgreek	minaes	0139	tus	the.PL	ln	ln				
 cypgreek	minaes	0139	minaes	months	np.h:dt_p	np	h	dt_p	2032	
 cypgreek	minaes	0140	#	#	##ds	##ds				
-cypgreek	minaes	0140	kalispera	good.evening	other	other				
+cypgreek	minaes	0140	kalispera	good_evening	other	other				
 cypgreek	minaes	0140	pethk'a	children	np.h:voc	np	h	voc	2032	
 cypgreek	minaes	0141	#	#	##ds	##ds				
 cypgreek	minaes	0141	o	ah	other	other				
@@ -1942,21 +1939,21 @@ cypgreek	minaes	0142	os	until	adp	adp
 cypgreek	minaes	0142	dha	here	other:g	other		g	2031	
 cypgreek	minaes	0142	#	#	#ds	#ds				
 cypgreek	minaes	0142	0	0_you	0.2:s	0	2	s	2001	
-cypgreek	minaes	0142	pinas	be.hungry-2SG	v:pred	v		pred		
+cypgreek	minaes	0142	pinas	be_hungry-2SG	v:pred	v		pred		
 cypgreek	minaes	0143	#	#	##ds.neg	##ds.neg				
 cypgreek	minaes	0143	oi	no	other	other				
 cypgreek	minaes	0143	dhoksa	glory	nc	nc				
-cypgreek	minaes	0143	=si	=to.you	nc	nc				
+cypgreek	minaes	0143	=si	=to_you	nc	nc				
 cypgreek	minaes	0143	o	the	nc	nc				
-cypgreek	minaes	0143	Theos	God	nc	nc				
+cypgreek	minaes	0143	theos	god	nc	nc				
 cypgreek	minaes	0143	0	0_I	0.1:s	0	1	s	2001	
 cypgreek	minaes	0143	en	not	other	other				
-cypgreek	minaes	0143	pino	be.hungry-1SG	v:pred	v		pred		
+cypgreek	minaes	0143	pino	be_hungry-1SG	v:pred	v		pred		
 cypgreek	minaes	0144	#	#	##ds	##ds				
 cypgreek	minaes	0144	e	so	other	other				
 cypgreek	minaes	0144	kalo	good	other	other				
 cypgreek	minaes	0144	0	0_you	0.2:a	0	2	a	2001	
-cypgreek	minaes	0144	posa	how.many	other	other				
+cypgreek	minaes	0144	posa	how_many	other	other				
 cypgreek	minaes	0144	pethk'a	children	np.h:p	np	h	p	2006	
 cypgreek	minaes	0144	eshis	have-2SG	v:pred	v		pred		
 cypgreek	minaes	0145	#	#	##ds	##ds				
@@ -1965,11 +1962,11 @@ cypgreek	minaes	0146	#	#	##ds	##ds
 cypgreek	minaes	0146	e	so	other	other				
 cypgreek	minaes	0146	o	the	ln	ln				
 cypgreek	minaes	0146	Yennaris	January	np.d:s	np	d	s	2042	
-cypgreek	minaes	0146	aresen	was.liked-3SG	v:pred	v		pred		
-cypgreek	minaes	0146	=su	=to.you	=pro.2:obl	=pro	2	obl	2001	
+cypgreek	minaes	0146	aresen	was_liked-3SG	v:pred	v		pred		
+cypgreek	minaes	0146	=su	=to_you	=pro.2:obl	=pro	2	obl	2001	
 cypgreek	minaes	0147	#	#	##ds	##ds				
 cypgreek	minaes	0147	u	oh	other	other				
-cypgreek	minaes	0147	manulla	little.mother	np.h:voc	np	h	voc		
+cypgreek	minaes	0147	manulla	little_mother	np.h:voc	np	h	voc		
 cypgreek	minaes	0147	mu	my	rn_pro.1:poss	rn_pro	1	poss		
 cypgreek	minaes	0147	je	and	other	other				
 cypgreek	minaes	0147	o	the	ln	ln				
@@ -1984,15 +1981,15 @@ cypgreek	minaes	0148	#	#	##ds.neg	##ds.neg
 cypgreek	minaes	0148	j	and	other	other				
 cypgreek	minaes	0148	0	0_he	0.d:s	0	d	s	2042	
 cypgreek	minaes	0148	en	not	other	other				
-cypgreek	minaes	0148	=s	=to.you	=pro.2:obl	=pro	2	obl	2001	
-cypgreek	minaes	0148	aresen	was.liked-3SG	v:pred	v		pred		
+cypgreek	minaes	0148	=s	=to_you	=pro.2:obl	=pro	2	obl	2001	
+cypgreek	minaes	0148	aresen	was_liked-3SG	v:pred	v		pred		
 cypgreek	minaes	0149	#	#	##ds.neg	##ds.neg				
 cypgreek	minaes	0149	e	oh	other	other				
 cypgreek	minaes	0149	0	0_he	0.d:s	0	d	s	2042	
 cypgreek	minaes	0149	en	not	other	other				
-cypgreek	minaes	0149	=m	=to.me	=pro.1:obl	=pro	1	obl	2001	
-cypgreek	minaes	0149	aresen	was.liked-3SG	v:pred	v		pred		
-cypgreek	minaes	0149	kalo	of.course	other	other				
+cypgreek	minaes	0149	=m	=to_me	=pro.1:obl	=pro	1	obl	2001	
+cypgreek	minaes	0149	aresen	was_liked-3SG	v:pred	v		pred		
+cypgreek	minaes	0149	kalo	of_course	other	other				
 cypgreek	minaes	0150	#	#	##ds	##ds				
 cypgreek	minaes	0150	o	the	ln	ln				
 cypgreek	minaes	0150	Fervaris	February	np.d:other	np	d	other	2045	
@@ -2015,8 +2012,8 @@ cypgreek	minaes	0154	#	#	##ds.neg	##ds.neg
 cypgreek	minaes	0154	a	ah	other	other				
 cypgreek	minaes	0154	oste	so	other	other				
 cypgreek	minaes	0154	en	not	other	other				
-cypgreek	minaes	0154	=su	=to.you	=pro.2:obl	=pro	2	obl	2001	
-cypgreek	minaes	0154	aresen	is.liked-3SG	v:pred	v		pred		
+cypgreek	minaes	0154	=su	=to_you	=pro.2:obl	=pro	2	obl	2001	
+cypgreek	minaes	0154	aresen	is_liked-3SG	v:pred	v		pred		
 cypgreek	minaes	0154	me	either	other	other				
 cypgreek	minaes	0154	o	the	ln	ln				
 cypgreek	minaes	0154	Fervaris	February	np.d:s	np	d	s	2045	
@@ -2052,10 +2049,10 @@ cypgreek	minaes	0156	piran	heat	np:other	np		other	2101	unused
 cypgreek	minaes	0157	#	#	##ds.neg	##ds.neg				
 cypgreek	minaes	0157	a	ah	other	other				
 cypgreek	minaes	0157	en	not	other	other				
-cypgreek	minaes	0157	=su	=to.you	=pro.2:obl	=pro	2	obl	2001	
-cypgreek	minaes	0157	aresen	is.liked-3SG	v:pred	v		pred		
+cypgreek	minaes	0157	=su	=to_you	=pro.2:obl	=pro	2	obl	2001	
+cypgreek	minaes	0157	aresen	is_liked-3SG	v:pred	v		pred		
 cypgreek	minaes	0157	me	either	other	other				
-cypgreek	minaes	0157	jinos	that.one	dem_pro.d:s	dem_pro	d	s	2046	
+cypgreek	minaes	0157	jinos	that_one	dem_pro.d:s	dem_pro	d	s	2046	
 cypgreek	minaes	0158	#	#	##ds.neg	##ds.neg				
 cypgreek	minaes	0158	oi	no	other	other				
 cypgreek	minaes	0159	#	#	##ds	##ds				
@@ -2071,7 +2068,7 @@ cypgreek	minaes	0160	piran	heat	np:other	np		other	2102	unused
 cypgreek	minaes	0160	trexun	run-3PL	v:pred	v		pred		
 cypgreek	minaes	0160	ta	the	ln	ln				
 cypgreek	minaes	0160	ghromata	sweat	np:s	np		s	2103	new
-cypgreek	minaes	0160	pupano	from.on	adp	adp				
+cypgreek	minaes	0160	pupano	from_on	adp	adp				
 cypgreek	minaes	0160	mas	us	pro.1:obl	pro	1	obl		
 cypgreek	minaes	0161	#	#	##ds	##ds				
 cypgreek	minaes	0161	e	so	other	other				
@@ -2079,14 +2076,14 @@ cypgreek	minaes	0161	o	the	ln	ln
 cypgreek	minaes	0161	Mas	May	np.d:other	np	d	other	2073	
 cypgreek	minaes	0162	#	#	##ds	##ds				
 cypgreek	minaes	0162	je	and	other	other				
-cypgreek	minaes	0162	jinos	that.one	dem_pro.d:s	dem_pro	d	s	2073	
+cypgreek	minaes	0162	jinos	that_one	dem_pro.d:s	dem_pro	d	s	2073	
 cypgreek	minaes	0162	ta	the	ln	ln				
 cypgreek	minaes	0162	idhia	same	np:pred	np		pred		
 cypgreek	minaes	0163	#	#	##neg	##neg				
 cypgreek	minaes	0163	telospandon	anyway	other	other				
 cypgreek	minaes	0163	en	not	other	other				
-cypgreek	minaes	0163	=tis	=to.her	=pro.h:obl	=pro	h	obl	2001	
-cypgreek	minaes	0163	aresen	was.liked-3SG	v:pred	v		pred		
+cypgreek	minaes	0163	=tis	=to_her	=pro.h:obl	=pro	h	obl	2001	
+cypgreek	minaes	0163	aresen	was_liked-3SG	v:pred	v		pred		
 cypgreek	minaes	0163	enas	one	ln	ln				
 cypgreek	minaes	0163	minas	month	np.d:s	np	d	s	2104	bridging
 cypgreek	minaes	0164	#	#	##	##				
@@ -2094,7 +2091,7 @@ cypgreek	minaes	0164	malista	ok	other	other
 cypgreek	minaes	0165	#	#	##	##				
 cypgreek	minaes	0165	0	0_they	0.h:a	0	h	a	2032	
 cypgreek	minaes	0165	edhokan	gave-3PL	v:pred	v		pred		
-cypgreek	minaes	0165	=tis	=to.her	=pro.h:g	=pro	h	g	2001	
+cypgreek	minaes	0165	=tis	=to_her	=pro.h:g	=pro	h	g	2001	
 cypgreek	minaes	0165	mian	a.F	ln	ln				
 cypgreek	minaes	0165	ambustan	box	np:p	np		p	2064	new
 cypgreek	minaes	0166	#	#	##ds	##ds				
@@ -2107,8 +2104,8 @@ cypgreek	minaes	0166	0	0_you	0.2:a	0	2	a	2001
 cypgreek	minaes	0166	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0166	0	0_it	0:p	0		p	2064	
 cypgreek	minaes	0166	valis	put-2SG	v:pred	v		pred		
-cypgreek	minaes	0166	puka	from.under	adp	adp				
-cypgreek	minaes	0166	sto	to.the	ln	ln				
+cypgreek	minaes	0166	puka	from_under	adp	adp				
+cypgreek	minaes	0166	sto	to_the	ln	ln				
 cypgreek	minaes	0166	maksilarin	pillow	np:g	np		g	2105	bridging
 cypgreek	minaes	0166	su	your	rn_pro.2:poss	rn_pro	2	poss	2001	
 cypgreek	minaes	0166	#	#	#ds.neg	#ds.neg				
@@ -2126,7 +2123,7 @@ cypgreek	minaes	0166	proin	morning	np:other	np		other	2106	unused
 cypgreek	minaes	0166	#	#	#ds.neg	#ds.neg				
 cypgreek	minaes	0166	oi	not	other	other				
 cypgreek	minaes	0166	jimesa	there-in	other	other				
-cypgreek	minaes	0166	pon	that.be-3PL	cop_other	cop_other				
+cypgreek	minaes	0166	pon	that_be-3PL	cop_other	cop_other				
 cypgreek	minaes	0166	to	the	ln	ln				
 cypgreek	minaes	0166	moron	child	np.h:s	np	h	s	2006	
 cypgreek	minaes	0166	su	your	rn_pro.2:poss	rn_pro	2	poss	2001	
@@ -2138,18 +2135,18 @@ cypgreek	minaes	0166	#	#	#ds	#ds
 cypgreek	minaes	0166	0	0_you	0.2:s	0	2	s	2001	
 cypgreek	minaes	0166	na	that.MOD	nonindic	nonindic				
 cypgreek	minaes	0166	pais	go-2SG	v:pred	v		pred		
-cypgreek	minaes	0166	allon	to.other	ln	ln				
+cypgreek	minaes	0166	allon	to_other	ln	ln				
 cypgreek	minaes	0166	spitin	house	np:g	np		g	2108	new
 cypgreek	minaes	0166	#	#	#ds	#ds				
 cypgreek	minaes	0166	je	and	other	other				
 cypgreek	minaes	0166	0	0_you	0.2:s	0	2	s	2001	
 cypgreek	minaes	0166	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0166	vaoxis	close.self-2SG	v:pred	v		pred		
+cypgreek	minaes	0166	vaoxis	close_self-2SG	v:pred	v		pred		
 cypgreek	minaes	0166	#	#	#ds	#ds				
 cypgreek	minaes	0166	je	and	other	other				
 cypgreek	minaes	0166	0	0_you	0.2:s	0	2	s	2001	
 cypgreek	minaes	0166	na	that.MOD	nonindic	nonindic				
-cypgreek	minaes	0166	klioxis	lock.self-2SG	v:pred	v		pred		
+cypgreek	minaes	0166	klioxis	lock_self-2SG	v:pred	v		pred		
 cypgreek	minaes	0166	#	#	#ds	#ds				
 cypgreek	minaes	0166	je	and	other	other				
 cypgreek	minaes	0166	0	0_you	0.2:a	0	2	a	2001	
@@ -2175,11 +2172,11 @@ cypgreek	minaes	0168	to	the	ln	ln
 cypgreek	minaes	0168	proin	morning	np:other	np		other	2065	bridging
 cypgreek	minaes	0168	#	#	#ds	#ds				
 cypgreek	minaes	0168	0	0_she	0.h:s	0	h	s	2001	
-cypgreek	minaes	0168	esikoxiken	got.up-3SG	v:pred	v		pred		
+cypgreek	minaes	0168	esikoxiken	got_up-3SG	v:pred	v		pred		
 cypgreek	minaes	0168	#	#	#ds	#ds				
 cypgreek	minaes	0168	0	0_she	0.h:s	0	h	s	2001	
 cypgreek	minaes	0168	epien	went-3SG	v:pred	v		pred		
-cypgreek	minaes	0168	allon	to.other	ln	ln				
+cypgreek	minaes	0168	allon	to_other	ln	ln				
 cypgreek	minaes	0168	spitin	house	np:g	np		g	2066	bridging
 cypgreek	minaes	0169	#	#	##	##				
 cypgreek	minaes	0169	0	0_she	0.h:a	0	h	a	2001	
@@ -2187,7 +2184,7 @@ cypgreek	minaes	0169	annii	opens-3SG	v:pred	v		pred
 cypgreek	minaes	0169	=tin	=it	=pro:p	=pro		p	2064	
 cypgreek	minaes	0169	kufaes	snakes	np:other	np		other	2067	new
 cypgreek	minaes	0169	therka	monsters	np:other	np		other	2068	new
-cypgreek	minaes	0169	dhropies	coin.snakes	np:other	np		other	2069	new
+cypgreek	minaes	0169	dhropies	coin_snakes	np:other	np		other	2069	new
 cypgreek	minaes	0170	#	#	##	##				
 cypgreek	minaes	0170	amesos	immediately	other	other				
 cypgreek	minaes	0170	0	0_they	0:a	0		a	2070	bridging
@@ -2199,7 +2196,7 @@ cypgreek	minaes	0171	#	#	##	##
 cypgreek	minaes	0171	0	0_I	0.1:a	0	1	a		
 cypgreek	minaes	0171	efika	left-1SG	v:pred	v		pred		
 cypgreek	minaes	0171	=tus	=them	=pro.h:p	=pro	h	p		
-cypgreek	minaes	0171	jinus	that.one	dem_pro.h:dt_p	dem_pro	h	dt_p		
+cypgreek	minaes	0171	jinus	that_one	dem_pro.h:dt_p	dem_pro	h	dt_p		
 cypgreek	minaes	0171	ji	there	other	other				
 cypgreek	minaes	0171	kaka	badly	other	other				
 cypgreek	minaes	0171	#	#	#	#				

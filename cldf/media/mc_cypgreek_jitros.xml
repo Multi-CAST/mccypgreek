@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1905">
+<multicast version="2101">
     <corpus c_name="cypgreek">
         <text t_name="jitros" annotators="Harris Hadjidas, Maria Vollmer" speaker="CG01">
-            <file f_name="mc_cypgreek_jitros" audio="NA" updated="2019-05-08">
+            <file f_name="mc_cypgreek_jitros" audio="NA" updated="2020-09-17">
                 <unit uid="0001" start_time="0" end_time="4000">
                     <utterance_id>cypgreek_jitros_0001</utterance_id>
                     <utterance>Mian foran ishen enan vasilean.</utterance>
@@ -132,7 +132,7 @@
                         </segment>
                         <segment>
                             <gword>skolion</gword>
-                            <gloss>to.school</gloss>
+                            <gloss>to_school</gloss>
                             <graid>np:g</graid>
                         </segment>
                     </annotations>
@@ -192,7 +192,7 @@
                         </segment>
                         <segment>
                             <gword>skolion</gword>
-                            <gloss>to.school</gloss>
+                            <gloss>to_school</gloss>
                             <graid>np:g</graid>
                         </segment>
                     </annotations>
@@ -209,7 +209,7 @@
                         </segment>
                         <segment>
                             <gword>molis</gword>
-                            <gloss>as.soon.as</gloss>
+                            <gloss>as_soon_as</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -274,12 +274,12 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>patera</gword>
                             <gloss>father</gloss>
-                            <graid>np:poss</graid>
+                            <graid>rn_np:poss</graid>
                             <refind>1001</refind>
                         </segment>
                         <segment>
@@ -382,7 +382,7 @@
                         </segment>
                         <segment>
                             <gword>sto</gword>
-                            <gloss>to.the</gloss>
+                            <gloss>to_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -433,7 +433,7 @@
                         </segment>
                         <segment>
                             <gword>anu</gword>
-                            <gloss>get.up-2SG</gloss>
+                            <gloss>get_up-2SG</gloss>
                             <graid>imp_v:pred</graid>
                         </segment>
                         <segment>
@@ -465,7 +465,7 @@
                         </segment>
                         <segment>
                             <gword>=su</gword>
-                            <gloss>=to.you</gloss>
+                            <gloss>=to_you</gloss>
                             <graid>=pro.2:g</graid>
                             <refind>1002</refind>
                         </segment>
@@ -689,7 +689,7 @@
                         </segment>
                         <segment>
                             <gword>=tu</gword>
-                            <gloss>=to.him</gloss>
+                            <gloss>=to_him</gloss>
                             <graid>=pro.h:g</graid>
                             <refind>1002</refind>
                         </segment>
@@ -801,7 +801,7 @@
                         </segment>
                         <segment>
                             <gword>=tu</gword>
-                            <gloss>=to.him</gloss>
+                            <gloss>=to_him</gloss>
                             <graid>=pro.h:g</graid>
                             <refind>1002</refind>
                         </segment>
@@ -901,7 +901,7 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>##</graid>
+                            <graid>##neg</graid>
                         </segment>
                         <segment>
                             <gword>je</gword>
@@ -947,9 +947,9 @@
                             <refind>1004</refind>
                         </segment>
                         <segment>
-                            <gword>#</gword>
-                            <gloss>#</gloss>
-                            <graid>#neg</graid>
+                            <gword>%</gword>
+                            <gloss>%</gloss>
+                            <graid>%</graid>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -1069,7 +1069,7 @@
                         </segment>
                         <segment>
                             <gword>potte</gword>
-                            <gloss>no.way</gloss>
+                            <gloss>no_way</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -1162,7 +1162,7 @@
                         </segment>
                         <segment>
                             <gword>=mu</gword>
-                            <gloss>=to.me</gloss>
+                            <gloss>=to_me</gloss>
                             <graid>=pro.1:g</graid>
                             <refind>1004</refind>
                         </segment>
@@ -1220,7 +1220,7 @@
                         </segment>
                         <segment>
                             <gword>poni</gword>
-                            <gloss>has.pain.in-3SG</gloss>
+                            <gloss>has_pain_in-3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -1316,7 +1316,7 @@
                 <unit uid="0018" start_time="68000" end_time="72000">
                     <utterance_id>cypgreek_jitros_0018</utterance_id>
                     <utterance>Epien i vasilissa.</utterance>
-                    <utterance_translation>The Queen went.</utterance_translation>
+                    <utterance_translation>The queen went.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1403,7 +1403,7 @@
                         </segment>
                         <segment>
                             <gword>=mas</gword>
-                            <gloss>=to.us</gloss>
+                            <gloss>=to_us</gloss>
                             <graid>=pro.1:p</graid>
                             <refind>1057</refind>
                             <isnref>bridging</isnref>
@@ -1464,7 +1464,7 @@
                         </segment>
                         <segment>
                             <gword>=su</gword>
-                            <gloss>=to.you</gloss>
+                            <gloss>=to_you</gloss>
                             <graid>=pro.2:g</graid>
                             <refind>1002</refind>
                         </segment>
@@ -1500,7 +1500,7 @@
                         <segment>
                             <gword>mamma</gword>
                             <gloss>mother</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                             <refind>1012</refind>
                         </segment>
                         <segment>
@@ -1538,7 +1538,7 @@
                         </segment>
                         <segment>
                             <gword>kalo</gword>
-                            <gloss>what.then</gloss>
+                            <gloss>what_then</gloss>
                             <graid>other</graid>
                         </segment>
                     </annotations>
@@ -1611,7 +1611,7 @@
                         </segment>
                         <segment>
                             <gword>anu</gword>
-                            <gloss>get.up-2SG</gloss>
+                            <gloss>get_up-2SG</gloss>
                             <graid>imp_v:pred</graid>
                         </segment>
                         <segment>
@@ -1709,7 +1709,7 @@
                         </segment>
                         <segment>
                             <gword>marazefki</gword>
-                            <gloss>is.sad-3SG</gloss>
+                            <gloss>is_sad-3SG</gloss>
                             <graid>cop</graid>
                         </segment>
                     </annotations>
@@ -1736,7 +1736,7 @@
                         </segment>
                         <segment>
                             <gword>jinos</gword>
-                            <gloss>that.one.M</gloss>
+                            <gloss>that_one.M</gloss>
                             <graid>dem_pro:s</graid>
                             <refind>1001</refind>
                         </segment>
@@ -1754,7 +1754,7 @@
                         </segment>
                         <segment>
                             <gword>potte</gword>
-                            <gloss>no.way</gloss>
+                            <gloss>no_way</gloss>
                             <graid>other:s</graid>
                         </segment>
                         <segment>
@@ -1807,7 +1807,7 @@
                         </segment>
                         <segment>
                             <gword>sto</gword>
-                            <gloss>to.the</gloss>
+                            <gloss>to_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -1818,12 +1818,12 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>pedhk'u</gword>
                             <gloss>child</gloss>
-                            <graid>np:poss</graid>
+                            <graid>rn_np:poss</graid>
                             <refind>1002</refind>
                         </segment>
                         <segment>
@@ -1852,7 +1852,7 @@
                         </segment>
                         <segment>
                             <gword>anu</gword>
-                            <gloss>get.up-2SG</gloss>
+                            <gloss>get_up-2SG</gloss>
                             <graid>imp_v:pred</graid>
                         </segment>
                         <segment>
@@ -1926,7 +1926,7 @@
                 <unit uid="0030" start_time="116000" end_time="120000">
                     <utterance_id>cypgreek_jitros_0030</utterance_id>
                     <utterance>Epien i vasilissa.</utterance>
-                    <utterance_translation>The Queen went.</utterance_translation>
+                    <utterance_translation>The queen went.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1979,7 +1979,7 @@
                         <segment>
                             <gword>vasilissa</gword>
                             <gloss>queen</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                             <refind>1012</refind>
                         </segment>
                         <segment>
@@ -2048,7 +2048,7 @@
                 <unit uid="0033" start_time="128000" end_time="132000">
                     <utterance_id>cypgreek_jitros_0033</utterance_id>
                     <utterance>Eo milo tu na pai jinos je dhen pai.</utterance>
-                    <utterance_translation>I'm telling him to go himself, but he does not go</utterance_translation>
+                    <utterance_translation>I'm telling him to go himself, but he does not go.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2068,7 +2068,7 @@
                         </segment>
                         <segment>
                             <gword>=tu</gword>
-                            <gloss>=to.him</gloss>
+                            <gloss>=to_him</gloss>
                             <graid>=pro.h:g</graid>
                             <refind>1002</refind>
                         </segment>
@@ -2089,7 +2089,7 @@
                         </segment>
                         <segment>
                             <gword>jinos</gword>
-                            <gloss>that.one.M</gloss>
+                            <gloss>that_one.M</gloss>
                             <graid>dem_pro.h:s</graid>
                             <refind>1002</refind>
                         </segment>
@@ -2160,7 +2160,7 @@
                         </segment>
                         <segment>
                             <gword>poni</gword>
-                            <gloss>has.pain.in-3SG</gloss>
+                            <gloss>has_pain_in-3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -2231,7 +2231,7 @@
                         </segment>
                         <segment>
                             <gword>=tu</gword>
-                            <gloss>=to.him</gloss>
+                            <gloss>=to_him</gloss>
                             <graid>=pro.h:g</graid>
                             <refind>1002</refind>
                         </segment>
@@ -2298,7 +2298,7 @@
                         </segment>
                         <segment>
                             <gword>=mu</gword>
-                            <gloss>=to.me</gloss>
+                            <gloss>=to_me</gloss>
                             <graid>=pro.1:g</graid>
                             <refind>1001</refind>
                         </segment>
@@ -2312,7 +2312,7 @@
                 <unit uid="0036" start_time="140000" end_time="144000">
                     <utterance_id>cypgreek_jitros_0036</utterance_id>
                     <utterance>Ise arostos, na su fero yatron, j eminan ta faya su jame je xoris ta j en trois!</utterance>
-                    <utterance_translation>Are you sick, should I get you a doctor? - and what's more your food has been left there and you look at it but you don't eat it.</utterance_translation>
+                    <utterance_translation>Are you sick, should I get you a doctor? And what's more your food has been left there and you look at it but you don't eat it.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2353,7 +2353,7 @@
                         </segment>
                         <segment>
                             <gword>=su</gword>
-                            <gloss>=to.you</gloss>
+                            <gloss>=to_you</gloss>
                             <graid>=pro.2:g</graid>
                             <refind>1002</refind>
                         </segment>
@@ -2429,7 +2429,7 @@
                         </segment>
                         <segment>
                             <gword>=ta</gword>
-                            <gloss>=to.them</gloss>
+                            <gloss>=to_them</gloss>
                             <graid>=pro.h:p</graid>
                             <refind>1060</refind>
                         </segment>
@@ -2521,7 +2521,7 @@
                         </segment>
                         <segment>
                             <gword>mu</gword>
-                            <gloss>to.me</gloss>
+                            <gloss>to_me</gloss>
                             <graid>=pro.1:obl</graid>
                             <refind>1001</refind>
                         </segment>
@@ -2544,7 +2544,7 @@
                         </segment>
                         <segment>
                             <gword>malista</gword>
-                            <gloss>yes.indeed</gloss>
+                            <gloss>yes_indeed</gloss>
                             <graid>other</graid>
                         </segment>
                     </annotations>
@@ -2607,12 +2607,12 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>vasilea</gword>
                             <gloss>king</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_np.h:poss</graid>
                             <refind>1062</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -2639,7 +2639,7 @@
                         </segment>
                         <segment>
                             <gword>=tu</gword>
-                            <gloss>=to.him</gloss>
+                            <gloss>=to_him</gloss>
                             <graid>=pro.h:obl</graid>
                             <refind>1061</refind>
                         </segment>
@@ -2803,7 +2803,7 @@
                         </segment>
                         <segment>
                             <gword>=me</gword>
-                            <gloss>=to.me</gloss>
+                            <gloss>=to_me</gloss>
                             <graid>=pro.1:p</graid>
                             <refind>1002</refind>
                         </segment>
@@ -2857,7 +2857,7 @@
                         </segment>
                         <segment>
                             <gword>=su</gword>
-                            <gloss>=to.you</gloss>
+                            <gloss>=to_you</gloss>
                             <graid>=pro.2:obl</graid>
                             <refind>1002</refind>
                         </segment>
@@ -3143,23 +3143,23 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>yu</gword>
                             <gloss>son</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_np.h:poss</graid>
                             <refind>1002</refind>
                         </segment>
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>vasilea</gword>
                             <gloss>king</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_np.h:poss</graid>
                             <refind>1001</refind>
                         </segment>
                         <segment>
@@ -3281,7 +3281,7 @@
                         </segment>
                         <segment>
                             <gword>jindin</gword>
-                            <gloss>that.the</gloss>
+                            <gloss>that_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -3348,7 +3348,7 @@
                         </segment>
                         <segment>
                             <gword>kojakarin</gword>
-                            <gloss>old.woman</gloss>
+                            <gloss>old_woman</gloss>
                             <graid>np.h:s</graid>
                             <refind>1028</refind>
                             <isnref>new</isnref>
@@ -3430,7 +3430,7 @@
                         </segment>
                         <segment>
                             <gword>stin</gword>
-                            <gloss>to.the</gloss>
+                            <gloss>to_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -3498,23 +3498,23 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>yu</gword>
                             <gloss>son</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_np.h:poss</graid>
                             <refind>1002</refind>
                         </segment>
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>vasilea</gword>
                             <gloss>king</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_np.h:poss</graid>
                             <refind>1001</refind>
                         </segment>
                         <segment>
@@ -3540,7 +3540,7 @@
                         </segment>
                         <segment>
                             <gword>=tis</gword>
-                            <gloss>=to.her</gloss>
+                            <gloss>=to_her</gloss>
                             <graid>=pro.h:obl</graid>
                             <refind>1028</refind>
                         </segment>
@@ -3657,7 +3657,7 @@
                         </segment>
                         <segment>
                             <gword>=mu</gword>
-                            <gloss>=to.me</gloss>
+                            <gloss>=to_me</gloss>
                             <graid>=pro.1:obl</graid>
                             <refind>1028</refind>
                         </segment>
@@ -3743,7 +3743,7 @@
                         </segment>
                         <segment>
                             <gword>esso</gword>
-                            <gloss>to.home</gloss>
+                            <gloss>to_home</gloss>
                             <graid>np:g</graid>
                             <refind>1069</refind>
                             <isnref>bridging</isnref>
@@ -3759,7 +3759,7 @@
                 <unit uid="0047" start_time="184000" end_time="188000">
                     <utterance_id>cypgreek_jitros_0047</utterance_id>
                     <utterance>Pu na shis tes efjes mu je na paris tin korin tu Jitru tu Jitromilu.</utterance>
-                    <utterance_translation>May you have my blessing and marry the daughter of Jitros - Jitromilos</utterance_translation>
+                    <utterance_translation>May you have my blessing and marry the daughter of Jitros-Jitromilos.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3844,29 +3844,29 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitru</gword>
                             <gloss>Jitros</gloss>
-                            <graid>np:poss</graid>
+                            <graid>rn_pn_np:poss</graid>
                         </segment>
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitromilu</gword>
                             <gloss>Jitromilos</gloss>
-                            <graid>np:poss</graid>
+                            <graid>rn_pn_np:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
                 <unit uid="0048" start_time="188000" end_time="192000">
                     <utterance_id>cypgreek_jitros_0048</utterance_id>
                     <utterance>A, amesos to kopellin exelen tin kopellan jinin tu Jitrou tu Jitromilou.</utterance>
-                    <utterance_translation>Immediately the young man wanted that girl (the daughter) of Jitros - Jitromilos.</utterance_translation>
+                    <utterance_translation>Immediately the young man wanted that girl (the daughter) of Jitros-Jitromilos.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3890,7 +3890,7 @@
                         </segment>
                         <segment>
                             <gword>kopellin</gword>
-                            <gloss>young.man</gloss>
+                            <gloss>young_man</gloss>
                             <graid>np.h:a</graid>
                             <refind>1002</refind>
                         </segment>
@@ -3919,22 +3919,22 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitrou</gword>
                             <gloss>Jitros</gloss>
-                            <graid>np:poss</graid>
+                            <graid>rn_pn_np:poss</graid>
                         </segment>
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitromilou</gword>
                             <gloss>Jitromilos</gloss>
-                            <graid>np:poss</graid>
+                            <graid>rn_pn_np:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -3982,7 +3982,7 @@
                         </segment>
                         <segment>
                             <gword>=tu</gword>
-                            <gloss>=to.him</gloss>
+                            <gloss>=to_him</gloss>
                             <graid>=pro.h:g</graid>
                             <refind>1002</refind>
                         </segment>
@@ -4170,7 +4170,7 @@
                         <segment>
                             <gword>Vasilissa</gword>
                             <gloss>Queen</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>pn_np.h:voc</graid>
                             <refind>1012</refind>
                         </segment>
                         <segment>
@@ -4343,7 +4343,7 @@
                         </segment>
                         <segment>
                             <gword>=ton</gword>
-                            <gloss>=to.him</gloss>
+                            <gloss>=to_him</gloss>
                             <graid>=pro.h:p</graid>
                             <refind>1002</refind>
                         </segment>
@@ -4556,7 +4556,7 @@
                         </segment>
                         <segment>
                             <gword>=se</gword>
-                            <gloss>=to.you</gloss>
+                            <gloss>=to_you</gloss>
                             <graid>=pro.2:p</graid>
                             <refind>1002</refind>
                         </segment>
@@ -4633,7 +4633,7 @@
                         </segment>
                         <segment>
                             <gword>kalo</gword>
-                            <gloss>what.then</gloss>
+                            <gloss>what_then</gloss>
                             <graid>other</graid>
                         </segment>
                     </annotations>
@@ -4753,7 +4753,7 @@
                         </segment>
                         <segment>
                             <gword>jinos</gword>
-                            <gloss>that.one.M</gloss>
+                            <gloss>that_one.M</gloss>
                             <graid>dem_pro.h:s</graid>
                             <refind>1001</refind>
                         </segment>
@@ -4762,7 +4762,7 @@
                 <unit uid="0060" start_time="236000" end_time="240000">
                     <utterance_id>cypgreek_jitros_0060</utterance_id>
                     <utterance>E, je ye mu dhen en andropi na rti o jiris su sta podk'a su, vasileas pu vrexete.</utterance>
-                    <utterance_translation>But my son isn't it a shame if your father comes to you, seeing that he is a King</utterance_translation>
+                    <utterance_translation>But my son isn't it a shame if your father comes to you, seeing that he is a king.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -4845,7 +4845,7 @@
                         </segment>
                         <segment>
                             <gword>sta</gword>
-                            <gloss>to.the</gloss>
+                            <gloss>to_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -4888,7 +4888,7 @@
                         </segment>
                         <segment>
                             <gword>vrexete</gword>
-                            <gloss>is.found-3SG</gloss>
+                            <gloss>is_found-3SG</gloss>
                             <graid>cop</graid>
                         </segment>
                     </annotations>
@@ -4934,7 +4934,7 @@
                 <unit uid="0062" start_time="244000" end_time="248000">
                     <utterance_id>cypgreek_jitros_0062</utterance_id>
                     <utterance>Epien i vasilissa kato, lali tu</utterance>
-                    <utterance_translation>The Queen went down and told him.</utterance_translation>
+                    <utterance_translation>The queen went down and told him.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -4980,7 +4980,7 @@
                         </segment>
                         <segment>
                             <gword>=tu</gword>
-                            <gloss>=to.him</gloss>
+                            <gloss>=to_him</gloss>
                             <graid>=pro.h:g</graid>
                             <refind>1001</refind>
                         </segment>
@@ -4989,7 +4989,7 @@
                 <unit uid="0063" start_time="248000" end_time="252000">
                     <utterance_id>cypgreek_jitros_0063</utterance_id>
                     <utterance>En erkete.</utterance>
-                    <utterance_translation>He's not coming</utterance_translation>
+                    <utterance_translation>He's not coming.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -5103,7 +5103,7 @@
                         </segment>
                         <segment>
                             <gword>sioura</gword>
-                            <gloss>for.sure</gloss>
+                            <gloss>for_sure</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -5113,7 +5113,7 @@
                         </segment>
                         <segment>
                             <gword>ya</gword>
-                            <gloss>in.order</gloss>
+                            <gloss>in_order</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -5129,7 +5129,7 @@
                         </segment>
                         <segment>
                             <gword>angristi</gword>
-                            <gloss>gets.angry-3SG</gloss>
+                            <gloss>gets_angry-3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -5334,7 +5334,7 @@
                         </segment>
                         <segment>
                             <gword>ponis</gword>
-                            <gloss>have.pain.in-2SG</gloss>
+                            <gloss>have_pain_in-2SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -5380,7 +5380,7 @@
                         </segment>
                         <segment>
                             <gword>=mas</gword>
-                            <gloss>=to.us</gloss>
+                            <gloss>=to_us</gloss>
                             <graid>=pro.1:g</graid>
                             <refind>1057</refind>
                         </segment>
@@ -5434,7 +5434,7 @@
                 <unit uid="0070" start_time="276000" end_time="280000">
                     <utterance_id>cypgreek_jitros_0070</utterance_id>
                     <utterance>Nda eyoni ime thapano tha je esira to milon mu je eppesen pa se mias kojakaris to kuzin tis j etripisen to to milon mu je ipen "eshe tes efjes mu, ye mu, pu mo tripises to kuzin mu je indalis enna ferno yo neron, pu na shis tin efjin mu je na paris tin korin tu Jitru tu Jitromilu", je ejo xelo tin korin tu Jitru tu Jitromilu!</utterance>
-                    <utterance_translation>Ok I'm up here and I threw my apple and it fell on the pot of an old woman and it bore a hole through it and she said "may you have my blessing my son, that you bore a hole through my pot and how will I carry water now, may you have my blessing and marry the daughter of Jitros-Jitromilos, and I want the daughter of Jitros-Jitromilos</utterance_translation>
+                    <utterance_translation>Okay, I'm up here and I threw my apple and it fell on the pot of an old woman and it bore a hole through it and she said, May you have my blessing my son, that you bore a hole through my pot and how will I carry water now, may you have my blessing and marry the daughter of Jitros-Jitromilos, and I want the daughter of Jitros-Jitromilos.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -5459,7 +5459,7 @@
                         </segment>
                         <segment>
                             <gword>thapano</gword>
-                            <gloss>up.here</gloss>
+                            <gloss>up_here</gloss>
                             <graid>other:pred</graid>
                         </segment>
                         <segment>
@@ -5543,8 +5543,8 @@
                         </segment>
                         <segment>
                             <gword>kojakaris</gword>
-                            <gloss>old.woman</gloss>
-                            <graid>np.h:poss</graid>
+                            <gloss>old_woman</gloss>
+                            <graid>ln_np.h:poss</graid>
                             <refind>1028</refind>
                         </segment>
                         <segment>
@@ -5679,7 +5679,7 @@
                         </segment>
                         <segment>
                             <gword>mo</gword>
-                            <gloss>to.me</gloss>
+                            <gloss>to_me</gloss>
                             <graid>=pro.1:obl</graid>
                             <refind>1028</refind>
                         </segment>
@@ -5823,22 +5823,22 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>of</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitru</gword>
                             <gloss>Jitros</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>tu</gword>
                             <gloss>of</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitromilu</gword>
                             <gloss>Jitromilos</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -5875,22 +5875,22 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>of</gloss>
-                            <graid>rn_pro.h:poss</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitru</gword>
                             <gloss>Jitros</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>tu</gword>
                             <gloss>of</gloss>
-                            <graid>rn_pro.h:poss</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitromilu</gword>
                             <gloss>Jitromil</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_pn_np:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -5926,7 +5926,7 @@
                         </segment>
                         <segment>
                             <gword>tuti</gword>
-                            <gloss>this.one.F</gloss>
+                            <gloss>this_one.F</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -5936,7 +5936,7 @@
                         </segment>
                         <segment>
                             <gword>kojakari</gword>
-                            <gloss>old.woman</gloss>
+                            <gloss>old_woman</gloss>
                             <graid>np.h:s</graid>
                             <refind>1028</refind>
                         </segment>
@@ -5985,7 +5985,7 @@
                         </segment>
                         <segment>
                             <gword>=mas</gword>
-                            <gloss>=to.us</gloss>
+                            <gloss>=to_us</gloss>
                             <graid>=pro.1:p</graid>
                             <refind>1057</refind>
                         </segment>
@@ -6023,22 +6023,22 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>of</gloss>
-                            <graid>adp</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitru</gword>
                             <gloss>Jitros</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>tu</gword>
                             <gloss>of</gloss>
-                            <graid>adp</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitromilu</gword>
                             <gloss>Jitromilos</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -6137,7 +6137,7 @@
                         </segment>
                         <segment>
                             <gword>kojakari</gword>
-                            <gloss>old.woman</gloss>
+                            <gloss>old_woman</gloss>
                             <graid>np.h:other</graid>
                             <refind>1028</refind>
                         </segment>
@@ -6164,7 +6164,7 @@
                         </segment>
                         <segment>
                             <gword>ston</gword>
-                            <gloss>to.the</gloss>
+                            <gloss>to_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -6229,7 +6229,7 @@
                         </segment>
                         <segment>
                             <gword>kojakari</gword>
-                            <gloss>old.woman</gloss>
+                            <gloss>old_woman</gloss>
                             <graid>np.h:s</graid>
                             <refind>1028</refind>
                         </segment>
@@ -6290,7 +6290,7 @@
                 <unit uid="0076" start_time="300000" end_time="304000">
                     <utterance_id>cypgreek_jitros_0076</utterance_id>
                     <utterance>Eyo ime pu mu tripisen to kuzin mu.</utterance>
-                    <utterance_translation>It is I, to whose pot he bore a hole in.</utterance_translation>
+                    <utterance_translation>It is I into whose pot he bored a hole.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -6326,7 +6326,7 @@
                         </segment>
                         <segment>
                             <gword>=mu</gword>
-                            <gloss>=to.me</gloss>
+                            <gloss>=to_me</gloss>
                             <graid>=pro.1:obl</graid>
                             <refind>1028</refind>
                         </segment>
@@ -6380,7 +6380,7 @@
                 <unit uid="0078" start_time="308000" end_time="312000">
                     <utterance_id>cypgreek_jitros_0078</utterance_id>
                     <utterance>Malista!</utterance>
-                    <utterance_translation>Yes</utterance_translation>
+                    <utterance_translation>Yes.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -6421,7 +6421,7 @@
                         </segment>
                         <segment>
                             <gword>tuti</gword>
-                            <gloss>this.one.F</gloss>
+                            <gloss>this_one.F</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -6438,22 +6438,22 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitru</gword>
                             <gloss>Jitros</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitromilu</gword>
                             <gloss>Jitromilos</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -6672,7 +6672,7 @@
                         </segment>
                         <segment>
                             <gword>jindin</gword>
-                            <gloss>that.the</gloss>
+                            <gloss>that_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -6698,7 +6698,7 @@
                         </segment>
                         <segment>
                             <gword>jitromilian</gword>
-                            <gloss>bitter.orange.tree</gloss>
+                            <gloss>bitter_orange_tree</gloss>
                             <graid>np:p</graid>
                             <refind>1076</refind>
                             <isnref>new</isnref>
@@ -6772,12 +6772,12 @@
                         </segment>
                         <segment>
                             <gword>jindin</gword>
-                            <gloss>that.the</gloss>
+                            <gloss>that_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
                             <gword>jitromilian</gword>
-                            <gloss>bitter.orange.tree</gloss>
+                            <gloss>bitter_orange_tree</gloss>
                             <graid>np:g</graid>
                             <refind>1076</refind>
                         </segment>
@@ -7024,7 +7024,7 @@
                         </segment>
                         <segment>
                             <gword>fii</gword>
-                            <gloss>goes.away-3SG</gloss>
+                            <gloss>goes_away-3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -7071,7 +7071,7 @@
                         </segment>
                         <segment>
                             <gword>rufa</gword>
-                            <gloss>sucks.in-3SG</gloss>
+                            <gloss>sucks_in-3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -7353,7 +7353,7 @@
                         </segment>
                         <segment>
                             <gword>=su</gword>
-                            <gloss>=to.you</gloss>
+                            <gloss>=to_you</gloss>
                             <graid>=pro.2:g</graid>
                             <refind>1002</refind>
                         </segment>
@@ -7462,7 +7462,7 @@
                         </segment>
                         <segment>
                             <gword>=tis</gword>
-                            <gloss>=to.her</gloss>
+                            <gloss>=to_her</gloss>
                             <graid>=pro.h:g</graid>
                             <refind>1082</refind>
                         </segment>
@@ -7538,7 +7538,7 @@
                         </segment>
                         <segment>
                             <gword>allis</gword>
-                            <gloss>other.one.F</gloss>
+                            <gloss>other_one.F</gloss>
                             <graid>dem_pro:p</graid>
                             <refind>1084</refind>
                             <isnref>bridging</isnref>
@@ -7572,7 +7572,7 @@
                         </segment>
                         <segment>
                             <gword>allis</gword>
-                            <gloss>other.one.F</gloss>
+                            <gloss>other_one.F</gloss>
                             <graid>dem_pro:p</graid>
                             <refind>1085</refind>
                             <isnref>bridging</isnref>
@@ -7650,7 +7650,7 @@
                         </segment>
                         <segment>
                             <gword>ya</gword>
-                            <gloss>so.that</gloss>
+                            <gloss>so_that</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -7725,7 +7725,7 @@
                         </segment>
                         <segment>
                             <gword>kopellin</gword>
-                            <gloss>young.man</gloss>
+                            <gloss>young_man</gloss>
                             <graid>np.h:a</graid>
                             <refind>1002</refind>
                         </segment>
@@ -8106,7 +8106,6 @@
                             <gword>0</gword>
                             <gloss>0_it</gloss>
                             <graid>0:a</graid>
-                            <refind>1042</refind>
                         </segment>
                         <segment>
                             <gword>shi</gword>
@@ -8217,7 +8216,7 @@
                         </segment>
                         <segment>
                             <gword>mian</gword>
-                            <gloss>a.F</gloss>
+                            <gloss>one.F</gloss>
                             <graid>num_np:p</graid>
                             <refind>1044</refind>
                             <isnref>bridging</isnref>
@@ -8283,7 +8282,7 @@
                         </segment>
                         <segment>
                             <gword>enj</gword>
-                            <gloss>not.that</gloss>
+                            <gloss>not_that</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -8338,7 +8337,7 @@
                         </segment>
                         <segment>
                             <gword>alli</gword>
-                            <gloss>other.one.F</gloss>
+                            <gloss>other_one.F</gloss>
                             <graid>num_np:p</graid>
                             <refind>1044</refind>
                         </segment>
@@ -8470,7 +8469,7 @@
                         </segment>
                         <segment>
                             <gword>jini</gword>
-                            <gloss>that.one.F</gloss>
+                            <gloss>that_one.F</gloss>
                             <graid>num_np:p</graid>
                             <refind>1046</refind>
                         </segment>
@@ -8570,7 +8569,7 @@
                         </segment>
                         <segment>
                             <gword>=tis</gword>
-                            <gloss>=to.it</gloss>
+                            <gloss>=to_it</gloss>
                             <graid>=pro.h:l</graid>
                             <refind>1048</refind>
                         </segment>
@@ -8640,7 +8639,7 @@
                         </segment>
                         <segment>
                             <gword>=tu</gword>
-                            <gloss>=to.him</gloss>
+                            <gloss>=to_him</gloss>
                             <graid>=pro.h:g</graid>
                             <refind>1002</refind>
                         </segment>
@@ -8680,7 +8679,7 @@
                         </segment>
                         <segment>
                             <gword>stin</gword>
-                            <gloss>to.the</gloss>
+                            <gloss>to_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -8696,7 +8695,7 @@
                         </segment>
                         <segment>
                             <gword>evkin</gword>
-                            <gloss>came.out-3SG</gloss>
+                            <gloss>came_out-3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -8790,7 +8789,7 @@
                         </segment>
                         <segment>
                             <gword>pisokapulla</gword>
-                            <gloss>back.of.horse</gloss>
+                            <gloss>back_of_horse</gloss>
                             <graid>np:p</graid>
                             <refind>1052</refind>
                             <isnref>bridging</isnref>
@@ -8808,7 +8807,7 @@
                         </segment>
                         <segment>
                             <gword>st</gword>
-                            <gloss>to.the</gloss>
+                            <gloss>to_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -8851,7 +8850,7 @@
                         </segment>
                         <segment>
                             <gword>ston</gword>
-                            <gloss>to.the</gloss>
+                            <gloss>to_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -8914,18 +8913,18 @@
                         </segment>
                         <segment>
                             <gword>pisokapulla</gword>
-                            <gloss>back.of.horse</gloss>
+                            <gloss>back_of_horse</gloss>
                             <graid>other</graid>
                             <refind>1052</refind>
                         </segment>
                         <segment>
                             <gword>pupa</gword>
-                            <gloss>on.top</gloss>
+                            <gloss>on_top</gloss>
                             <graid>adp</graid>
                         </segment>
                         <segment>
                             <gword>st</gword>
-                            <gloss>to.the</gloss>
+                            <gloss>to_the</gloss>
                             <graid>ln</graid>
                         </segment>
                         <segment>
@@ -9136,7 +9135,7 @@
                         </segment>
                         <segment>
                             <gword>=tis</gword>
-                            <gloss>=to.her</gloss>
+                            <gloss>=to_her</gloss>
                             <graid>=pro.h:obl</graid>
                             <refind>1031</refind>
                         </segment>
@@ -9187,7 +9186,7 @@
                         </segment>
                         <segment>
                             <gword>=tis</gword>
-                            <gloss>=to.her</gloss>
+                            <gloss>=to_her</gloss>
                             <graid>=pro.h:obl</graid>
                             <refind>1031</refind>
                         </segment>
@@ -9242,7 +9241,7 @@
                         </segment>
                         <segment>
                             <gword>nan</gword>
-                            <gloss>to.be-3SG</gloss>
+                            <gloss>to_be-3SG</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -9325,7 +9324,7 @@
                         </segment>
                         <segment>
                             <gword>=tis</gword>
-                            <gloss>=to.her</gloss>
+                            <gloss>=to_her</gloss>
                             <graid>=pro.h:obl</graid>
                             <refind>1031</refind>
                         </segment>
@@ -9450,22 +9449,22 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitru</gword>
                             <gloss>Jitros</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>tu</gword>
                             <gloss>the</gloss>
-                            <graid>ln</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>Jitromilu</gword>
                             <gloss>Jitromilos</gloss>
-                            <graid>np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -9496,7 +9495,7 @@
                         </segment>
                         <segment>
                             <gword>jinus</gword>
-                            <gloss>that.one.M</gloss>
+                            <gloss>that_one.M</gloss>
                             <graid>dem_pro:dt_p</graid>
                         </segment>
                         <segment>

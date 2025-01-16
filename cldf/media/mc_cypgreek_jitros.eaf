@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-05-08T10:40:19+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2020-09-17T04:09:16+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d822f546-1aab-4a03-a453-b5dad898f645</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">30034</PROPERTY>
@@ -2159,7 +2159,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a24554" ANNOTATION_REF="a24295" PREVIOUS_ANNOTATION="a24553">
-                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9641,7 +9641,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26050" ANNOTATION_REF="a24416">
-                <ANNOTATION_VALUE>to.school</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_school</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9691,7 +9691,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26060" ANNOTATION_REF="a24426">
-                <ANNOTATION_VALUE>to.school</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_school</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9701,7 +9701,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26062" ANNOTATION_REF="a24428">
-                <ANNOTATION_VALUE>as.soon.as</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>as_soon_as</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9856,7 +9856,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26093" ANNOTATION_REF="a24459">
-                <ANNOTATION_VALUE>to.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9896,7 +9896,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26101" ANNOTATION_REF="a24467">
-                <ANNOTATION_VALUE>get.up-2SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>get_up-2SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9926,7 +9926,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26107" ANNOTATION_REF="a24473">
-                <ANNOTATION_VALUE>=to.you</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_you</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10111,7 +10111,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26144" ANNOTATION_REF="a24510">
-                <ANNOTATION_VALUE>=to.him</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_him</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10201,7 +10201,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26162" ANNOTATION_REF="a24528">
-                <ANNOTATION_VALUE>=to.him</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_him</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10331,7 +10331,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26188" ANNOTATION_REF="a24554">
-                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10431,7 +10431,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26208" ANNOTATION_REF="a24574">
-                <ANNOTATION_VALUE>no.way</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>no_way</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10511,7 +10511,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26224" ANNOTATION_REF="a24590">
-                <ANNOTATION_VALUE>=to.me</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_me</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10566,7 +10566,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26235" ANNOTATION_REF="a24601">
-                <ANNOTATION_VALUE>has.pain.in-3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>has_pain_in-3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10716,7 +10716,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26265" ANNOTATION_REF="a24631">
-                <ANNOTATION_VALUE>=to.us</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_us</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10766,7 +10766,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26275" ANNOTATION_REF="a24641">
-                <ANNOTATION_VALUE>=to.you</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_you</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10821,7 +10821,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26286" ANNOTATION_REF="a24652">
-                <ANNOTATION_VALUE>what.then</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>what_then</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10871,7 +10871,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26296" ANNOTATION_REF="a24662">
-                <ANNOTATION_VALUE>get.up-2SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>get_up-2SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10961,7 +10961,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26314" ANNOTATION_REF="a24680">
-                <ANNOTATION_VALUE>is.sad-3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>is_sad-3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10981,7 +10981,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26318" ANNOTATION_REF="a24684">
-                <ANNOTATION_VALUE>that.one.M</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that_one.M</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10991,7 +10991,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26320" ANNOTATION_REF="a24686">
-                <ANNOTATION_VALUE>no.way</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>no_way</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11041,7 +11041,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26330" ANNOTATION_REF="a24696">
-                <ANNOTATION_VALUE>to.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11076,7 +11076,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26337" ANNOTATION_REF="a24703">
-                <ANNOTATION_VALUE>get.up-2SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>get_up-2SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11246,7 +11246,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26371" ANNOTATION_REF="a24737">
-                <ANNOTATION_VALUE>=to.him</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_him</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11266,7 +11266,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26375" ANNOTATION_REF="a24741">
-                <ANNOTATION_VALUE>that.one.M</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that_one.M</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11326,7 +11326,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26387" ANNOTATION_REF="a24753">
-                <ANNOTATION_VALUE>has.pain.in-3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>has_pain_in-3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11391,7 +11391,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26400" ANNOTATION_REF="a24766">
-                <ANNOTATION_VALUE>=to.him</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_him</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11446,7 +11446,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26411" ANNOTATION_REF="a24777">
-                <ANNOTATION_VALUE>=to.me</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_me</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11491,7 +11491,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26420" ANNOTATION_REF="a24786">
-                <ANNOTATION_VALUE>=to.you</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_you</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11561,7 +11561,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26434" ANNOTATION_REF="a24800">
-                <ANNOTATION_VALUE>=to.them</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_them</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11641,7 +11641,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26450" ANNOTATION_REF="a24816">
-                <ANNOTATION_VALUE>to.me</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_me</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11656,7 +11656,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26453" ANNOTATION_REF="a24819">
-                <ANNOTATION_VALUE>yes.indeed</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>yes_indeed</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11731,7 +11731,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26468" ANNOTATION_REF="a24834">
-                <ANNOTATION_VALUE>=to.him</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_him</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11876,7 +11876,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26497" ANNOTATION_REF="a24863">
-                <ANNOTATION_VALUE>=to.me</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_me</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11921,7 +11921,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26506" ANNOTATION_REF="a24872">
-                <ANNOTATION_VALUE>=to.you</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_you</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12296,7 +12296,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26581" ANNOTATION_REF="a24947">
-                <ANNOTATION_VALUE>that.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12351,7 +12351,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26592" ANNOTATION_REF="a24958">
-                <ANNOTATION_VALUE>old.woman</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>old_woman</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12426,7 +12426,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26607" ANNOTATION_REF="a24973">
-                <ANNOTATION_VALUE>to.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12521,7 +12521,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26626" ANNOTATION_REF="a24992">
-                <ANNOTATION_VALUE>=to.her</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_her</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12621,7 +12621,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26646" ANNOTATION_REF="a25012">
-                <ANNOTATION_VALUE>=to.me</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_me</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12701,7 +12701,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26662" ANNOTATION_REF="a25028">
-                <ANNOTATION_VALUE>to.home</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_home</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12826,7 +12826,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26687" ANNOTATION_REF="a25053">
-                <ANNOTATION_VALUE>young.man</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>young_man</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12906,7 +12906,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26703" ANNOTATION_REF="a25069">
-                <ANNOTATION_VALUE>=to.him</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_him</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13221,7 +13221,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26766" ANNOTATION_REF="a25132">
-                <ANNOTATION_VALUE>=to.him</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_him</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13406,7 +13406,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26803" ANNOTATION_REF="a25169">
-                <ANNOTATION_VALUE>=to.you</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_you</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13466,7 +13466,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26815" ANNOTATION_REF="a25181">
-                <ANNOTATION_VALUE>what.then</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>what_then</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13561,7 +13561,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26834" ANNOTATION_REF="a25200">
-                <ANNOTATION_VALUE>that.one.M</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that_one.M</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13641,7 +13641,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26850" ANNOTATION_REF="a25216">
-                <ANNOTATION_VALUE>to.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13681,7 +13681,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26858" ANNOTATION_REF="a25224">
-                <ANNOTATION_VALUE>is.found-3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>is_found-3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13756,7 +13756,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26873" ANNOTATION_REF="a25239">
-                <ANNOTATION_VALUE>=to.him</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_him</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13846,7 +13846,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26891" ANNOTATION_REF="a25257">
-                <ANNOTATION_VALUE>for.sure</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>for_sure</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13856,7 +13856,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26893" ANNOTATION_REF="a25259">
-                <ANNOTATION_VALUE>in.order</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>in_order</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13871,7 +13871,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26896" ANNOTATION_REF="a25262">
-                <ANNOTATION_VALUE>gets.angry-3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>gets_angry-3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14051,7 +14051,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26932" ANNOTATION_REF="a25298">
-                <ANNOTATION_VALUE>have.pain.in-2SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>have_pain_in-2SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14086,7 +14086,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26939" ANNOTATION_REF="a25305">
-                <ANNOTATION_VALUE>=to.us</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_us</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14156,7 +14156,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26953" ANNOTATION_REF="a25319">
-                <ANNOTATION_VALUE>up.here</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>up_here</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14236,7 +14236,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26969" ANNOTATION_REF="a25335">
-                <ANNOTATION_VALUE>old.woman</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>old_woman</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14361,7 +14361,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26994" ANNOTATION_REF="a25360">
-                <ANNOTATION_VALUE>to.me</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_me</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14591,7 +14591,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27040" ANNOTATION_REF="a25406">
-                <ANNOTATION_VALUE>this.one.F</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>this_one.F</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14601,7 +14601,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27042" ANNOTATION_REF="a25408">
-                <ANNOTATION_VALUE>old.woman</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>old_woman</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14646,7 +14646,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27051" ANNOTATION_REF="a25417">
-                <ANNOTATION_VALUE>=to.us</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_us</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14776,7 +14776,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27077" ANNOTATION_REF="a25443">
-                <ANNOTATION_VALUE>old.woman</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>old_woman</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14801,7 +14801,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27082" ANNOTATION_REF="a25448">
-                <ANNOTATION_VALUE>to.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14856,7 +14856,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27093" ANNOTATION_REF="a25459">
-                <ANNOTATION_VALUE>old.woman</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>old_woman</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14931,7 +14931,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27108" ANNOTATION_REF="a25474">
-                <ANNOTATION_VALUE>=to.me</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_me</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15001,7 +15001,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27122" ANNOTATION_REF="a25488">
-                <ANNOTATION_VALUE>this.one.F</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>this_one.F</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15231,7 +15231,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27168" ANNOTATION_REF="a25534">
-                <ANNOTATION_VALUE>that.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15256,7 +15256,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27173" ANNOTATION_REF="a25539">
-                <ANNOTATION_VALUE>bitter.orange.tree</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>bitter_orange_tree</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15326,12 +15326,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27187" ANNOTATION_REF="a25553">
-                <ANNOTATION_VALUE>that.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27188" ANNOTATION_REF="a25554">
-                <ANNOTATION_VALUE>bitter.orange.tree</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>bitter_orange_tree</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15546,7 +15546,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27231" ANNOTATION_REF="a25597">
-                <ANNOTATION_VALUE>goes.away-3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>goes_away-3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15591,7 +15591,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27240" ANNOTATION_REF="a25606">
-                <ANNOTATION_VALUE>sucks.in-3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sucks_in-3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15821,7 +15821,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27286" ANNOTATION_REF="a25652">
-                <ANNOTATION_VALUE>=to.you</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_you</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15916,7 +15916,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27305" ANNOTATION_REF="a25671">
-                <ANNOTATION_VALUE>=to.her</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_her</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15976,7 +15976,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27317" ANNOTATION_REF="a25683">
-                <ANNOTATION_VALUE>other.one.F</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other_one.F</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16001,7 +16001,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27322" ANNOTATION_REF="a25688">
-                <ANNOTATION_VALUE>other.one.F</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other_one.F</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16071,7 +16071,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27336" ANNOTATION_REF="a25702">
-                <ANNOTATION_VALUE>so.that</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>so_that</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16136,7 +16136,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27349" ANNOTATION_REF="a25715">
-                <ANNOTATION_VALUE>young.man</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>young_man</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16556,7 +16556,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27433" ANNOTATION_REF="a25799">
-                <ANNOTATION_VALUE>a.F</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>one.F</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16616,7 +16616,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27445" ANNOTATION_REF="a25811">
-                <ANNOTATION_VALUE>not.that</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>not_that</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16661,7 +16661,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27454" ANNOTATION_REF="a25820">
-                <ANNOTATION_VALUE>other.one.F</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other_one.F</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16771,7 +16771,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27476" ANNOTATION_REF="a25842">
-                <ANNOTATION_VALUE>that.one.F</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that_one.F</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16856,7 +16856,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27493" ANNOTATION_REF="a25859">
-                <ANNOTATION_VALUE>=to.it</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_it</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16911,7 +16911,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27504" ANNOTATION_REF="a25870">
-                <ANNOTATION_VALUE>=to.him</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_him</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16941,7 +16941,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27510" ANNOTATION_REF="a25876">
-                <ANNOTATION_VALUE>to.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16956,7 +16956,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27513" ANNOTATION_REF="a25879">
-                <ANNOTATION_VALUE>came.out-3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>came_out-3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17041,7 +17041,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27530" ANNOTATION_REF="a25896">
-                <ANNOTATION_VALUE>back.of.horse</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>back_of_horse</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17056,7 +17056,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27533" ANNOTATION_REF="a25899">
-                <ANNOTATION_VALUE>to.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17096,7 +17096,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27541" ANNOTATION_REF="a25907">
-                <ANNOTATION_VALUE>to.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17141,17 +17141,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27550" ANNOTATION_REF="a25916">
-                <ANNOTATION_VALUE>back.of.horse</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>back_of_horse</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27551" ANNOTATION_REF="a25917">
-                <ANNOTATION_VALUE>on.top</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>on_top</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27552" ANNOTATION_REF="a25918">
-                <ANNOTATION_VALUE>to.the</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_the</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17321,7 +17321,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27586" ANNOTATION_REF="a25952">
-                <ANNOTATION_VALUE>=to.her</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_her</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17366,7 +17366,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27595" ANNOTATION_REF="a25961">
-                <ANNOTATION_VALUE>=to.her</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_her</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17416,7 +17416,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27605" ANNOTATION_REF="a25971">
-                <ANNOTATION_VALUE>to.be-3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to_be-3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17491,7 +17491,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27620" ANNOTATION_REF="a25986">
-                <ANNOTATION_VALUE>=to.her</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=to_her</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17636,7 +17636,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27649" ANNOTATION_REF="a26015">
-                <ANNOTATION_VALUE>that.one.M</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that_one.M</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17933,12 +17933,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27708" ANNOTATION_REF="a26074">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27709" ANNOTATION_REF="a26075">
-                <ANNOTATION_VALUE>np:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18458,7 +18458,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27813" ANNOTATION_REF="a26179">
-                <ANNOTATION_VALUE>##</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>##neg</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18503,7 +18503,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27822" ANNOTATION_REF="a26188">
-                <ANNOTATION_VALUE>#neg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18963,7 +18963,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27914" ANNOTATION_REF="a26280">
-                <ANNOTATION_VALUE>np.h:voc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:voc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19223,12 +19223,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27966" ANNOTATION_REF="a26332">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27967" ANNOTATION_REF="a26333">
-                <ANNOTATION_VALUE>np:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19348,7 +19348,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27991" ANNOTATION_REF="a26357">
-                <ANNOTATION_VALUE>np.h:voc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:voc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19873,12 +19873,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28096" ANNOTATION_REF="a26462">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28097" ANNOTATION_REF="a26463">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20338,22 +20338,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28189" ANNOTATION_REF="a26555">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28190" ANNOTATION_REF="a26556">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28191" ANNOTATION_REF="a26557">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28192" ANNOTATION_REF="a26558">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20653,22 +20653,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28252" ANNOTATION_REF="a26618">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28253" ANNOTATION_REF="a26619">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28254" ANNOTATION_REF="a26620">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28255" ANNOTATION_REF="a26621">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20958,22 +20958,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28313" ANNOTATION_REF="a26679">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28314" ANNOTATION_REF="a26680">
-                <ANNOTATION_VALUE>np:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28315" ANNOTATION_REF="a26681">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28316" ANNOTATION_REF="a26682">
-                <ANNOTATION_VALUE>np:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21023,22 +21023,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28326" ANNOTATION_REF="a26692">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28327" ANNOTATION_REF="a26693">
-                <ANNOTATION_VALUE>np:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28328" ANNOTATION_REF="a26694">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28329" ANNOTATION_REF="a26695">
-                <ANNOTATION_VALUE>np:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21243,7 +21243,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28370" ANNOTATION_REF="a26736">
-                <ANNOTATION_VALUE>np.h:voc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:voc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22408,7 +22408,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28603" ANNOTATION_REF="a26969">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22668,22 +22668,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28655" ANNOTATION_REF="a27021">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28656" ANNOTATION_REF="a27022">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28657" ANNOTATION_REF="a27023">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28658" ANNOTATION_REF="a27024">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22718,22 +22718,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28665" ANNOTATION_REF="a27031">
-                <ANNOTATION_VALUE>rn_pro.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28666" ANNOTATION_REF="a27032">
-                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28667" ANNOTATION_REF="a27033">
-                <ANNOTATION_VALUE>rn_pro.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28668" ANNOTATION_REF="a27034">
-                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22853,22 +22853,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28692" ANNOTATION_REF="a27058">
-                <ANNOTATION_VALUE>adp</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28693" ANNOTATION_REF="a27059">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28694" ANNOTATION_REF="a27060">
-                <ANNOTATION_VALUE>adp</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28695" ANNOTATION_REF="a27061">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23188,22 +23188,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28759" ANNOTATION_REF="a27125">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28760" ANNOTATION_REF="a27126">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28761" ANNOTATION_REF="a27127">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28762" ANNOTATION_REF="a27128">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25768,22 +25768,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29275" ANNOTATION_REF="a27641">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29276" ANNOTATION_REF="a27642">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29277" ANNOTATION_REF="a27643">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29278" ANNOTATION_REF="a27644">
-                <ANNOTATION_VALUE>np.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_pn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -28084,11 +28084,6 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a29745" ANNOTATION_REF="a29047">
-                <ANNOTATION_VALUE>1042</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29746" ANNOTATION_REF="a29051">
                 <ANNOTATION_VALUE>1042</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -29009,7 +29004,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29937" ANNOTATION_REF="a24300">
-                <ANNOTATION_VALUE>The Queen went.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>The queen went.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29069,7 +29064,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29949" ANNOTATION_REF="a24312">
-                <ANNOTATION_VALUE>The Queen went.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>The queen went.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29084,7 +29079,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29952" ANNOTATION_REF="a24315">
-                <ANNOTATION_VALUE>I'm telling him to go himself, but he does not go</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>I'm telling him to go himself, but he does not go.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29099,7 +29094,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29955" ANNOTATION_REF="a24318">
-                <ANNOTATION_VALUE>Are you sick, should I get you a doctor? - and what's more your food has been left there and you look at it but you don't eat it.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Are you sick, should I get you a doctor? And what's more your food has been left there and you look at it but you don't eat it.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29154,12 +29149,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29966" ANNOTATION_REF="a24329">
-                <ANNOTATION_VALUE>May you have my blessing and marry the daughter of Jitros - Jitromilos</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>May you have my blessing and marry the daughter of Jitros-Jitromilos.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29967" ANNOTATION_REF="a24330">
-                <ANNOTATION_VALUE>Immediately the young man wanted that girl (the daughter) of Jitros - Jitromilos.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Immediately the young man wanted that girl (the daughter) of Jitros-Jitromilos.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29219,7 +29214,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29979" ANNOTATION_REF="a24342">
-                <ANNOTATION_VALUE>But my son isn't it a shame if your father comes to you, seeing that he is a King</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>But my son isn't it a shame if your father comes to you, seeing that he is a king.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29229,12 +29224,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29981" ANNOTATION_REF="a24344">
-                <ANNOTATION_VALUE>The Queen went down and told him.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>The queen went down and told him.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29982" ANNOTATION_REF="a24345">
-                <ANNOTATION_VALUE>He's not coming</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>He's not coming.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29269,7 +29264,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29989" ANNOTATION_REF="a24352">
-                <ANNOTATION_VALUE>Ok I'm up here and I threw my apple and it fell on the pot of an old woman and it bore a hole through it and she said "may you have my blessing my son, that you bore a hole through my pot and how will I carry water now, may you have my blessing and marry the daughter of Jitros-Jitromilos, and I want the daughter of Jitros-Jitromilos</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Okay, I'm up here and I threw my apple and it fell on the pot of an old woman and it bore a hole through it and she said, May you have my blessing my son, that you bore a hole through my pot and how will I carry water now, may you have my blessing and marry the daughter of Jitros-Jitromilos, and I want the daughter of Jitros-Jitromilos.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29299,7 +29294,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29995" ANNOTATION_REF="a24358">
-                <ANNOTATION_VALUE>It is I, to whose pot he bore a hole in.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>It is I into whose pot he bored a hole.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29309,7 +29304,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29997" ANNOTATION_REF="a24360">
-                <ANNOTATION_VALUE>Yes</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Yes.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
